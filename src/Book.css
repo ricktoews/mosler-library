@@ -1,0 +1,28 @@
+.book {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px 0;
+    display: flex;
+}
+
+.book-cover {
+    margin-right: 20px;
+}
+
+.book-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-author {
+    font-size: larger;
+}
+
+.summary {
+    margin: 10px 0;
+}
+
+.genre {
+    font-size: small;
+}
+

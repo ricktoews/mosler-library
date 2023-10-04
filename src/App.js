@@ -1,25 +1,31 @@
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import Book from './Book';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+    const [books, setBooks] = useState([]);
+
+    useEffect(() => {
+        fetch('/mosler-books.json')
+            .then((res) => res.json())
+            .then((data) => {
+                data.sort((a, b) => {
+                    const titleA = a.Title.replace(/^(the |a |an )/i, '').toLowerCase();
+                    const titleB = b.Title.replace(/^(the |a |an )/i, '').toLowerCase();
+                    return titleA < titleB ? -1 : titleA > titleB ? 1 : 0;
+                });
+                setBooks(data);
+            });
+    }, []);
+
+    return (
+        <div className="App">
+            {books.map((book, index) => (
+                <Book key={index} book={book} />
+            ))}
+        </div>
+    );
+};
 
 export default App;
+
