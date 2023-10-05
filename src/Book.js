@@ -22,7 +22,6 @@ const Book = ({ book }) => {
                     <strong>Genre:</strong> {Genre}<br/>
                     <strong>Location:</strong> {Shelf}<br/>
                     <strong>ISBN:</strong> {ISBN}<br/>
-                    <strong>Cover:</strong> {coverUrl}<br/>
                 </div>
             </div>
         </div>
