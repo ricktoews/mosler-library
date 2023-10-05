@@ -2,16 +2,20 @@
     border: 1px solid black;
     padding: 10px;
     margin: 20px 0;
-    display: flex;
+}
+
+.book-cover-wrapper {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .book-cover {
-    margin-right: 20px;
+    max-width: 100px;
+    height: auto;
 }
 
 .book-info {
-    display: flex;
-    flex-direction: column;
 }
 
 .title-author {
