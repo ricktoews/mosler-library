@@ -12,6 +12,7 @@ const styles = {
   button: {
     width: '40px',
     height: '40px',
+    border: 'none',
     borderRadius: '20px',
     color: 'white',
     display: 'flex',
