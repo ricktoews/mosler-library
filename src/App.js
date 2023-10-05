@@ -93,7 +93,7 @@ function App() {
       </div>
       <div className="fixed-header">
         <header>
-          <Hamburger onClick={toggleMenu} />
+          {/*<Hamburger onClick={toggleMenu} />*/}
           MOSLER LOFTS LIBRARY
         </header>
       </div>
