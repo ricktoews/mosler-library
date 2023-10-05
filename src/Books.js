@@ -12,7 +12,7 @@ const Books = ({ books }) => {
     }, [books]);
 
     const shelfFilter = shelf => {
-        const filtered = books.filter(item => item.Shelf === shelf);
+        const filtered = shelf === 'Library' ? books : books.filter(item => item.Shelf === shelf);
         setLibraryBooks(filtered); 
         setBookLocation(shelf);
     }
@@ -22,7 +22,7 @@ const Books = ({ books }) => {
             <div className="shelf-selector">
                 <ShelfSelector shelfFilter={shelfFilter} />
             </div>
-            <div>
+            <div className="shelf-selector">
                 Location: {bookLocation}; Books in this location: {libraryBooks.length}
             </div>
             {libraryBooks.map((book, index) => (

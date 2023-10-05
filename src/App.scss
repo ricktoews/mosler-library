@@ -57,6 +57,15 @@ h1 {
 
 .shelf-selector {
   display: flex;
+  justify-content: center;
+}
+
+.shelf-on {
+  background-color: green;
+}
+
+.shelf-off {
+  background-color: gray;
 }
 
 .book-list {
