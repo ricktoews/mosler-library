@@ -17,12 +17,14 @@ function App() {
     fetch('/mosler-books.json')
       .then((res) => res.json())
       .then((data) => {
-          data.sort((a, b) => {
-              const titleA = a.Title.replace(/^(the |a |an )/i, '').toLowerCase();
-              const titleB = b.Title.replace(/^(the |a |an )/i, '').toLowerCase();
-              return titleA < titleB ? -1 : titleA > titleB ? 1 : 0;
-          });
+        data.sort((a, b) => {
+          const titleA = a.Title.replace(/^(the |a |an )/i, '').toLowerCase();
+          const titleB = b.Title.replace(/^(the |a |an )/i, '').toLowerCase();
+          return titleA < titleB ? -1 : titleA > titleB ? 1 : 0;
+        });
         setBooks(data);
+        const authors = data.map(item => item.Author);
+        console.log('====> authors', authors);
       });
   }, []);
 

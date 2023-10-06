@@ -20,8 +20,23 @@ const styles = {
     alignItems: 'center',
     fontSize: '0.8em'
   },
-  floorButton: {
+  extras: {
     gridRow: 'span 3',
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'space-between',
+    alignItems: 'center'
+  },
+  cartButton: {
+    color: 'white',
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    fontSize: '0.8em',
+    border: 'none',
+    borderRadius: '5px',
+  },
+  floorButton: {
     color: 'white',
     display: 'flex',
     justifyContent: 'center',
@@ -45,25 +60,29 @@ const ShelfSelector = ({ shelfFilter }) => {
 
     if (clickedLocation === location) {
       setLocation('Library');
-      shelfFilter('Library');    
+      shelfFilter('Library');
     } else {
       setLocation(el.dataset.btn);
-      shelfFilter(el.dataset.btn);    
+      shelfFilter(el.dataset.btn);
     }
   }
 
   const floorClassName = location === 'Floor' ? 'shelf-on' : 'shelf-off';
+  const cartClassName = location === 'Cart' ? 'shelf-on' : 'shelf-off';
   return (
     <div style={styles.grid}>
-      <button style={styles.floorButton} className={floorClassName} data-btn='Floor' onClick={handleShelfButton}>Floor</button>
+      <div className="extras" style={styles.extras}>
+        <button style={styles.button} className={cartClassName} data-btn='Cart' onClick={handleShelfButton}>Cart</button>
+        <button style={styles.button} className={floorClassName} data-btn='Floor' onClick={handleShelfButton}>Floor</button>
+      </div>
       {rows.map(row =>
         cols.map(col => {
           const btnLabel = col + row;
           const className = btnLabel === location ? 'shelf-on' : 'shelf-off';
           return (
-          <button key={btnLabel} data-btn={btnLabel} onClick={handleShelfButton} style={styles.button} className={className}>
-            {btnLabel}
-          </button>
+            <button key={btnLabel} data-btn={btnLabel} onClick={handleShelfButton} style={styles.button} className={className}>
+              {btnLabel}
+            </button>
           );
         })
       )}

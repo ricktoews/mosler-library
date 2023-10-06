@@ -3,8 +3,8 @@ import Book from "./Book";
 import ShelfSelector from "./ShelfSelector";
 
 const Books = ({ books }) => {
-    const [ libraryBooks, setLibraryBooks ] = useState([]);
-    const [ bookLocation, setBookLocation ] = useState('');
+    const [libraryBooks, setLibraryBooks] = useState([]);
+    const [bookLocation, setBookLocation] = useState('');
 
     useEffect(() => {
         setLibraryBooks(books);
@@ -13,7 +13,7 @@ const Books = ({ books }) => {
 
     const shelfFilter = shelf => {
         const filtered = shelf === 'Library' ? books : books.filter(item => item.Shelf === shelf);
-        setLibraryBooks(filtered); 
+        setLibraryBooks(filtered);
         setBookLocation(shelf);
     }
 
