@@ -1,0 +1,57 @@
+.genre-list {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+        a {
+            text-decoration: none;
+            color: black;
+
+            &:hover {
+                color: blue;
+            }
+        }
+
+        .book-list {
+            padding-left: 20px;
+            list-style-type: none;
+            padding: 0;
+
+            .book-item {
+                display: flex;
+                margin-top: 10px;
+                padding: 0;
+
+                .book-thumbnail {
+                    width: auto;
+                    height: 100px;
+                    margin-right: 10px;
+                }
+
+                .book-info {
+                    .title-author {
+                        font-weight: bold;
+                    }
+
+                    .book-shelf::before {
+                        content: 'Shelf: ';
+                        font-weight: bold;
+                    }
+
+                    .book-shelf {
+                        margin-top: 10px;
+                    }
+
+                    .book-isbn::before {
+                        content: 'ISBN: ';
+                        font-weight: bold;
+                    }
+
+                    .book-isbn {
+                        margin-top: 10px;
+                    }
+                }
+            }
+        }
+    }
+}

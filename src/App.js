@@ -4,6 +4,8 @@ import { Routes, Route, Link } from 'react-router-dom';
 import { useEffect, useState, useRef } from 'react';
 import Hamburger from './components/Hamburger';
 import Books from './Books';
+import AuthorList from './AuthorList';
+import GenreList from './GenreList';
 
 function App() {
   const [books, setBooks] = useState([]);
@@ -90,18 +92,22 @@ function App() {
         <nav>
           <ul>
             <li><Link to="/" onClick={toggleMenu}>Books</Link></li>
+            <li><Link to="/authors" onClick={toggleMenu}>Authors</Link></li>
+            <li><Link to="/genres" onClick={toggleMenu}>Genres</Link></li>
           </ul>
         </nav>
       </div>
       <div className="fixed-header">
         <header>
-          {/*<Hamburger onClick={toggleMenu} />*/}
+          <Hamburger onClick={toggleMenu} />
           MOSLER LOFTS LIBRARY
         </header>
       </div>
       <div className="container app-content">
         <Routes>
           <Route path="/" element={<Books books={books} />} />
+          <Route path="/authors" element={<AuthorList books={books} />} />
+          <Route path="/genres" element={<GenreList books={books} />} />
         </Routes>
       </div>
     </div>
