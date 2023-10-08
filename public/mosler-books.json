@@ -182,6 +182,8 @@
     },
     {
         "Title": "A Dog's Purpose",
+        "Floor Category": "Non-Fiction",
+        "Note": "Animals / Pets",
         "Subtitle": "A Novel for Humans",
         "Author": "W. Bruce Cameron",
         "Author (Last, First)": "Cameron, W. Bruce",
@@ -200,11 +202,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.678596973",
         "Google VolumeID": "ESElswEACAAJ",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "Floor"
     },
     {
         "Title": "A Fall of Marigolds",
@@ -534,7 +535,6 @@
     },
     {
         "Title": "A Taste of the Tropics",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "Traditional & Innovative Cooking from the Pacific & Caribbean",
         "Author": "Jay Solomon",
         "Author (Last, First)": "Solomon, Jay",
@@ -552,11 +552,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:27.002681016",
         "Google VolumeID": "wx3xwAEACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "A Thousand Splendid Suns",
@@ -660,7 +659,6 @@
     },
     {
         "Title": "A Walk in the Woods",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "Rediscovering America on the Appalachian Trail",
         "Author": "Bill Bryson",
         "Author (Last, First)": "Bryson, Bill",
@@ -679,11 +677,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:26.980399012",
         "Google VolumeID": "a-8nnowMab0C",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "A Whole New Mind",
@@ -764,7 +761,6 @@
     },
     {
         "Title": "Absolut Book",
-        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "The Absolut Vodka Advertising Story",
         "Author": "Richard W. Lewis",
         "Author (Last, First)": "Lewis, Richard W.",
@@ -782,11 +778,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:26.988952994",
         "Google VolumeID": "DINYAAAAYAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "Across the Nightingale Floor",
@@ -1985,7 +1980,6 @@
     },
     {
         "Title": "Carnes",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "para principiantes y cocineros expertos",
         "Author": "[traducci\u00f3n: Anabel Mart\u00edn]",
         "Author (Last, First)": "Mart\u00edn], [traducci\u00f3n: Anabel",
@@ -2002,12 +1996,11 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:27.004416942",
         "Google VolumeID": "ywx0uAAACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
         "Uploaded Image URL": "https://covers.openlibrary.org/b/id/8321685-L.jpg",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "Case histories",
@@ -2307,7 +2300,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "B1"
     },
     {
         "Title": "Close Calls with Nonsense",
@@ -2338,7 +2331,6 @@
     },
     {
         "Title": "Competing on Thought Leadership",
-        "Floor Category": "Business, Economics, Finance",
         "Author": "Robert Buday",
         "Author (Last, First)": "Buday, Robert",
         "Publisher": "Influential Marketing Group",
@@ -2355,11 +2347,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 22:46:53.429635047",
         "Google VolumeID": "J-ikzgEACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "Confederates in the Attic",
@@ -4039,7 +4030,6 @@
     },
     {
         "Title": "Financial Feminist",
-        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "Overcome the Patriarchy's Bullsh*t to Master Your Money and Build a Life You Love",
         "Author": "Tori Dunlap",
         "Author (Last, First)": "Dunlap, Tori",
@@ -4057,11 +4047,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 22:46:53.410483956",
         "Google VolumeID": "h-b_zgEACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "Flash Boys: A Wall Street Revolt",
@@ -4469,7 +4458,6 @@
     },
     {
         "Title": "Guida ristoranti Riso Gallo",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "The Best Risotti In The World",
         "Author": "Multiple contributors",
         "Author (Last, First)": "contributors, Multiple",
@@ -4490,7 +4478,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "Guiding Lights",
@@ -5105,7 +5093,6 @@
     },
     {
         "Title": "I Know How to Cook",
-        "Floor Category": "Cooking, Food, Travel",
         "Author": "Ginette Mathiot",
         "Author (Last, First)": "Mathiot, Ginette",
         "Publisher": "Phaidon Press",
@@ -5123,11 +5110,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 19:34:42.535110950",
         "Google VolumeID": "MoiKPgAACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "If I Stay",
@@ -5932,7 +5918,6 @@
     },
     {
         "Title": "La cucina ligure",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "i piatti tradizionali e quelli pi\u00f9 attuali di una gastronomia che ha saputo esaltare come poche altre i sapori della sua terra",
         "Author": "Alessandro Molinari Pradelli",
         "Author (Last, First)": "Pradelli, Alessandro Molinari",
@@ -5948,11 +5933,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:26.999483942",
         "Google VolumeID": "XSHLzgEACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "La Donna Detroit",
@@ -7019,7 +7003,8 @@
     },
     {
         "Title": "MUTTS' Shelter Stories",
-        "Floor Category": "Humor, Literary Snack",
+        "Floor Category": "Non-Fiction",
+        "Note": "Animals / Pets",
         "Subtitle": "Love. Guaranteed.",
         "Author": "Patrick McDonnell",
         "Author (Last, First)": "McDonnell, Patrick",
@@ -7380,6 +7365,7 @@
     },
     {
         "Title": "Oceana",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "our endangered oceans and what we can do to save them",
         "Author": "Ted Danson",
         "Author (Last, First)": "Danson, Ted",
@@ -7396,12 +7382,11 @@
         "Status Hidden": "0",
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.695492982",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
         "Uploaded Image URL": "https://covers.openlibrary.org/b/id/6714351-L.jpg",
-        "Shelf": "A2"
+        "Shelf": "Floor"
     },
     {
         "Title": "Olive Kitteridge",
@@ -7837,7 +7822,6 @@
     },
     {
         "Title": "Paris to the Moon",
-        "Floor Category": "Cooking, Food, Travel",
         "Author": "Adam Gopnik",
         "Author (Last, First)": "Gopnik, Adam",
         "Publisher": "Random House",
@@ -7854,11 +7838,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 19:34:42.527794957",
         "Google VolumeID": "Ph5oAAAAMAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "Patrol and Rescue Boats on Puget Sound",
@@ -8037,7 +8020,6 @@
     },
     {
         "Title": "Practical Healthy Eating",
-        "Floor Category": "Cooking, Food, Travel",
         "Author": "No name",
         "Author (Last, First)": "name, No",
         "Publisher": "P3 Publishing",
@@ -8053,11 +8035,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:26.997766017",
         "Google VolumeID": "7vM67z5HQvcC",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "Prague Fatale",
@@ -8822,6 +8803,8 @@
     },
     {
         "Title": "Secret Language of Dogs",
+        "Floor Category": "Non-Fiction",
+        "Note": "Animals / Pets",
         "Subtitle": "the body language of furry bodies",
         "Author": "Heather Dunphy",
         "Author (Last, First)": "Dunphy, Heather",
@@ -8845,7 +8828,7 @@
         "Previously Owned": "0",
         "Up Next": "0",
         "Uploaded Image URL": "https://covers.openlibrary.org/b/id/8315013-L.jpg",
-        "Shelf": "A2"
+        "Shelf": "Floor"
     },
     {
         "Title": "Secrets of the Flesh",
@@ -8926,6 +8909,7 @@
     },
     {
         "Title": "Shark Life",
+        "Note": "Putting this in Nature, so A1",
         "Subtitle": "True Stories about Sharks & the Sea",
         "Author": "Peter Benchley",
         "Author (Last, First)": "Benchley, Peter",
@@ -8948,7 +8932,7 @@
         "Previously Owned": "0",
         "Up Next": "0",
         "Uploaded Image URL": "https://covers.openlibrary.org/b/id/12669279-L.jpg",
-        "Shelf": "A2"
+        "Shelf": "A1"
     },
     {
         "Title": "Sharks Fin and Sichuan Pepper",
@@ -9538,7 +9522,6 @@
     },
     {
         "Title": "Start with Why",
-        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "How Great Leaders Inspire Everyone to Take Action",
         "Author": "Simon Sinek",
         "Author (Last, First)": "Sinek, Simon",
@@ -9557,11 +9540,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:27.014755010",
         "Google VolumeID": "fkOKDQAAQBAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "Stones Into Schools",
@@ -9616,7 +9598,6 @@
     },
     {
         "Title": "Style & Simplicity",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "An A to Z Guide to Living a More Beautiful Life",
         "Author": "Ted Kennedy Watson",
         "Author (Last, First)": "Watson, Ted Kennedy",
@@ -9634,11 +9615,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 20:13:39.900886058",
         "Google VolumeID": "W2fengEACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "Successful Small Business Management",
@@ -9819,6 +9799,7 @@
     },
     {
         "Title": "Ten Arguments for Deleting Your Social Media Accounts Right Now",
+        "Floor Category": "Non-Fiction",
         "Author": "Jaron Lanier",
         "Author (Last, First)": "Lanier, Jaron",
         "Publisher": "Picador",
@@ -9836,11 +9817,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.676211953",
         "Google VolumeID": "alyrvgEACAAJ",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "Floor"
     },
     {
         "Title": "Ten Second Staircase",
@@ -10448,11 +10428,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.693199992",
         "Google VolumeID": "qxTZSFdSz20C",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "A3"
     },
     {
         "Title": "The Bodacious Kid",
@@ -10604,7 +10583,6 @@
     },
     {
         "Title": "The Book of Tapas and Spanish Cooking",
-        "Floor Category": "Cooking, Food, Travel",
         "Author": "Hilaire Walden",
         "Author (Last, First)": "Walden, Hilaire",
         "Publisher": "Salamander",
@@ -10619,11 +10597,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:27.011221051",
         "Google VolumeID": "dE-sAAAACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "The Breach",
@@ -10840,9 +10817,8 @@
         "Status": "Unread",
         "Returned from Borrow": "0",
         "Google VolumeID": "MPntmEiwjTkC",
-        "Category": "Personal",
         "Wish List": "0",
-        "Shelf": "Personal"
+        "Shelf": "PersonalSci"
     },
     {
         "Title": "The Compound",
@@ -10923,7 +10899,6 @@
     },
     {
         "Title": "The Corporate Lattice",
-        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "Achieving High Performance in the Changing World of Work",
         "Author": "Cathleen Benko,Molly Anderson",
         "Author (Last, First)": "Benko, Cathleen",
@@ -10941,11 +10916,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/05 19:53:36.970733046",
         "Google VolumeID": "pqJgswEACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "The Corrosion of Conservatism",
@@ -11754,7 +11728,6 @@
     },
     {
         "Title": "The Higher Taste",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "A Guide to Gourmet Vegetarian Cooking and a Karma-free Diet",
         "Author": "A. C. Bhaktivedanta Swami Prabhup\u0101da",
         "Author (Last, First)": "Prabhup\u0101da, A. C. Bhaktivedanta Swami",
@@ -11772,15 +11745,14 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 19:34:42.511350035",
         "Google VolumeID": "nM3gAAAAMAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "The Horse Encyclopedia",
-        "Author": "Elwyn Hartley Edwards",
+        "Note": "Putting this in Nature, so A1""Author": "Elwyn Hartley Edwards",
         "Author (Last, First)": "Edwards, Elwyn Hartley",
         "Publisher": "National Geographic Books",
         "Date Published": "2016/11/29",
@@ -11801,7 +11773,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "A1"
     },
     {
         "Title": "The Hundred Secret Senses",
@@ -12230,7 +12202,6 @@
     },
     {
         "Title": "The Leadership Challenge",
-        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "How to Make Extraordinary Things Happen in Organizations",
         "Author": "James M. Kouzes,Barry Z. Posner",
         "Author (Last, First)": "Kouzes, James M.",
@@ -12249,15 +12220,13 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 19:34:42.470692038",
         "Google VolumeID": "u-5xDgAAQBAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "The Lexus and the Olive Tree",
-        "Floor Category": "Business, Economics, Finance",
         "Author": "Thomas L. Friedman",
         "Author (Last, First)": "Friedman, Thomas L.",
         "Publisher": "Anchor Books",
@@ -12274,11 +12243,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 22:46:53.412608027",
         "Google VolumeID": "RodRbIhZYO0C",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "The Librarians and the Pot of Gold",
@@ -12407,7 +12375,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "A1"
     },
     {
         "Title": "The Lonely Witness",
@@ -12743,7 +12711,6 @@
     },
     {
         "Title": "The New Cuisine of Hawaii",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "Recipes from the Twelve Celebrated Chefs of Hawaii Regional Cuisine",
         "Author": "Janice Wald Henderson",
         "Author (Last, First)": "Henderson, Janice Wald",
@@ -12761,11 +12728,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:27.000947952",
         "Google VolumeID": "sS_LPQAACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "The New Jim Crow",
@@ -13378,7 +13344,6 @@
     },
     {
         "Title": "The Red Cat Cookbook",
-        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "125 Recipes from New York City's Favorite Neighborhood Restaurant",
         "Author": "Jimmy Bradley,Andrew Friedman",
         "Author (Last, First)": "Bradley, Jimmy",
@@ -13396,11 +13361,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 19:29:26.994127035",
         "Google VolumeID": "Mg5wAAAACAAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "The rest is noise",
@@ -13429,7 +13393,6 @@
     },
     {
         "Title": "The Richest Man in Babylon",
-        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "The Success Secrets of the Ancients--the Most Inspiring Book on Wealth Ever Written",
         "Author": "George S. Clason",
         "Author (Last, First)": "Clason, George S.",
@@ -13448,11 +13411,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/03 20:13:39.897076964",
         "Google VolumeID": "5MeNDwAAQBAJ",
-        "Category": "Floor",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "The Ronin",
@@ -13774,11 +13736,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.683573007",
         "Google VolumeID": "s2QXjwEACAAJ",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "B1"
     },
     {
         "Title": "The sinister pig",
@@ -13906,6 +13867,8 @@
     },
     {
         "Title": "The Soul of All Living Creatures",
+        "Floor Category": "Non-Fiction",
+        "Note": "Animals / Pets",
         "Subtitle": "What Animals Can Teach Us About Being Human",
         "Author": "D.V.M. Vint Virga",
         "Author (Last, First)": "Virga, D.V.M. Vint",
@@ -13924,11 +13887,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.681063055",
         "Google VolumeID": "o8dvDwAAQBAJ",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "Floor"
     },
     {
         "Title": "The Soundtrack of My Life",
@@ -15112,6 +15074,8 @@
     },
     {
         "Title": "Unlikely Friendships",
+        "Floor Category": "Non-Fiction",
+        "Note": "Animals / Pets",
         "Subtitle": "47 Remarkable Stories from the Animal Kingdom",
         "Author": "Jennifer S. Holland",
         "Author (Last, First)": "Holland, Jennifer S.",
@@ -15130,11 +15094,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.702097058",
         "Google VolumeID": "r7tHzc8uwrMC",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "Floor"
     },
     {
         "Title": "Unspoken Feelings of a Gentleman",
@@ -15164,7 +15127,6 @@
     },
     {
         "Title": "Unstoppable",
-        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "Finding Hidden Assets to Renew the Core and Fuel Profitable Growth",
         "Author": "Chris Zook",
         "Author (Last, First)": "Zook, Chris",
@@ -15185,7 +15147,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "wrong-A1"
+        "Shelf": "A2"
     },
     {
         "Title": "Up Island",
@@ -15343,6 +15305,8 @@
     },
     {
         "Title": "Voices in the Ocean",
+        "Floor Category": "Non-Fiction",
+        "Note": "Animals / Pets",
         "Subtitle": "A Journey Into the Wild and Haunting World of Dolphins",
         "Author": "Susan Casey",
         "Author (Last, First)": "Casey, Susan",
@@ -15360,11 +15324,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.699967026",
         "Google VolumeID": "VqK2rQEACAAJ",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "Floor"
     },
     {
         "Title": "Voyage",
@@ -15410,11 +15373,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/04 18:24:43.651718020",
         "Google VolumeID": "7SHQDEIiipkC",
-        "Category": "A2",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A2"
+        "Shelf": "A1"
     },
     {
         "Title": "We",
@@ -15993,5 +15955,74 @@
         "Previously Owned": "0",
         "Up Next": "0",
         "Shelf": "A1"
+    },
+    {
+        "Title": "Student Guide to Asia",
+        "Author": "David Jenkins",
+        "Author (Last, First)": "Jenkins, David",
+        "Publisher": "AUS Student Travel",
+        "Year Published": "1976",
+        "Genre": "Guidebooks",
+        "Number of Pages": "320",
+        "Language": "English",
+        "ISBN": "9780855800444",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2023/10/08 13:36:31.794783949",
+        "Google VolumeID": "9HOyQQAACAAJ",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0",
+        "Shelf": "A2"
+    },
+    {
+        "Title": "The High Himalaya",
+        "Author": "Art Wolfe,Peter Potterfield",
+        "Author (Last, First)": "Wolfe, Art",
+        "Publisher": "Mountaineers Books",
+        "Year Published": "2001",
+        "Genre": "Mountaineering",
+        "Summary": "-- The new book by Art Wolfe, internationally acclaimed nature photographer-- Intimate interviews with world-renowned climbers Ed Viesturs, Doug Scott, and Reinhold Messner-- 160 stunning full-color photographsArt Wolfe has achieved what few photographers have attempted -- capturing the spirit of the entire Himalayan region. This stunning collection of photographs presents not only breathtaking mountain landscapes, but also the flora, fauna, and culture of the highest mountain range in the world. More than 150 photographs -- taken during Wolfe's many travels through Pakistan, India, Nepal, Tibet, and China -- provide us an inside look at the people, architecture, religious icons, plants, and mountain vistas of these countries. With the skill and artistry for which he is renowned, Wolfe brings the Himalaya to life.Complementing his spectacular images are Peter Potterfield's interviews with a select group of world-class climbers. Reinhold Messner, Doug Scott, and Ed Viesturs share their thoughts on the Himalaya as a natural world, a social and cultural world, and a climbers' world. Their personal insights, paired with the diversity of Wolfe's images, set this book apart from all others.Award-winning photographer Art Wolfe is an internationally respected nature photographer. He has published more than forty books, including Photography Outdoors (page 19). A Seattle resident, he travels all over the world to capture his photographs. Wolfe performs many slide shows and lectures of his work each year. In April 2000 Wolfe was awarded the coveted Alfred Eisenstaedt Magazine Photography Award. In 1998 he was named Outstanding Nature Photographer of the Year and was recognized bythe National Audobon Society with the first-ever Rachel Carson award. Peter Potterfield is the author of In the Zone (page 29) and Selected Climbs in the Cascades, Volumes I and II (page 24). Norbu Tenzing Norgay is a world-class climber, the Director of Development for the American Himalayan Foundation in San Francisco, and the son of Tenzing Norgay, who summited Mount Everest with Sir Edmund HIllary in 1953.",
+        "Number of Pages": "160",
+        "Language": "English",
+        "ISBN": "9780898868418",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2023/10/08 13:37:59.270663976",
+        "Google VolumeID": "A3m4wAEACAAJ",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0",
+        "Shelf": "A2"
+    },
+    {
+        "Title": "The Methow Valley",
+        "Subtitle": "Between Home and Heaven",
+        "Author": "Laura Hurwitz",
+        "Author (Last, First)": "Hurwitz, Laura",
+        "Publisher": "Eaglemont Press",
+        "Year Published": "2007",
+        "Genre": "Pictorial works",
+        "Summary": "Washington's remote Methow Valley is a wild and extravagantly beautiful place that cradles an amazing diversity of wildlife, topography and people. Residents refer to this land of sparkling rivers, rugged mountains and dramatic seasons as home, while visitors, who flock to the area's unparalleled hiking, skiing, camping and biking, call it heaven. Professional, stunning photography and fluid, informative text highlight this gorgeous photo essay. For the discriminating adventurer and nature lover in everyone.",
+        "Number of Pages": "88",
+        "Language": "English",
+        "ISBN": "9781600400025",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2023/10/08 13:35:01.770907998",
+        "Google VolumeID": "vqAEtAEACAAJ",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0",
+        "Shelf": "A2"
     }
 ]
