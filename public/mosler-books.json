@@ -1,6 +1,7 @@
 [
     {
         "Title": "Mental Thoughts",
+        "Floor Category": "Humor, Literary Snack",
         "Subtitle": "Life's Thoughthful Thoughts to Think About",
         "Author": "S L Walker Ph. D.",
         "Author (Last, First)": "D., S L Walker Ph.",
@@ -102,6 +103,8 @@
     },
     {
         "Title": "A Civil Action",
+        "Floor Category": "Non-Fiction",
+        "Note": "True Crime",
         "Author": "Jonathan Harr",
         "Author (Last, First)": "Harr, Jonathan",
         "Publisher": "Knopf Doubleday Publishing Group",
@@ -230,6 +233,7 @@
     },
     {
         "Title": "A Fine Balance",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Rohinton Mistry",
         "Author (Last, First)": "Mistry, Rohinton",
@@ -255,6 +259,7 @@
     },
     {
         "Title": "A Fossil-hunter's Notebook",
+        "Floor Category": "Technology, Science",
         "Subtitle": "My Life with Dinosaurs and Other Friends",
         "Author": "Edwin Harris Colbert",
         "Author (Last, First)": "Colbert, Edwin Harris",
@@ -356,6 +361,7 @@
     },
     {
         "Title": "A Natural History of the Senses",
+        "Floor Category": "Technology, Science",
         "Author": "Diane Ackerman",
         "Author (Last, First)": "Ackerman, Diane",
         "Publisher": "Knopf Doubleday Publishing Group",
@@ -407,6 +413,7 @@
     },
     {
         "Title": "A Pug's Tale",
+        "Floor Category": "Fiction",
         "Author": "Alison Pace",
         "Author (Last, First)": "Pace, Alison",
         "Publisher": "National Geographic Books",
@@ -454,6 +461,7 @@
     },
     {
         "Title": "A Reliable Wife",
+        "Floor Category": "Fiction",
         "Author": "Robert Goolrick",
         "Author (Last, First)": "Goolrick, Robert",
         "Publisher": "Algonquin Books",
@@ -493,14 +501,14 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/05 19:59:29.446019053",
         "Google VolumeID": "DycgAAAACAAJ",
-        "Category": "Cart",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Cart"
+        "Shelf": "A1"
     },
     {
         "Title": "A Suitable Vengeance",
+        "Floor Category": "Fiction",
         "Author": "Elizabeth George",
         "Author (Last, First)": "George, Elizabeth",
         "Publisher": "Bantam Books",
@@ -526,6 +534,7 @@
     },
     {
         "Title": "A Taste of the Tropics",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "Traditional & Innovative Cooking from the Pacific & Caribbean",
         "Author": "Jay Solomon",
         "Author (Last, First)": "Solomon, Jay",
@@ -651,6 +660,7 @@
     },
     {
         "Title": "A Walk in the Woods",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "Rediscovering America on the Appalachian Trail",
         "Author": "Bill Bryson",
         "Author (Last, First)": "Bryson, Bill",
@@ -677,6 +687,7 @@
     },
     {
         "Title": "A Whole New Mind",
+        "Floor Category": "Health, Self-Help, Relationships",
         "Subtitle": "Why Right-Brainers Will Rule the Future",
         "Author": "Daniel H. Pink",
         "Author (Last, First)": "Pink, Daniel H.",
@@ -753,6 +764,7 @@
     },
     {
         "Title": "Absolut Book",
+        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "The Absolut Vodka Advertising Story",
         "Author": "Richard W. Lewis",
         "Author (Last, First)": "Lewis, Richard W.",
@@ -778,6 +790,7 @@
     },
     {
         "Title": "Across the Nightingale Floor",
+        "Floor Category": "Fiction",
         "Subtitle": "Tales of the Otori Book One",
         "Author": "Lian Hearn",
         "Author (Last, First)": "Hearn, Lian",
@@ -983,6 +996,8 @@
     },
     {
         "Title": "Amarcord-- Marcella Remembers",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "The Story of a Woman who Started Out to Teach Science in a Small Town in Italy, But Ended Up Teaching America how to Cook Italian",
         "Author": "Marcella Hazan",
         "Author (Last, First)": "Hazan, Marcella",
@@ -1085,6 +1100,7 @@
     },
     {
         "Title": "Among Heroes",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "A U.S. Navy SEAL's True Story of Friendship, Heroism, and the Ultimate Sacrifice",
         "Author": "Brandon Webb,John David Mann",
         "Author (Last, First)": "Webb, Brandon",
@@ -1162,6 +1178,7 @@
     },
     {
         "Title": "An Uncertain Grave",
+        "Floor Category": "Fiction",
         "Author": "Cathy Strasser",
         "Author (Last, First)": "Strasser, Cathy",
         "Publisher": "Oak Tree Publishing",
@@ -1362,6 +1379,7 @@
     },
     {
         "Title": "Ariel",
+        "Floor Category": "Poetry, Literary",
         "Author": "Sylvia Plath",
         "Author (Last, First)": "Plath, Sylvia",
         "Publisher": "HarperPerennial",
@@ -1485,6 +1503,8 @@
     },
     {
         "Title": "Aunt Pig of Puglia",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "Ricordi de la Familia Ferri",
         "Author": "Patricia Catto",
         "Author (Last, First)": "Catto, Patricia",
@@ -1535,6 +1555,8 @@
     },
     {
         "Title": "Becoming Justice Blackmun",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "Harry Blackmun's Supreme Court Journey",
         "Author": "Linda Greenhouse",
         "Author (Last, First)": "Greenhouse, Linda",
@@ -1660,6 +1682,7 @@
     },
     {
         "Title": "Bleachers",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "John Grisham",
         "Author (Last, First)": "Grisham, John",
@@ -1711,6 +1734,7 @@
     },
     {
         "Title": "Bodily harm",
+        "Floor Category": "Fiction",
         "Subtitle": "a novel",
         "Author": "Robert Dugoni",
         "Author (Last, First)": "Dugoni, Robert",
@@ -1834,6 +1858,8 @@
     },
     {
         "Title": "Boy in the Blitz",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "The 1940 Diary of Colin Perry",
         "Author": "Colin Perry",
         "Author (Last, First)": "Perry, Colin",
@@ -1859,6 +1885,7 @@
     },
     {
         "Title": "Brewing in Seattle",
+        "Floor Category": "Non-Fiction",
         "Author": "Kurt Stream",
         "Author (Last, First)": "Stream, Kurt",
         "Publisher": "Arcadia Publishing",
@@ -1958,6 +1985,7 @@
     },
     {
         "Title": "Carnes",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "para principiantes y cocineros expertos",
         "Author": "[traducci\u00f3n: Anabel Mart\u00edn]",
         "Author (Last, First)": "Mart\u00edn], [traducci\u00f3n: Anabel",
@@ -1983,6 +2011,7 @@
     },
     {
         "Title": "Case histories",
+        "Floor Category": "Fiction",
         "Author": "Kate Atkinson",
         "Author (Last, First)": "Atkinson, Kate",
         "Publisher": "Back Bay Books",
@@ -2030,6 +2059,7 @@
     },
     {
         "Title": "Change of Heart",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Jodi Picoult",
         "Author (Last, First)": "Picoult, Jodi",
@@ -2056,6 +2086,7 @@
     },
     {
         "Title": "Changed",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "Autobiography of Tom Cantor",
         "Author": "Tom Cantor",
         "Author (Last, First)": "Cantor, Tom",
@@ -2129,6 +2160,7 @@
     },
     {
         "Title": "Chopin's Heart",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "The Quest to Identify the Mysterious Illness of the World's Most Beloved Composer",
         "Author": "Steven Lagerberg",
         "Author (Last, First)": "Lagerberg, Steven",
@@ -2279,6 +2311,7 @@
     },
     {
         "Title": "Close Calls with Nonsense",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "Reading New Poetry",
         "Author": "Stephen Burt",
         "Author (Last, First)": "Burt, Stephen",
@@ -2305,6 +2338,7 @@
     },
     {
         "Title": "Competing on Thought Leadership",
+        "Floor Category": "Business, Economics, Finance",
         "Author": "Robert Buday",
         "Author (Last, First)": "Buday, Robert",
         "Publisher": "Influential Marketing Group",
@@ -2529,6 +2563,7 @@
     },
     {
         "Title": "D-Day",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "June 6, 1944 -- The Climactic Battle of WWII",
         "Author": "Stephen E. Ambrose",
         "Author (Last, First)": "Ambrose, Stephen E.",
@@ -2683,6 +2718,7 @@
     },
     {
         "Title": "Dead Watch",
+        "Floor Category": "Fiction",
         "Author": "John Sandford",
         "Author (Last, First)": "Sandford, John",
         "Publisher": "G.P. Putnam's Sons",
@@ -2806,6 +2842,8 @@
     },
     {
         "Title": "Death in the Long Grass",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "A Big Game Hunter's Adventures in the African Bush",
         "Author": "Peter Hathaway Capstick",
         "Author (Last, First)": "Capstick, Peter Hathaway",
@@ -2882,6 +2920,7 @@
     },
     {
         "Title": "Demian",
+        "Floor Category": "Fiction",
         "Subtitle": "The Story of Emil Sinclair's Youth",
         "Author": "Hermann Hesse",
         "Author (Last, First)": "Hesse, Hermann",
@@ -2980,6 +3019,7 @@
     },
     {
         "Title": "Devil's Gate",
+        "Floor Category": "Fiction",
         "Author": "Clive Cussler,Graham Brown",
         "Author (Last, First)": "Cussler, Clive",
         "Publisher": "Penguin Publishing Group",
@@ -3005,6 +3045,7 @@
     },
     {
         "Title": "Digital Fortress",
+        "Floor Category": "Fiction",
         "Subtitle": "A Thriller",
         "Author": "Dan Brown",
         "Author (Last, First)": "Brown, Dan",
@@ -3080,6 +3121,27 @@
         "Previously Owned": "0",
         "Up Next": "0",
         "Shelf": "C2"
+    },
+    {
+        "Title": "14th Deadly Sin",
+        "Floor Category": "Fiction",
+        "Author": "James Patterson",
+        "Author (Last, First)": "Patterson, James",
+        "Publisher": "VISION PUBLICATIONS",
+        "Date Published": "2016/01/01",
+        "Year Published": "2016",
+        "ISBN": "9781455597727",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2023/10/07 23:49:54.597398996",
+        "Category": "Floor",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0",
+        "Shelf": "Floor"
     },
     {
         "Title": "Dominic",
@@ -3424,6 +3486,7 @@
     },
     {
         "Title": "Engaged to Die",
+        "Floor Category": "Fiction",
         "Subtitle": "A Death on Demand Mystery",
         "Author": "Carolyn Hart",
         "Author (Last, First)": "Hart, Carolyn",
@@ -3751,6 +3814,7 @@
     },
     {
         "Title": "False Impression",
+        "Floor Category": "Fiction",
         "Author": "Jeffrey Archer",
         "Author (Last, First)": "Archer, Jeffrey",
         "Publisher": "St. Martin's Press",
@@ -3848,6 +3912,7 @@
     },
     {
         "Title": "Field of Prey",
+        "Floor Category": "Fiction",
         "Author": "John Sandford",
         "Author (Last, First)": "Sandford, John",
         "Publisher": "G.P. Putnam's Sons",
@@ -3872,6 +3937,7 @@
     },
     {
         "Title": "Field of Prey",
+        "Floor Category": "Fiction",
         "Author": "John Sandford",
         "Author (Last, First)": "Sandford, John",
         "Publisher": "Simon & Schuster",
@@ -3973,6 +4039,7 @@
     },
     {
         "Title": "Financial Feminist",
+        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "Overcome the Patriarchy's Bullsh*t to Master Your Money and Build a Life You Love",
         "Author": "Tori Dunlap",
         "Author (Last, First)": "Dunlap, Tori",
@@ -4047,7 +4114,9 @@
         "Shelf": "A2"
     },
     {
+        "Wrong Shelf": true,
         "Title": "Fog of Dead Souls",
+        "Floor Category": "Fiction",
         "Subtitle": "A Thriller",
         "Author": "Jill Kelly",
         "Author (Last, First)": "Kelly, Jill",
@@ -4070,7 +4139,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "Food Storage 101",
@@ -4248,6 +4317,7 @@
     },
     {
         "Title": "God Bless You, Dr. Kevorkian",
+        "Floor Category": "Fiction",
         "Author": "Kurt Vonnegut",
         "Author (Last, First)": "Vonnegut, Kurt",
         "Publisher": "Seven Stories Press",
@@ -4298,6 +4368,7 @@
     },
     {
         "Title": "Goodbye Liverpool",
+        "Floor Category": "Fiction",
         "Author": "Maureen Lee",
         "Author (Last, First)": "Lee, Maureen",
         "Publisher": "Orion Publishing Group",
@@ -4398,6 +4469,7 @@
     },
     {
         "Title": "Guida ristoranti Riso Gallo",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "The Best Risotti In The World",
         "Author": "Multiple contributors",
         "Author (Last, First)": "contributors, Multiple",
@@ -4448,6 +4520,7 @@
     },
     {
         "Title": "Guilty",
+        "Floor Category": "Non-Fiction",
         "Author": "Karen Robards",
         "Author (Last, First)": "Robards, Karen",
         "Publisher": "G.P. Putnam's Sons",
@@ -4571,6 +4644,7 @@
     },
     {
         "Title": "Heads in Beds",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "A Reckless Memoir of Hotels, Hustles, and So-called Hospitality",
         "Author": "Jacob Tomsky",
         "Author (Last, First)": "Tomsky, Jacob",
@@ -4622,6 +4696,7 @@
     },
     {
         "Title": "Here on Earth",
+        "Floor Category": "Fiction",
         "Author": "Alice Hoffman",
         "Author (Last, First)": "Hoffman, Alice",
         "Publisher": "Penguin Publishing Group",
@@ -4723,6 +4798,8 @@
     },
     {
         "Title": "Hollywood Park",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "A Memoir",
         "Author": "Mikel Jollett",
         "Author (Last, First)": "Jollett, Mikel",
@@ -4749,6 +4826,7 @@
     },
     {
         "Title": "Hooking Up",
+        "Floor Category": "Poetry, Literary",
         "Author": "Tom Wolfe",
         "Author (Last, First)": "Wolfe, Tom",
         "Publisher": "Picador",
@@ -4773,6 +4851,7 @@
     },
     {
         "Title": "Hornet Flight",
+        "Floor Category": "Fiction",
         "Author": "Ken Follett",
         "Author (Last, First)": "Follett, Ken",
         "Publisher": "Penguin",
@@ -4949,6 +5028,7 @@
     },
     {
         "Title": "I Am America (And So Can You!)",
+        "Floor Category": "Humor, Literary Snack",
         "Author": "Stephen Colbert",
         "Author (Last, First)": "Colbert, Stephen",
         "Publisher": "Grand Central Publishing",
@@ -5025,6 +5105,7 @@
     },
     {
         "Title": "I Know How to Cook",
+        "Floor Category": "Cooking, Food, Travel",
         "Author": "Ginette Mathiot",
         "Author (Last, First)": "Mathiot, Ginette",
         "Publisher": "Phaidon Press",
@@ -5075,6 +5156,7 @@
     },
     {
         "Title": "If I Were in Charge of the World and Other Worries",
+        "Floor Category": "Humor, Literary Snack",
         "Subtitle": "Poems for Children and Their Parents",
         "Author": "Judith Viorst",
         "Author (Last, First)": "Viorst, Judith",
@@ -5524,6 +5606,7 @@
     },
     {
         "Title": "Jitterbug Perfume",
+        "Floor Category": "Fiction",
         "Author": "Tom Robbins",
         "Author (Last, First)": "Robbins, Tom",
         "Publisher": "Bantam Books",
@@ -5799,6 +5882,7 @@
     },
     {
         "Title": "Kydd",
+        "Floor Category": "Fiction",
         "Author": "Julian Stockwin",
         "Author (Last, First)": "Stockwin, Julian",
         "Publisher": "Hodder & Stoughton",
@@ -5848,6 +5932,7 @@
     },
     {
         "Title": "La cucina ligure",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "i piatti tradizionali e quelli pi\u00f9 attuali di una gastronomia che ha saputo esaltare come poche altre i sapori della sua terra",
         "Author": "Alessandro Molinari Pradelli",
         "Author (Last, First)": "Pradelli, Alessandro Molinari",
@@ -5896,6 +5981,7 @@
     },
     {
         "Title": "Labyrinth",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Mark T. Sullivan",
         "Author (Last, First)": "Sullivan, Mark T.",
@@ -5946,6 +6032,7 @@
     },
     {
         "Title": "Leave it Better Than You Found it",
+        "Floor Category": "Non-Fiction",
         "Author": "Bruce A. Nordstrom",
         "Author (Last, First)": "Nordstrom, Bruce A.",
         "Publisher": "Documentary Media",
@@ -5970,6 +6057,7 @@
     },
     {
         "Title": "Legacies: Book #3: Purgatory's Key",
+        "Floor Category": "Fiction",
         "Author": "Dayton Ward,Kevin Dilmore",
         "Author (Last, First)": "Ward, Dayton",
         "Publisher": "Simon and Schuster",
@@ -6122,6 +6210,7 @@
     },
     {
         "Title": "Life Real Loud",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "John Lefebvre, Neteller and the Revolution in Online Gambling",
         "Author": "Bill Reynolds",
         "Author (Last, First)": "Reynolds, Bill",
@@ -6147,6 +6236,7 @@
     },
     {
         "Title": "Limited Edition",
+        "Floor Category": "Humor, Literary Snack",
         "Subtitle": "Art and Design of Gama-Go",
         "Author": "Greg Long,Chris Edmundson,Tim Biskup",
         "Author (Last, First)": "Long, Greg",
@@ -6345,6 +6435,7 @@
     },
     {
         "Title": "Lone Survivor",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10",
         "Author": "Marcus Luttrell,Patrick Robinson",
         "Author (Last, First)": "Luttrell, Marcus",
@@ -6371,6 +6462,7 @@
     },
     {
         "Title": "Lost Roses",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Martha Hall Kelly",
         "Author (Last, First)": "Kelly, Martha Hall",
@@ -6422,6 +6514,7 @@
     },
     {
         "Title": "Magister Ludi (The Glass Bead Game)",
+        "Floor Category": "Fiction",
         "Author": "Hermann Hesse",
         "Author (Last, First)": "Hesse, Hermann",
         "Publisher": "Bantam Books",
@@ -6447,6 +6540,7 @@
     },
     {
         "Title": "Mandarin",
+        "Floor Category": "Health, Self-Help, Relationships",
         "Author": "Anthony Garnaut",
         "Author (Last, First)": "Garnaut, Anthony",
         "Publisher": "Lonely Planet",
@@ -6463,11 +6557,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 18:57:05.743029952",
         "Google VolumeID": "b5LlwAEACAAJ",
-        "Category": "A1",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "Floor"
     },
     {
         "Title": "Manhattan Beach",
@@ -6574,6 +6667,7 @@
     },
     {
         "Title": "Me Before You",
+        "Floor Category": "Fiction",
         "Author": "Jojo Moyes",
         "Author (Last, First)": "Moyes, Jojo",
         "Publisher": "Penguin Books",
@@ -6649,6 +6743,7 @@
     },
     {
         "Title": "Metahuman",
+        "Floor Category": "Health, Self-Help, Relationships",
         "Subtitle": "Unleashing Your Infinite Potential",
         "Author": "M.D. Deepak Chopra",
         "Author (Last, First)": "Chopra, M.D. Deepak",
@@ -6667,11 +6762,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 19:01:43.696869969",
         "Google VolumeID": "vAetDwAAQBAJ",
-        "Category": "A1",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "Floor"
     },
     {
         "Title": "Middlesex",
@@ -6725,6 +6819,7 @@
     },
     {
         "Title": "Mind Prey",
+        "Floor Category": "Fiction",
         "Author": "John Sandford",
         "Author (Last, First)": "Sandford, John",
         "Publisher": "Penguin",
@@ -6773,6 +6868,7 @@
     },
     {
         "Title": "Mirror Image",
+        "Floor Category": "Fiction",
         "Author": "Danielle Steel",
         "Author (Last, First)": "Steel, Danielle",
         "Publisher": "Delacorte Press",
@@ -6793,7 +6889,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "Mission to Paris",
@@ -6822,6 +6918,7 @@
     },
     {
         "Title": "Monsoon",
+        "Floor Category": "Fiction",
         "Author": "Wilbur Smith",
         "Author (Last, First)": "Smith, Wilbur",
         "Publisher": "Macmillan",
@@ -6871,6 +6968,7 @@
     },
     {
         "Title": "Moo",
+        "Floor Category": "Fiction",
         "Author": "Jane Smiley",
         "Author (Last, First)": "Smiley, Jane",
         "Publisher": "A.A. Knopf",
@@ -6921,6 +7019,7 @@
     },
     {
         "Title": "MUTTS' Shelter Stories",
+        "Floor Category": "Humor, Literary Snack",
         "Subtitle": "Love. Guaranteed.",
         "Author": "Patrick McDonnell",
         "Author (Last, First)": "McDonnell, Patrick",
@@ -6947,6 +7046,8 @@
     },
     {
         "Title": "My Country Versus Me",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "The First-Hand Account by the Los Alamos Scientist Who Was Falsely Accused of Being a Spy",
         "Author": "Wen Ho Lee,Helen Zia",
         "Author (Last, First)": "Lee, Wen Ho",
@@ -7022,6 +7123,7 @@
     },
     {
         "Title": "My Life in Print",
+        "Floor Category": "Non-Fiction",
         "Author": "Emmett Watson",
         "Author (Last, First)": "Watson, Emmett",
         "Publisher": "Lesser Seattle Pub.",
@@ -7045,6 +7147,7 @@
     },
     {
         "Title": "My Promised Land",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "The Triumph and Tragedy of Israel",
         "Author": "Ari Shavit",
         "Author (Last, First)": "Shavit, Ari",
@@ -7199,6 +7302,7 @@
     },
     {
         "Title": "Nothing But Blue Skies",
+        "Floor Category": "Fiction",
         "Author": "Thomas McGuane",
         "Author (Last, First)": "McGuane, Thomas",
         "Publisher": "Knopf Doubleday Publishing Group",
@@ -7352,6 +7456,7 @@
     },
     {
         "Title": "Once Upon a Time in Seattle",
+        "Floor Category": "Non-Fiction",
         "Author": "Emmett Watson",
         "Author (Last, First)": "Watson, Emmett",
         "Publisher": "Lesser Seattle Pub.",
@@ -7375,6 +7480,7 @@
     },
     {
         "Title": "One Hundred Years of Solitude",
+        "Floor Category": "Fiction",
         "Author": "Gabriel Garc\u00eda M\u00e1rquez",
         "Author (Last, First)": "M\u00e1rquez, Gabriel Garc\u00eda",
         "Publisher": "Avon",
@@ -7399,6 +7505,7 @@
     },
     {
         "Title": "One Summer",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "America, 1927",
         "Author": "Bill Bryson",
         "Author (Last, First)": "Bryson, Bill",
@@ -7653,6 +7760,7 @@
     },
     {
         "Title": "Oxygen",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Carol Cassella",
         "Author (Last, First)": "Cassella, Carol",
@@ -7679,6 +7787,7 @@
     },
     {
         "Title": "Panama",
+        "Floor Category": "Fiction",
         "Author": "Eric Zencey",
         "Author (Last, First)": "Zencey, Eric",
         "Publisher": "Farrar, Straus and Giroux",
@@ -7728,6 +7837,7 @@
     },
     {
         "Title": "Paris to the Moon",
+        "Floor Category": "Cooking, Food, Travel",
         "Author": "Adam Gopnik",
         "Author (Last, First)": "Gopnik, Adam",
         "Publisher": "Random House",
@@ -7752,6 +7862,7 @@
     },
     {
         "Title": "Patrol and Rescue Boats on Puget Sound",
+        "Floor Category": "Non-Fiction",
         "Author": "Chuck Fowler",
         "Author (Last, First)": "Fowler, Chuck",
         "Publisher": "Arcadia Publishing",
@@ -7850,6 +7961,7 @@
     },
     {
         "Title": "Plain Simple Useful",
+        "Floor Category": "Non-Fiction",
         "Author": "Terence Conran",
         "Author (Last, First)": "Conran, Terence",
         "Publisher": "Octopus Books",
@@ -7925,6 +8037,7 @@
     },
     {
         "Title": "Practical Healthy Eating",
+        "Floor Category": "Cooking, Food, Travel",
         "Author": "No name",
         "Author (Last, First)": "name, No",
         "Publisher": "P3 Publishing",
@@ -8097,6 +8210,7 @@
     },
     {
         "Title": "Private Down Under",
+        "Floor Category": "Fiction",
         "Author": "James Patterson,Michael White",
         "Author (Last, First)": "Patterson, James",
         "Publisher": "Grand Central Publishing",
@@ -8147,6 +8261,7 @@
     },
     {
         "Title": "Rainbow Six",
+        "Floor Category": "Fiction",
         "Author": "Tom Clancy",
         "Author (Last, First)": "Clancy, Tom",
         "Publisher": "Penguin",
@@ -8172,6 +8287,7 @@
     },
     {
         "Title": "Range",
+        "Floor Category": "Technology, Science",
         "Subtitle": "Why Generalists Triumph in a Specialized World",
         "Author": "David Epstein",
         "Author (Last, First)": "Epstein, David",
@@ -8190,11 +8306,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 18:57:21.637433052",
         "Google VolumeID": "6nsmEAAAQBAJ",
-        "Category": "A1",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "Range",
@@ -8579,6 +8694,8 @@
     },
     {
         "Title": "Running with Scissors",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "A Memoir",
         "Author": "Augusten Burroughs",
         "Author (Last, First)": "Burroughs, Augusten",
@@ -8631,6 +8748,7 @@
     },
     {
         "Title": "Saturday",
+        "Floor Category": "Fiction",
         "Author": "ian mcewan",
         "Author (Last, First)": "mcewan, ian",
         "Publisher": "Nan A. Talese/Doubleday",
@@ -8887,6 +9005,7 @@
     {
         "Title": "Shibumi",
         "Author": "Trevanian",
+        "Floor Category": "Fiction",
         "Author (Last, First)": "Trevanian",
         "Publisher": "Roca Bolsillo",
         "Date Published": "2008/02/22",
@@ -8911,6 +9030,7 @@
     },
     {
         "Title": "Ship of Ghosts",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "The Story of the USS Houston, FDR's Legendary Lost Cruiser, and the Epic Saga of Her Survivors",
         "Author": "James D. Hornfischer",
         "Author (Last, First)": "Hornfischer, James D.",
@@ -9188,6 +9308,7 @@
     },
     {
         "Title": "Solito",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "A Memoir",
         "Author": "Javier Zamora",
         "Author (Last, First)": "Zamora, Javier",
@@ -9239,6 +9360,7 @@
     },
     {
         "Title": "Sometimes a Great Notion",
+        "Floor Category": "Fiction",
         "Author": "Ken Kesey",
         "Author (Last, First)": "Kesey, Ken",
         "Publisher": "Penguin Publishing Group",
@@ -9416,6 +9538,7 @@
     },
     {
         "Title": "Start with Why",
+        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "How Great Leaders Inspire Everyone to Take Action",
         "Author": "Simon Sinek",
         "Author (Last, First)": "Sinek, Simon",
@@ -9467,6 +9590,7 @@
     },
     {
         "Title": "Straight into Darkness",
+        "Floor Category": "Fiction",
         "Author": "Faye Kellerman",
         "Author (Last, First)": "Kellerman, Faye",
         "Publisher": "Grand Central Publishing",
@@ -9492,6 +9616,7 @@
     },
     {
         "Title": "Style & Simplicity",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "An A to Z Guide to Living a More Beautiful Life",
         "Author": "Ted Kennedy Watson",
         "Author (Last, First)": "Watson, Ted Kennedy",
@@ -9591,6 +9716,7 @@
     },
     {
         "Title": "Talon of the Silver Hawk",
+        "Floor Category": "Fiction",
         "Subtitle": "Conclave of Shadows: Book One",
         "Author": "Raymond E. Feist",
         "Author (Last, First)": "Feist, Raymond E.",
@@ -9609,11 +9735,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 19:03:12.120033979",
         "Google VolumeID": "kcFCPgAACAAJ",
-        "Category": "A1",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "TAPE SUCKS: Inside Data Domain, A Silicon Valley Growth Story",
@@ -9643,6 +9768,8 @@
     },
     {
         "Title": "Tears of Triumph",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "The Amazing True Story of a Missionary's Life Behind the Iron Curtain and Beyond",
         "Author": "Richard Michalski,Sara Michalski",
         "Author (Last, First)": "Michalski, Richard",
@@ -9791,6 +9918,7 @@
     },
     {
         "Title": "The Abstinence Teacher",
+        "Floor Category": "Fiction",
         "Author": "Tom Perrotta",
         "Author (Last, First)": "Perrotta, Tom",
         "Publisher": "Macmillan",
@@ -9841,6 +9969,7 @@
     },
     {
         "Title": "The Advocate's Devil",
+        "Floor Category": "Fiction",
         "Author": "Alan M. Dershowitz",
         "Author (Last, First)": "Dershowitz, Alan M.",
         "Publisher": "Grand Central Publishing",
@@ -10122,6 +10251,7 @@
     },
     {
         "Title": "The Barbary Pirates",
+        "Floor Category": "Fiction",
         "Subtitle": "An Ethan Gage Adventure",
         "Author": "William Dietrich",
         "Author (Last, First)": "Dietrich, William",
@@ -10248,6 +10378,8 @@
     },
     {
         "Title": "The Big House",
+        "Floor Category": "Non-Fiction",
+        "Note": "Human interest / memoirs",
         "Subtitle": "A Century in the Life of an American Summer Home",
         "Author": "George Howe Colt",
         "Author (Last, First)": "Colt, George Howe",
@@ -10397,6 +10529,7 @@
     },
     {
         "Title": "The Book of Clouds",
+        "Floor Category": "Technology, Science",
         "Author": "John A. Day",
         "Author (Last, First)": "Day, John A.",
         "Publisher": "Sterling Publishing Company, Inc.",
@@ -10471,6 +10604,7 @@
     },
     {
         "Title": "The Book of Tapas and Spanish Cooking",
+        "Floor Category": "Cooking, Food, Travel",
         "Author": "Hilaire Walden",
         "Author (Last, First)": "Walden, Hilaire",
         "Publisher": "Salamander",
@@ -10737,6 +10871,7 @@
     },
     {
         "Title": "The Confession",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Jo Spain",
         "Author (Last, First)": "Spain, Jo",
@@ -10788,6 +10923,7 @@
     },
     {
         "Title": "The Corporate Lattice",
+        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "Achieving High Performance in the Changing World of Work",
         "Author": "Cathleen Benko,Molly Anderson",
         "Author (Last, First)": "Benko, Cathleen",
@@ -10865,6 +11001,7 @@
     },
     {
         "Title": "The Darkening Sea",
+        "Floor Category": "Fiction",
         "Author": "Alexander Kent",
         "Author (Last, First)": "Kent, Alexander",
         "Publisher": "Pan Books",
@@ -10993,6 +11130,7 @@
     },
     {
         "Title": "The Elegance of the Hedgehog",
+        "Floor Category": "Fiction",
         "Author": "Muriel Barbery",
         "Author (Last, First)": "Barbery, Muriel",
         "Publisher": "Europa Editions",
@@ -11043,6 +11181,7 @@
     },
     {
         "Title": "The End of War",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel of the Race for Berlin",
         "Author": "David L. Robbins",
         "Author (Last, First)": "Robbins, David L.",
@@ -11093,6 +11232,7 @@
     },
     {
         "Title": "The English Patient",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Michael Ondaatje",
         "Author (Last, First)": "Ondaatje, Michael",
@@ -11140,7 +11280,9 @@
         "Shelf": "C1"
     },
     {
+        "Wrong Shelf": true,
         "Title": "The Falcon at the Portal:",
+        "Floor Category": "Fiction",
         "Subtitle": "An Amelia Peabody Mystery",
         "Author": "Elizabeth Peters",
         "Author (Last, First)": "Peters, Elizabeth",
@@ -11163,7 +11305,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "The Fallen Man",
@@ -11216,6 +11358,7 @@
     },
     {
         "Title": "The Fountainhead",
+        "Floor Category": "Fiction",
         "Author": "Ayn Rand",
         "Author (Last, First)": "Rand, Ayn",
         "Publisher": "Penguin Publishing Group",
@@ -11240,6 +11383,7 @@
     },
     {
         "Title": "The Four Fingers of Death",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Rick Moody",
         "Author (Last, First)": "Moody, Rick",
@@ -11610,6 +11754,7 @@
     },
     {
         "Title": "The Higher Taste",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "A Guide to Gourmet Vegetarian Cooking and a Karma-free Diet",
         "Author": "A. C. Bhaktivedanta Swami Prabhup\u0101da",
         "Author (Last, First)": "Prabhup\u0101da, A. C. Bhaktivedanta Swami",
@@ -11810,6 +11955,7 @@
     },
     {
         "Title": "The Jasons",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "The Secret History of Science's Postwar Elite",
         "Author": "Ann K. Finkbeiner",
         "Author (Last, First)": "Finkbeiner, Ann K.",
@@ -11835,6 +11981,7 @@
     },
     {
         "Title": "The Judge",
+        "Floor Category": "Fiction",
         "Author": "Steve Martini",
         "Author (Last, First)": "Martini, Steve",
         "Publisher": "G.P. Putnam's Sons",
@@ -11909,6 +12056,7 @@
     },
     {
         "Title": "The King of Torts",
+        "Floor Category": "Fiction",
         "Author": "John Grisham",
         "Author (Last, First)": "Grisham, John",
         "Publisher": "Doubleday",
@@ -12057,6 +12205,7 @@
     },
     {
         "Title": "The Last Templar",
+        "Floor Category": "Fiction",
         "Author": "Raymond Khoury",
         "Author (Last, First)": "Khoury, Raymond",
         "Publisher": "Penguin",
@@ -12081,6 +12230,7 @@
     },
     {
         "Title": "The Leadership Challenge",
+        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "How to Make Extraordinary Things Happen in Organizations",
         "Author": "James M. Kouzes,Barry Z. Posner",
         "Author (Last, First)": "Kouzes, James M.",
@@ -12107,6 +12257,7 @@
     },
     {
         "Title": "The Lexus and the Olive Tree",
+        "Floor Category": "Business, Economics, Finance",
         "Author": "Thomas L. Friedman",
         "Author (Last, First)": "Friedman, Thomas L.",
         "Publisher": "Anchor Books",
@@ -12180,6 +12331,7 @@
     },
     {
         "Title": "The Little Paris Bookshop",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Nina George",
         "Author (Last, First)": "George, Nina",
@@ -12206,6 +12358,7 @@
     },
     {
         "Title": "The Lives of Beryl Markham",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "Out of Africa's Hidden Free Spirit and Denys Finch Hatton's Last Great Love",
         "Author": "Errol Trzebinski",
         "Author (Last, First)": "Trzebinski, Errol",
@@ -12310,6 +12463,7 @@
     },
     {
         "Title": "The Lost World",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Michael Crichton",
         "Author (Last, First)": "Crichton, Michael",
@@ -12335,6 +12489,8 @@
     },
     {
         "Title": "The Lost World",
+        "Floor Category": "Fiction",
+        "Note": "Second copy, missing jacket",
         "Subtitle": "A Novel",
         "Author": "Michael Crichton",
         "Author (Last, First)": "Crichton, Michael",
@@ -12350,7 +12506,7 @@
         "Status": "Unread",
         "Status Hidden": "0",
         "Returned from Borrow": "0",
-        "Date Added": "2023/10/04 19:34:42.495121002",
+        "Date Added": "2023/10/03 20:13:39.887030005",
         "Google VolumeID": "vb5Cat4hQ1MC",
         "Category": "Floor",
         "Wish List": "0",
@@ -12537,6 +12693,7 @@
     },
     {
         "Title": "The Mosquito Coast",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Paul Theroux",
         "Author (Last, First)": "Theroux, Paul",
@@ -12586,6 +12743,7 @@
     },
     {
         "Title": "The New Cuisine of Hawaii",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "Recipes from the Twelve Celebrated Chefs of Hawaii Regional Cuisine",
         "Author": "Janice Wald Henderson",
         "Author (Last, First)": "Henderson, Janice Wald",
@@ -12636,6 +12794,7 @@
     },
     {
         "Title": "The New York Times Book of Interior Design and Decoration",
+        "Shelf Category": "Art & Music",
         "Author": "George O'Brien",
         "Author (Last, First)": "O'Brien, George",
         "Publisher": "Farrar, Straus and Giroux",
@@ -12655,7 +12814,7 @@
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "The News from Paraguay",
@@ -12812,6 +12971,7 @@
     },
     {
         "Title": "The Painter",
+        "Floor Category": "Fiction",
         "Author": "Peter Heller",
         "Author (Last, First)": "Heller, Peter",
         "Publisher": "Knopf Doubleday Publishing Group",
@@ -12938,6 +13098,7 @@
     },
     {
         "Title": "The Partner",
+        "Floor Category": "Fiction",
         "Author": "John Grisham",
         "Author (Last, First)": "Grisham, John",
         "Publisher": "Island Books",
@@ -12962,6 +13123,7 @@
     },
     {
         "Title": "The Perfect Crime: The Big Bow Mystery (Detective Club Crime Classics)",
+        "Floor Category": "Fiction",
         "Author": "Israel Zangwill",
         "Author (Last, First)": "Zangwill, Israel",
         "Publisher": "HarperCollins Publishers Limited",
@@ -13013,6 +13175,7 @@
     },
     {
         "Title": "The Pillow Boy of the Lady Onogoro",
+        "Floor Category": "Fiction",
         "Author": "Alison Fell",
         "Author (Last, First)": "Fell, Alison",
         "Publisher": "Harcourt Brace",
@@ -13215,6 +13378,7 @@
     },
     {
         "Title": "The Red Cat Cookbook",
+        "Floor Category": "Cooking, Food, Travel",
         "Subtitle": "125 Recipes from New York City's Favorite Neighborhood Restaurant",
         "Author": "Jimmy Bradley,Andrew Friedman",
         "Author (Last, First)": "Bradley, Jimmy",
@@ -13265,6 +13429,7 @@
     },
     {
         "Title": "The Richest Man in Babylon",
+        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "The Success Secrets of the Ancients--the Most Inspiring Book on Wealth Ever Written",
         "Author": "George S. Clason",
         "Author (Last, First)": "Clason, George S.",
@@ -13291,6 +13456,7 @@
     },
     {
         "Title": "The Ronin",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel Based on a Zen Myth",
         "Author": "William Dale Jennings",
         "Author (Last, First)": "Jennings, William Dale",
@@ -13465,6 +13631,7 @@
     },
     {
         "Title": "The Serpent on the Crown",
+        "Floor Category": "Fiction",
         "Author": "Elizabeth Peters",
         "Author (Last, First)": "Peters, Elizabeth",
         "Publisher": "Harper Collins",
@@ -13490,6 +13657,7 @@
     },
     {
         "Title": "The Shadows We Hide",
+        "Floor Category": "Fiction",
         "Author": "Allen Eskens",
         "Author (Last, First)": "Eskens, Allen",
         "Publisher": "Little, Brown",
@@ -13614,6 +13782,7 @@
     },
     {
         "Title": "The sinister pig",
+        "Floor Category": "Fiction",
         "Author": "Tony Hillerman",
         "Author (Last, First)": "Hillerman, Tony",
         "Publisher": "HarperCollins",
@@ -13887,6 +14056,7 @@
     },
     {
         "Title": "The Storyteller",
+        "Floor Category": "Fiction",
         "Subtitle": "a novel",
         "Author": "Jodi Picoult",
         "Author (Last, First)": "Picoult, Jodi",
@@ -14217,6 +14387,7 @@
     },
     {
         "Title": "The Wedding",
+        "Floor Category": "Fiction",
         "Author": "Nicholas Sparks",
         "Author (Last, First)": "Sparks, Nicholas",
         "Publisher": "Grand Central Publishing",
@@ -14338,6 +14509,7 @@
     },
     {
         "Title": "The Winshaw Legacy",
+        "Floor Category": "Fiction",
         "Subtitle": "Or, what a Carve Up!",
         "Author": "Jonathan Coe",
         "Author (Last, First)": "Coe, Jonathan",
@@ -14438,6 +14610,7 @@
     },
     {
         "Title": "The Wrong Side of Goodbye",
+        "Floor Category": "Fiction",
         "Author": "Michael Connelly",
         "Author (Last, First)": "Connelly, Michael",
         "Publisher": "Grand Central Publishing",
@@ -14591,6 +14764,7 @@
     },
     {
         "Title": "Though the Heavens Fall",
+        "Floor Category": "Fiction",
         "Subtitle": "A Collins-Burke Mystery",
         "Author": "Anne Emery",
         "Author (Last, First)": "Emery, Anne",
@@ -14713,6 +14887,7 @@
     },
     {
         "Title": "Trance",
+        "Floor Category": "Fiction",
         "Author": "Christopher Sorrentino",
         "Author (Last, First)": "Sorrentino, Christopher",
         "Publisher": "Macmillan",
@@ -14963,6 +15138,7 @@
     },
     {
         "Title": "Unspoken Feelings of a Gentleman",
+        "Floor Category": "Health, Self-Help, Relationships",
         "Author": "Pierre Alex Jeanty",
         "Author (Last, First)": "Jeanty, Pierre Alex",
         "Publisher": "Jeanius Publishing LLC",
@@ -14988,6 +15164,7 @@
     },
     {
         "Title": "Unstoppable",
+        "Floor Category": "Business, Economics, Finance",
         "Subtitle": "Finding Hidden Assets to Renew the Core and Fuel Profitable Growth",
         "Author": "Chris Zook",
         "Author (Last, First)": "Zook, Chris",
@@ -15005,11 +15182,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 19:01:32.731837987",
         "Google VolumeID": "feFxQ48KFNcC",
-        "Category": "A1",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "Up Island",
@@ -15038,6 +15214,7 @@
     },
     {
         "Title": "Vanish",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Tess Gerritsen",
         "Author (Last, First)": "Gerritsen, Tess",
@@ -15063,6 +15240,7 @@
     },
     {
         "Title": "Vendetta",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "American Express and the Smearing of Edmond Safra",
         "Author": "Bryan Burrough,Edmond Safra",
         "Author (Last, First)": "Burrough, Bryan",
@@ -15088,6 +15266,7 @@
     },
     {
         "Title": "Verner Panton",
+        "Floor Category": "Non-Fiction",
         "Subtitle": "The Collected Works : Vitra Design Museum",
         "Author": "Verner Panton",
         "Author (Last, First)": "Panton, Verner",
@@ -15239,6 +15418,7 @@
     },
     {
         "Title": "We",
+        "Floor Category": "Poetry, Literary",
         "Subtitle": "A Reimagined Family History",
         "Author": "C. vance",
         "Author (Last, First)": "vance, C.",
@@ -15365,6 +15545,7 @@
     },
     {
         "Title": "White Shark",
+        "Floor Category": "Fiction",
         "Author": "Peter Benchley",
         "Author (Last, First)": "Benchley, Peter",
         "Publisher": "Random House",
@@ -15514,6 +15695,7 @@
     },
     {
         "Title": "Wolf Hall",
+        "Floor Category": "Fiction",
         "Subtitle": "A Novel",
         "Author": "Hilary Mantel",
         "Author (Last, First)": "Mantel, Hilary",
@@ -15532,11 +15714,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 18:56:46.856446981",
         "Google VolumeID": "7OgI0AEACAAJ",
-        "Category": "A1",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "Women Rowing North",
@@ -15643,6 +15824,7 @@
     },
     {
         "Title": "Wrong Light",
+        "Floor Category": "Fiction",
         "Author": "Matt Coyle",
         "Author (Last, First)": "Coyle, Matt",
         "Publisher": "Oceanview Publishing",
@@ -15659,11 +15841,10 @@
         "Returned from Borrow": "0",
         "Date Added": "2023/10/02 19:02:32.864171981",
         "Google VolumeID": "fQQPtQEACAAJ",
-        "Category": "A1",
         "Wish List": "0",
         "Previously Owned": "0",
         "Up Next": "0",
-        "Shelf": "A1"
+        "Shelf": "wrong-A1"
     },
     {
         "Title": "Yard Dog",
@@ -15740,5 +15921,77 @@
         "Previously Owned": "0",
         "Up Next": "0",
         "Shelf": "B3"
+    },
+    {
+        "Title": "Thom Filicia Style",
+        "Subtitle": "Inspired Ideas for Creating Rooms You'll Love",
+        "Author": "Thom Filicia",
+        "Author (Last, First)": "Filicia, Thom",
+        "Publisher": "Atria Books",
+        "Date Published": "2008/10/14",
+        "Year Published": "2008",
+        "Genre": "Architecture",
+        "Summary": "\"I'm a democratic design snob. I see it as my mission to help stamp out boring, unimaginative interiors. But I also love people, having fun, and what I do for a living. I think a fabulously styled place is achievable by everyone. Think of me as your decorating wingman.\" Thom Filicia, whose one-of-a-kind makeover genius gained national attention through his starring roles on Queer Eye for the Straight Guy and Dress My Nest, offers the ultimate handbook for creating gorgeous interiors that showcase your unique personal style. Those who have witnessed Thom's remarkable makeovers on television already know about the much-anticipated reveal moment when the emotionally overwhelmed homeowners are struck speechless by the miracle he has created. The same miracle is now possible for your home, with the secrets and tips contained in Thom Filicia Style. With his trademark wit and friendly voice, Thom deconstructs how he works his magic and provides pages of invaluable advice, inspiration, before-and-after photos, case studies, floor plans, and product information. His approach will help you elevate your personal aesthetic by strategizing the best ways to make the most out of every space. From his work on a Manhattan loft to a suburban family home, Thom brings a fresh and invigorating vision to the way we live -- a vision that can apply to homes and decorating budgets of any size. Demystifying the decorating process one step at a time, Thom has filled this guide with everything you need to create the perfect interior. Thom Filicia Style is like having the designer himself on hand to take care of all the details.",
+        "Number of Pages": "224",
+        "Language": "English",
+        "ISBN": "9781416572183",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2023/10/08 12:13:54.606487989",
+        "Google VolumeID": "ojHJswEACAAJ",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "An International Survey of Recent Painting and Sculpture",
+        "Author": "Kynaston McShine,N.Y.) Museum of Modern Art (New York",
+        "Author (Last, First)": "McShine, Kynaston",
+        "Publisher": "Museum of Modern Art",
+        "Year Published": "1984",
+        "Genre": "Exhibitions",
+        "Number of Pages": "364",
+        "Language": "English",
+        "ISBN": "9780870703911",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2023/10/08 12:28:17.596560955",
+        "Google VolumeID": "uF9TAAAAMAAJ",
+        "Category": "Shelf A1",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "We, the Women of Hawaii Cookbook",
+        "Subtitle": "Favorite Recipes of Prominent Women of Hawaii",
+        "Author": "the Women of Hawaii We",
+        "Author (Last, First)": "We, the Women of Hawaii",
+        "Publisher": "Press Pacifica",
+        "Year Published": "1986",
+        "Genre": "Hawaiian cooking",
+        "Number of Pages": "297",
+        "Language": "English",
+        "ISBN": "9780916630478",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2023/10/08 12:38:15.770671963",
+        "Google VolumeID": "CLLwn08-B9kC",
+        "Category": "Shelf A1",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0",
+        "Shelf": "A1"
     }
 ]

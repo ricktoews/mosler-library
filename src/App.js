@@ -25,8 +25,6 @@ function App() {
           return titleA < titleB ? -1 : titleA > titleB ? 1 : 0;
         });
         setBooks(data);
-        const authors = data.map(item => item.Author);
-        console.log('====> authors', authors);
       });
   }, []);
 
