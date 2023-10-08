@@ -321,6 +321,7 @@
     },
     {
         "Title": "A Train in Winter",
+        "Note": "Genre says History, but this sounds fitting for Biography & Memoir",
         "Subtitle": "An Extraordinary Story of Women, Friendship, and Resistance in Occupied France",
         "Author": "Caroline Moorehead",
         "Author (Last, First)": "Moorehead, Caroline",
@@ -540,8 +541,6 @@
     },
     {
         "Title": "Amarcord-- Marcella Remembers",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "The Story of a Woman who Started Out to Teach Science in a Small Town in Italy, But Ended Up Teaching America how to Cook Italian",
         "Author": "Marcella Hazan",
         "Author (Last, First)": "Hazan, Marcella",
@@ -552,7 +551,7 @@
         "Number of Pages": "307",
         "ISBN": "9781592403882",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Ambling Into History",
@@ -597,7 +596,7 @@
     },
     {
         "Title": "Among Heroes",
-        "Floor Category": "Non-Fiction",
+        "Note": "Seems like Biography / Memoir, so B1",
         "Subtitle": "A U.S. Navy SEAL's True Story of Friendship, Heroism, and the Ultimate Sacrifice",
         "Author": "Brandon Webb,John David Mann",
         "Author (Last, First)": "Webb, Brandon",
@@ -608,7 +607,7 @@
         "Number of Pages": "272",
         "ISBN": "9780451475626",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "An American Marriage (Oprah's Book Club)",
@@ -815,8 +814,6 @@
     },
     {
         "Title": "Aunt Pig of Puglia",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "Ricordi de la Familia Ferri",
         "Author": "Patricia Catto",
         "Author (Last, First)": "Catto, Patricia",
@@ -826,7 +823,7 @@
         "Number of Pages": "150",
         "ISBN": "9780982077542",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "B.O.Q.",
@@ -844,8 +841,6 @@
     },
     {
         "Title": "Becoming Justice Blackmun",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "Harry Blackmun's Supreme Court Journey",
         "Author": "Linda Greenhouse",
         "Author (Last, First)": "Greenhouse, Linda",
@@ -856,7 +851,7 @@
         "Number of Pages": "268",
         "ISBN": "9780805077919",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Before the Fall",
@@ -1010,8 +1005,6 @@
     },
     {
         "Title": "Boy in the Blitz",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "The 1940 Diary of Colin Perry",
         "Author": "Colin Perry",
         "Author (Last, First)": "Perry, Colin",
@@ -1022,11 +1015,11 @@
         "Number of Pages": "224",
         "ISBN": "9780750926041",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Brewing in Seattle",
-        "Floor Category": "Non-Fiction",
+        "Note": "Looks like local history, so B2",
         "Author": "Kurt Stream",
         "Author (Last, First)": "Stream, Kurt",
         "Publisher": "Arcadia Publishing",
@@ -1036,7 +1029,7 @@
         "Number of Pages": "127",
         "ISBN": "9780738595238",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B2"
     },
     {
         "Title": "Bring Up the Bodies",
@@ -1139,8 +1132,6 @@
     },
     {
         "Title": "Changed",
-        "Floor Category": "Non-Fiction",
-        "Subtitle": "Autobiography of Tom Cantor",
         "Author": "Tom Cantor",
         "Author (Last, First)": "Cantor, Tom",
         "Publisher": "Tom Cantor",
@@ -1149,7 +1140,7 @@
         "Number of Pages": "85",
         "ISBN": "9780578646893",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Charming Billy",
@@ -1551,8 +1542,6 @@
     },
     {
         "Title": "Death in the Long Grass",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "A Big Game Hunter's Adventures in the African Bush",
         "Author": "Peter Hathaway Capstick",
         "Author (Last, First)": "Capstick, Peter Hathaway",
@@ -1563,7 +1552,7 @@
         "Number of Pages": "297",
         "ISBN": "9780312186135",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Death of the Party",
@@ -2536,7 +2525,6 @@
     },
     {
         "Title": "Heads in Beds",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "A Reckless Memoir of Hotels, Hustles, and So-called Hospitality",
         "Author": "Jacob Tomsky",
         "Author (Last, First)": "Tomsky, Jacob",
@@ -2547,7 +2535,7 @@
         "Number of Pages": "247",
         "ISBN": "9780385535632",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Helping Your Kids Cope with Divorce the Sandcastles Way",
@@ -2620,8 +2608,6 @@
     },
     {
         "Title": "Hollywood Park",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "A Memoir",
         "Author": "Mikel Jollett",
         "Author (Last, First)": "Jollett, Mikel",
@@ -2632,7 +2618,7 @@
         "Number of Pages": "384",
         "ISBN": "9781250621566",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Hooking Up",
@@ -3362,6 +3348,8 @@
     },
     {
         "Title": "Life Is Good",
+        "Floor Category": "Non-Fiction",
+        "Note": "How to...?",
         "Subtitle": "The Book- How to Live with Purpose and Enjoy the Ride",
         "Author": "Bert Jacobs,John Jacobs",
         "Author (Last, First)": "Jacobs, Bert",
@@ -3391,7 +3379,6 @@
     },
     {
         "Title": "Life Real Loud",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "John Lefebvre, Neteller and the Revolution in Online Gambling",
         "Author": "Bill Reynolds",
         "Author (Last, First)": "Reynolds, Bill",
@@ -3402,7 +3389,7 @@
         "Number of Pages": "392",
         "ISBN": "9781550229417",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Limited Edition",
@@ -3514,7 +3501,6 @@
     },
     {
         "Title": "Lone Survivor",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10",
         "Author": "Marcus Luttrell,Patrick Robinson",
         "Author (Last, First)": "Luttrell, Marcus",
@@ -3525,7 +3511,7 @@
         "Number of Pages": "390",
         "ISBN": "9780316067591",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Lost Roses",
@@ -3852,8 +3838,6 @@
     },
     {
         "Title": "My Country Versus Me",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "The First-Hand Account by the Los Alamos Scientist Who Was Falsely Accused of Being a Spy",
         "Author": "Wen Ho Lee,Helen Zia",
         "Author (Last, First)": "Lee, Wen Ho",
@@ -3864,7 +3848,7 @@
         "Number of Pages": "332",
         "ISBN": "9780786868032",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "My Lady of the Bog",
@@ -3895,7 +3879,6 @@
     },
     {
         "Title": "My Life in Print",
-        "Floor Category": "Non-Fiction",
         "Author": "Emmett Watson",
         "Author (Last, First)": "Watson, Emmett",
         "Publisher": "Lesser Seattle Pub.",
@@ -3904,7 +3887,7 @@
         "Number of Pages": "383",
         "ISBN": "9780963410221",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "My Promised Land",
@@ -4077,7 +4060,7 @@
     },
     {
         "Title": "Once Upon a Time in Seattle",
-        "Floor Category": "Non-Fiction",
+        "Note": "Looks like local history, so B2",
         "Author": "Emmett Watson",
         "Author (Last, First)": "Watson, Emmett",
         "Publisher": "Lesser Seattle Pub.",
@@ -4086,7 +4069,7 @@
         "Number of Pages": "166",
         "ISBN": "9780963410207",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B2"
     },
     {
         "Title": "One Hundred Years of Solitude",
@@ -4304,7 +4287,7 @@
     },
     {
         "Title": "Patrol and Rescue Boats on Puget Sound",
-        "Floor Category": "Non-Fiction",
+        "Note": "Looks like local history, so B2",
         "Author": "Chuck Fowler",
         "Author (Last, First)": "Fowler, Chuck",
         "Publisher": "Arcadia Publishing",
@@ -4314,7 +4297,7 @@
         "Number of Pages": "127",
         "ISBN": "9780738575810",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B2"
     },
     {
         "Title": "Peoples of Washington",
@@ -4369,7 +4352,7 @@
         "Number of Pages": "240",
         "ISBN": "9781840918120",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "A1"
     },
     {
         "Title": "Pontoon",
@@ -4726,8 +4709,6 @@
     },
     {
         "Title": "Running with Scissors",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "A Memoir",
         "Author": "Augusten Burroughs",
         "Author (Last, First)": "Burroughs, Augusten",
@@ -4738,7 +4719,7 @@
         "Number of Pages": "336",
         "ISBN": "9780312422271",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Rust & Stardust",
@@ -4914,7 +4895,6 @@
     },
     {
         "Title": "Ship of Ghosts",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "The Story of the USS Houston, FDR's Legendary Lost Cruiser, and the Epic Saga of Her Survivors",
         "Author": "James D. Hornfischer",
         "Author (Last, First)": "Hornfischer, James D.",
@@ -4925,7 +4905,7 @@
         "Number of Pages": "530",
         "ISBN": "9780553803907",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Shriek: An Afterword",
@@ -5064,7 +5044,6 @@
     },
     {
         "Title": "Solito",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "A Memoir",
         "Author": "Javier Zamora",
         "Author (Last, First)": "Zamora, Javier",
@@ -5075,7 +5054,7 @@
         "Number of Pages": "400",
         "ISBN": "9780593498064",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Something Like a Dream",
@@ -5315,8 +5294,6 @@
     },
     {
         "Title": "Tears of Triumph",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "The Amazing True Story of a Missionary's Life Behind the Iron Curtain and Beyond",
         "Author": "Richard Michalski,Sara Michalski",
         "Author (Last, First)": "Michalski, Richard",
@@ -5325,7 +5302,7 @@
         "Number of Pages": "231",
         "ISBN": "9780965766111",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "Telex from Cuba",
@@ -5648,8 +5625,6 @@
     },
     {
         "Title": "The Big House",
-        "Floor Category": "Non-Fiction",
-        "Note": "Human interest / memoirs",
         "Subtitle": "A Century in the Life of an American Summer Home",
         "Author": "George Howe Colt",
         "Author (Last, First)": "Colt, George Howe",
@@ -5660,7 +5635,7 @@
         "Number of Pages": "327",
         "ISBN": "9780743249645",
         "Rating": "0.000000",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "The Big Switch: Rewiring the World, from Edison to Google",
@@ -8058,6 +8033,7 @@
     },
     {
         "Title": "Three Cups of Tea",
+        "Note": "Genre says History, but this sounds fitting for Biography & Memoir",
         "Subtitle": "One Man's Mission to Fight Terrorism and Build Nations-- One School at a Time",
         "Author": "Greg Mortenson,David Oliver Relin",
         "Author (Last, First)": "Mortenson, Greg",
