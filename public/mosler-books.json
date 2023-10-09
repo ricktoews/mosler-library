@@ -1087,7 +1087,6 @@
     },
     {
         "Title": "Chopin's Heart",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "The Quest to Identify the Mysterious Illness of the World's Most Beloved Composer",
         "Author": "Steven Lagerberg",
         "Author (Last, First)": "Lagerberg, Steven",
@@ -1097,7 +1096,7 @@
         "Summary": "Since Fr\ufffdd\ufffdric Chopin's untimely death at the age of thirty-nine, all of his numerous biographers have concluded he suffered from the ravages of tuberculosis. This ingrained belief has become so much a part of the enduring legend of his fascinating life that the bold new claim for cystic fibrosis being responsible for his demise is unsettling news for the millions deeply touched by his beautiful music. Dr. Lagerberg takes an in-depth look at the current controversy over whether to proceed with the scientific analysis of the Polish composer's preserved heart and investigates the many historical, scientific, and ethical issues involved.Chopin's works changed the course of music, yet how many know that a century after his death his heart had been stolen by a Nazi chaplain and used as a German propaganda tool to sway the course of human history? Could the investigation of this composer's heart now be used to advance our scientific knowledge of disease? Discover how one man's heart continues to astonish the diverse worlds of music, history, and science. Explore the impact his illness had on his compositional style and examine the many intimate details of his engrossing life while taking a musical trip through the unold story of \"Chopin's Heart.\"",
         "Number of Pages": "182",
         "ISBN": "9781456402969",
-        "Shelf": "Floor"
+        "Shelf": "B3"
     },
     {
         "Title": "Cipher",
@@ -1166,6 +1165,7 @@
     {
         "Title": "Close Calls with Nonsense",
         "Floor Category": "Non-Fiction",
+        "Note": "literary",
         "Subtitle": "Reading New Poetry",
         "Author": "Stephen Burt",
         "Author (Last, First)": "Burt, Stephen",
@@ -1204,7 +1204,6 @@
     },
     {
         "Title": "Creating a World Without Poverty",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "Social Business and the Future of Capitalism",
         "Author": "Muhammad Yunus",
         "Author (Last, First)": "Yunus, Muhammad",
@@ -1214,7 +1213,7 @@
         "Summary": "In the last two decades, free markets have swept the globe. But traditional capitalism has been unable to solve problems like inequality and poverty. In Muhammad Yunus\u2019 groundbreaking sequel to Banker to the Poor, he outlines the concept of social business\u2014business where the creative vision of the entrepreneur is applied to today\u2019s most serious problems: feeding the poor, housing the homeless, healing the sick, and protecting the planet. Creating a World Without Poverty reveals the next phase in a hopeful economic and social revolution that is already underway.",
         "Number of Pages": "282",
         "ISBN": "9781586486679",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "Creating Abundance with Feng Shui",
@@ -1291,7 +1290,6 @@
     },
     {
         "Title": "D-Day",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "June 6, 1944 -- The Climactic Battle of WWII",
         "Author": "Stephen E. Ambrose",
         "Author (Last, First)": "Ambrose, Stephen E.",
@@ -1301,7 +1299,7 @@
         "Summary": "On the basis of 1,400 oral histories from the men who were there, Eisenhower biographer and World War II historian Stephen E. Ambrose reveals for the first time anywhere that the intricate plan for the invasion of France in June 1944, had to be abandoned before the first shot was fired. The true story of D-Day, as Ambrose relates it, is about the citizen soldiers - junior officers and enlisted men - taking the initiative to act on their own to break through Hitler's Atlantic Wall when they realized that nothing was as they had been told it would be. This is a brilliant telling of the battles of Omaha and Utah beaches, based on information only now available, from American, British, Canadian, French, and German veterans, from government and private archives, from never before utilized sources on the home front, gathered and analyzed by the author, who has made D-Day his life work. Ambrose's first interview was with General Eisenhower in 1964, his last with paratroopers from the 101st Airborne in 1993. Called the premier American narrative and military historian, Ambrose explains the most important day of the twentieth century. The action begins at midnight, June 5/6, when the first British and American airborne troops jumped into France to launch the invasion. It ends at midnight, June 6/7. Focusing on those pivotal twenty-four hours, this is the story of individuals rather than units. It moves from the level of Supreme Commander to that of a French child, from General Omar Bradley to an American paratrooper, from Field Marshal Montgomery to a British private, from Field Marshal Rommel to a German sergeant. Ambrose covers the politics of D-Day, from Churchill's resistance to the operation to Stalin's impatience and Roosevelt's concern. On the other side were Hitler's command structure, German policy, and the plot against the Fuhrer. This is the epic victory of democracy in winner-take-all combat. When Hitler declared war on the United States, he bet that the young men brought up in the Hitler Youth would outfight the Boy Scouts. Ambrose shows how wrong he was.",
         "Number of Pages": "655",
         "ISBN": "9780671673345",
-        "Shelf": "Floor"
+        "Shelf": "B2"
     },
     {
         "Title": "Daily Readings from Your Best Life Now",
@@ -2284,7 +2282,7 @@
     },
     {
         "Title": "Guilty",
-        "Floor Category": "Non-Fiction",
+        "Floor Category": "Fiction",
         "Author": "Karen Robards",
         "Author (Last, First)": "Robards, Karen",
         "Publisher": "G.P. Putnam's Sons",
@@ -2306,7 +2304,7 @@
         "Summary": "\u201cNothing will be the same again.\u201d Americans scarred by the experience of 9/11 often express this sentiment. But what remains the same, argues Jack Shaheen, is Hollywood\u2019s stereotyping of Arabs. In his new book about films made after 9/11, Shaheen finds that nearly all of Hollywood\u2019s post-9/11 films legitimize a view of Arabs as stereotyped villains and the use of Arabs and Muslims as shorthand for the \u201cEnemy\u201d or \u201cOther.\u201d Along with an examination of a hundred recent movies, Shaheen addresses the cultural issues at play since 9/11: the government\u2019s public relations campaigns to win \u201chearts and minds\u201d and the impact of 9/11 on citizens and on the imagination. He suggests that winning the \u201cwar on terror\u201d would take shattering the centuries-old stereotypes of Arabs, and frames the solutions needed to begin to tackle the problem and to change the industry and culture at large.",
         "Number of Pages": "198",
         "ISBN": "9781566566841",
-        "Shelf": "Floor"
+        "Shelf": "B3"
     },
     {
         "Title": "Gun Love",
@@ -2654,7 +2652,8 @@
         "Summary": "In Marx's familiar dictum, the more-developed country shows the less developed an image of its own future. Turning this idea upside down, In the Mirror of the Third World looks to the contemporary Third World for a reflection of European history. The resulting view challenges standard accounts of European social, economic, and political development. Sandra Halperin's analysis of the European experience begins where studies of Third World development often start: considering the legacies of colonial domination. Europe also had a colonial past, she reminds us, and the states of Europe, like those of today's Third World, were the product of colonialism and imperialism. From this starting point, Halperin traces features characteristic of Third World development through the history of European capitalism: enclave economies oriented to foreign markets; weak middle classes; alliances among the state, traditional landowning elites, and new industrial classes; unstable and partial democracy; sharp inequalities; and increasing poverty--all as much a part of European society on the eve of World War I as they are of developing countries today. Halperin also emphasizes the emergence of a militant, literal religion in Europe and its critical role in the class struggles of the nineteenth century.",
         "Number of Pages": "268",
         "ISBN": "9780801482908",
-        "Shelf": "Floor"
+        "Shelf": "Floor",
+        "Possible Retirement": true
     },
     {
         "Title": "Incidental Inventions",
@@ -3624,7 +3623,6 @@
     },
     {
         "Title": "My Promised Land",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "The Triumph and Tragedy of Israel",
         "Author": "Ari Shavit",
         "Author (Last, First)": "Shavit, Ari",
@@ -3634,7 +3632,7 @@
         "Summary": "NEW YORK TIMES\u00a0BESTSELLER \u2022\u00a0NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE\u00a0NEW YORK TIMES BOOK REVIEW AND THE ECONOMISTWinner of the Natan Book Award, the National Jewish Book Award, and the Anisfield-Wolf Book AwardAn authoritative and deeply personal narrative history of the State of Israel, by one of the most influential journalists writing about the Middle East today \u00a0 Not since Thomas L. Friedman\u2019s groundbreaking From Beirut to Jerusalem has a book captured the essence and the beating heart of the Middle East as keenly and dynamically as My Promised Land. Facing unprecedented internal and external pressures, Israel today is at a moment of existential crisis. Ari Shavit draws on interviews, historical documents, private diaries, and letters, as well as his own family\u2019s story, illuminating the pivotal moments of the Zionist century to tell a riveting narrative that is larger than the sum of its parts: both personal and national, both deeply human and of profound historical dimension. \u00a0 We meet Shavit\u2019s great-grandfather, a British Zionist who in 1897 visited the Holy Land on a Thomas Cook tour and understood that it was the way of the future for his people; the idealist young farmer who bought land from his Arab neighbor in the 1920s to grow the Jaffa oranges that would create Palestine\u2019s booming economy; the visionary youth group leader who, in the 1940s, transformed Masada from the neglected ruins of an extremist sect into a powerful symbol for Zionism; the Palestinian who as a young man in 1948 was driven with his family from his home during the expulsion from Lydda; the immigrant orphans of Europe\u2019s Holocaust, who took on menial work and focused on raising their children to become the leaders of the new state; the pragmatic engineer who was instrumental in developing Israel\u2019s nuclear program in the 1960s, in the only interview he ever gave; the zealous religious Zionists who started the settler movement in the 1970s; the dot-com entrepreneurs and young men and women behind Tel-Aviv\u2019s booming club scene; and today\u2019s architects of Israel\u2019s foreign policy with Iran, whose nuclear threat looms ominously over the tiny country. As it examines the complexities and contradictions of the Israeli condition, My Promised Land asks difficult but important questions: Why did Israel come to be? How did it come to be? Can Israel survive? Culminating with an analysis of the issues and threats that Israel is currently facing, My Promised Land uses the defining events of the past to shed new light on the present. The result is a landmark portrait of a small, vibrant country living on the edge, whose identity and presence play a crucial role in today\u2019s global political landscape. Praise for My Promised Land\u201cThis book will sweep you up in its narrative force and not let go of you until it is done. [Shavit\u2019s] accomplishment is so unlikely, so total . . . that it makes you believe anything is possible, even, God help us, peace in the Middle East.\u201d\u2014Simon Schama, Financial Times \u00a0\u201c[A] must-read book.\u201d\u2014Thomas L. Friedman, The New York Times \u00a0 \u201cImportant and powerful . . . the least tendentious book about Israel I have ever read.\u201d\u2014Leon Wieseltier, The New York Times Book Review  \u00a0 \u201cSpellbinding . . . Shavit\u2019s prophetic voice carries lessons that all sides need to hear.\u201d\u2014The Economist \u00a0 \u201cOne of the most nuanced and challenging books written on Israel in years.\u201d\u2014The Wall Street Journal",
         "Number of Pages": "512",
         "ISBN": "9780385521710",
-        "Shelf": "Floor"
+        "Shelf": "B3"
     },
     {
         "Title": "Native Son",
@@ -3806,7 +3804,6 @@
     },
     {
         "Title": "One Summer",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "America, 1927",
         "Author": "Bill Bryson",
         "Author (Last, First)": "Bryson, Bill",
@@ -3816,7 +3813,7 @@
         "Summary": "A Chicago Tribune Noteworthy Book A GoodReads Reader's Choice  In One Summer Bill Bryson, one of our greatest and most beloved nonfiction writers, transports readers on a journey back to one amazing season in American life.  The summer of 1927 began with one of the signature events of the twentieth century: on May 21, 1927, Charles Lindbergh became the first man to cross the Atlantic by plane nonstop, and when he landed in Le Bourget airfield near Paris, he ignited an explosion of worldwide rapture and instantly became the most famous person on the planet. Meanwhile, the titanically talented Babe Ruth was beginning his assault on the home run record, which would culminate on September 30 with his sixtieth blast, one of the most resonant and durable records in sports history. In between those dates a Queens housewife named Ruth Snyder and her corset-salesman lover garroted her husband, leading to a murder trial that became a huge tabloid sensation. Alvin \"Shipwreck\" Kelly sat atop a flagpole in Newark, New Jersey, for twelve days--a new record. The American South was clobbered by unprecedented rain and by flooding of the Mississippi basin, a great human disaster, the relief efforts for which were guided by the uncannily able and insufferably pompous Herbert Hoover. Calvin Coolidge interrupted an already leisurely presidency for an even more relaxing three-month vacation in the Black Hills of South Dakota. The gangster Al Capone tightened his grip on the illegal booze business through a gaudy and murderous reign of terror and municipal corruption. The first true \"talking picture,\" Al Jolson's The Jazz Singer, was filmed and forever changed the motion picture industry. The four most powerful central bankers on earth met in secret session on a Long Island estate and made a fateful decision that virtually guaranteed a future crash and depression. \u00a0\u00a0\u00a0\u00a0 All this and much, much more transpired in that epochal summer of 1927, and Bill Bryson captures its outsized personalities, exciting events, and occasional just plain weirdness with his trademark vividness, eye for telling detail, and delicious humor. In that year America stepped out onto the world stage as the main event, and One Summer transforms it all into narrative nonfiction of the highest order.",
         "Number of Pages": "509",
         "ISBN": "9780767919401",
-        "Shelf": "Floor"
+        "Shelf": "B2"
     },
     {
         "Title": "One Summer",
@@ -6051,7 +6048,7 @@
         "Summary": "A provocative inside look at the elite scientists who have worked behind the scenes to influence American science and policy for half a century They call themselves Jason. Their group is a child of the Manhattan Project by way of the cold war, and they count among their ranks scientific stars like Freeman Dyson and Murray Gell- Mann, and among their mentors Edward Teller and Hans Bethe. They\u2019ve inherited a mission from the Manhattan Project\u2014to counsel the government on the military uses of pure science\u2014and have gathered every summer since 1960 to solve highly classified problems for the Department of Defense and the intelligence community. Aside from a brief media firestorm during the Vietnam War, they\u2019ve worked in utter secrecy with unparalleled freedom.Fiercely patriotic and stubbornly independent, the Jasons have been directly responsible for breakthroughs ranging from the electronic battlefield to the \u201cStar Wars\u201d missile defense technologies to the national system for predicting global climate. But their mission to keep a vigil over applied science has led them into both moral dilemmas and political stews. In this spellbinding and meticulously researched history, science writer Ann Finkbeiner reveals the critical scientific advances\u2014and the unintended consequences\u2014of the Jasons\u2019 shadowy work as well as the fascinating personalities of the Jasons themselves.",
         "Number of Pages": "304",
         "ISBN": "9780670034895",
-        "Shelf": "Floor"
+        "Shelf": "B2"
     },
     {
         "Title": "The Judge",
@@ -6243,7 +6240,6 @@
     },
     {
         "Title": "The Lives of Beryl Markham",
-        "Floor Category": "Non-Fiction",
         "Subtitle": "Out of Africa's Hidden Free Spirit and Denys Finch Hatton's Last Great Love",
         "Author": "Errol Trzebinski",
         "Author (Last, First)": "Trzebinski, Errol",
@@ -6254,7 +6250,7 @@
         "Number of Pages": "396",
         "ISBN": "9780393035568",
         "Uploaded Image URL": "https://covers.openlibrary.org/b/id/9741370-L.jpg",
-        "Shelf": "Floor"
+        "Shelf": "B1"
     },
     {
         "Title": "The Lives of Wolves",
@@ -7707,6 +7703,7 @@
     {
         "Title": "Vendetta",
         "Floor Category": "Non-Fiction",
+        "Note": "True Crime",
         "Subtitle": "American Express and the Smearing of Edmond Safra",
         "Author": "Bryan Burrough,Edmond Safra",
         "Author (Last, First)": "Burrough, Bryan",
@@ -7721,6 +7718,7 @@
     {
         "Title": "Verner Panton",
         "Floor Category": "Non-Fiction",
+        "Note": "Large / Photo / Coffee Table Book",
         "Subtitle": "The Collected Works : Vitra Design Museum",
         "Author": "Verner Panton",
         "Author (Last, First)": "Panton, Verner",
