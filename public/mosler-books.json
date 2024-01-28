@@ -6276,6 +6276,7 @@
         "Summary": "#1 NEW YORK TIMES BESTSELLER \u2022 THE BLOCKBUSTER JACK REACHER SERIES THAT INSPIRED TWO MAJOR MOTION PICTURES AND THE STREAMING SERIES REACHER \u201cA perfect example of Lee Child\u2019s talent . . . This is not just a good story; it is a story with a purpose and a message.\u201d\u2014Huffington Post Reacher takes a stroll through a small Wisconsin town and sees a class ring in a pawn shop window: West Point 2005.\u00a0A tough year to graduate: Iraq, then Afghanistan.\u00a0The ring is tiny, for a woman, and it has her initials engraved on the inside.\u00a0Reacher wonders what unlucky circumstance made her give up something she earned over four hard years. He decides to find out. And find the woman. And return her ring. Why not? So begins a harrowing journey that takes Reacher through the upper Midwest, from a lowlife bar on the sad side of small town to a dirt-blown crossroads in the middle of nowhere, encountering bikers, cops, crooks, muscle, and a missing persons PI who wears a suit and a tie in the Wyoming wilderness. The deeper Reacher digs, and the more he learns, the more dangerous the terrain becomes. Turns out the ring was just a small link in a far darker chain. Powerful forces are guarding a vast criminal enterprise. Some lines should never be crossed. But then, neither should Reacher.",
         "Number of Pages": "416",
         "ISBN": "9780525482895",
+        "STATUS": "MISPLACED",
         "Shelf": "C1"
     },
     {
@@ -8102,5 +8103,32 @@
         "Language": "English",
         "ISBN": "9780316204361",
         "Shelf": "A3"
+    },
+    {
+        "Title": "Crescent Dawn",
+        "Author": "Clive Cussler,Dirk Cussler",
+        "Author (Last, First)": "Cussler, Clive",
+        "Publisher": "G. P. Putnam's Sons",
+        "Year Published": "2010",
+        "Genre": "nyt:mass_market_paperback=2011-10-22",
+        "Summary": "Deep sea explorer and NUMA director Dirk Pitt encounters the\u00a0last direct descendants of the Ottoman dynasty as they prepair to incite a revolution in this novel in the #1 New York Times-bestselling series.In a.d. 327, a Roman galley with an extraordinary cargo barely escapes a pirate attack. In 1916, a British warship mysteriously explodes in the middle of the North Sea.\u00a0In the present day, a cluster of important mosques in Turkey and Egypt are wracked by explosions.What ties them all together? NUMA director Dirk Pitt and his team are about to find out, as Roman artifacts discovered in Turkey and Israel unnervingly connect to the rise of a fundamentalist movement determined to restore the glory of the Ottoman Empire. From Washington to London to the treacherous shores of the Near East, dangerous men and desperate acts fill their path, and at the end of it, the most dangerous thing of all: the rumored existence of a mysterious \u201cmanifest,\u201d lost long ago, which if discovered again could shed new light on early Christianity and just might change the history of the world as we know it.Filled with breathtaking suspense and extraordinary imagination, Crescent Dawn is further proof that when it comes to adventure writing, nobody beats Clive Cussler.",
+        "Number of Pages": "548",
+        "Language": "English",
+        "ISBN": "9780399157141",
+        "Shelf": "E2"
+    },
+    {
+        "Title": "No Hero",
+        "Subtitle": "The Evolution of a Navy SEAL",
+        "Author": "Mark Owen,Kevin Maurer",
+        "Author (Last, First)": "Owen, Mark",
+        "Publisher": "Penguin",
+        "Year Published": "2014",
+        "Genre": "Biography & Autobiography",
+        "Summary": "The companion volume to the multimillion-copy classic No Easy Day by former Navy SEAL Mark Owen reveals the evolution of a SEAL Team Six operator  Mark Owen's instant #1 New York Times bestseller, No Easy Day: The Firsthand Account of the Mission that Killed Osama bin Laden, focused on the high-profile targets and headline-grabbing chapters of the author's thirteen years as a Navy SEAL. His follow-up, No Hero, offers a rare counterpoint: an account of Owen's most personally meaningful missions, missions that never made headlines, including the moments in which he learned the most about himself and his teammates in both success and failure.  ?I want No Hero to offer something most books on war don't: the intimate side of it, the personal struggles and hardships and what I learned from them,\u201d says Owen. ?The stories in No Hero are a testament to my teammates and to all the other active and former SEALs who have dedicated their lives to freedom. In our community, we are constantly taught to mentor the younger generation and to pass the lessons and values we've learned on to others so that they can do the same for the guys coming up after them. This is what I hope I have done for readers of No Hero.\u201d  Every bit as action-packed as No Easy Day, and featuring stories from the training ground to the battlefield, No Hero offers readers a never-before-seen close-up view of the experiences and values that make Mark Owen and the SEALs he served with capable of executing the missions we read about in the headlines.",
+        "Number of Pages": "290",
+        "Language": "English",
+        "ISBN": "9780525954521",
+        "Shelf": "B1"
     }
 ]
