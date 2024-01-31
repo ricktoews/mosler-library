@@ -53,15 +53,28 @@ const Books = ({ books }) => {
 
     return (
         <div>
-            <div style={{ position: 'relative' }}>
+            <div style={{ display: 'flex', justifyContent: 'center', background: 'rgba(80,80,80,.1)', position: 'relative', marginBottom: '5px' }}>
                 <div>Search: <input onChange={handleBookSearch} type="text" id="search" name="search" /></div>
 
-                <div ref={bookDropdownRef} style={{ display: 'none', position: 'absolute', top: 'calc(100% + 2px)', left: '64px', width: '350px', height: '100px', padding: '5px', border: '1px solid #ccc', background: '#fff', overflowY: 'auto' }} className="book-dropdown-wrapper">
-                    {filteredBooks.map((item, key) => {
-                        return (<div key={key} data-id={item.Title} style={{ cursor: 'pointer', borderBottom: '1px solid #ccc' }}>
-                            {item.Shelf} - {item.Title} - {item['Author (Last, First)']}
-                        </div>)
-                    })}
+                <div ref={bookDropdownRef} style={{ display: 'none', flexGrow: 1, marginBottom: '20px', position: 'absolute', top: 'calc(100% + 2px)', left: '0px', padding: '5px', border: '1px solid #ccc', background: '#fff', overflowY: 'auto' }} className="book-dropdown-wrapper">
+                    <table className="table">
+                        <thead>
+                            <tr>
+                                <th>Shelf</th>
+                                <th>Title</th>
+                                <th>Author</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {filteredBooks.map((item, key) => {
+                                return (<tr key={key} data-id={item.Title} style={{ borderBottom: '1px solid #ccc' }}>
+                                    <td>{item.Shelf}</td>
+                                    <td>{item.Title}</td>
+                                    <td>{item['Author (Last, First)']}</td>
+                                </tr>);
+                            })}
+                        </tbody>
+                    </table>
                 </div>
             </div>
 
