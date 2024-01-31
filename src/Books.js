@@ -42,6 +42,8 @@ const Books = ({ books }) => {
             console.log('==== handleBookSearch filtered books', _filteredBooks);
             bookDropdownRef.current.style.display = 'block';
             setFilteredBooks(_filteredBooks);
+        } else {
+            bookDropdownRef.current.style.display = 'none';
         }
     }
 
