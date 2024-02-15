@@ -6,6 +6,7 @@ import Hamburger from './components/Hamburger';
 import Books from './Books';
 import AuthorList from './AuthorList';
 import GenreList from './GenreList';
+import Share from './Share';
 
 function App() {
   const [books, setBooks] = useState([]);
@@ -92,6 +93,7 @@ function App() {
             <li><Link to="/" onClick={toggleMenu}>Books</Link></li>
             <li><Link to="/authors" onClick={toggleMenu}>Authors</Link></li>
             <li><Link to="/genres" onClick={toggleMenu}>Genres</Link></li>
+            <li><Link to="/share" onClick={toggleMenu}>QR Code</Link></li>
           </ul>
         </nav>
       </div>
@@ -106,6 +108,7 @@ function App() {
           <Route path="/" element={<Books books={books} />} />
           <Route path="/authors" element={<AuthorList books={books} />} />
           <Route path="/genres" element={<GenreList books={books} />} />
+          <Route path="/share" element={<Share />} />
         </Routes>
       </div>
     </div>
