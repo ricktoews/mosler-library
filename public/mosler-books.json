@@ -2770,7 +2770,7 @@
         "Genre": "Influence",
         "Number of Pages": "198",
         "ISBN": "9780870999819",
-        "Shelf": "Cart"
+        "Shelf": "A1"
     },
     {
         "Title": "James Clavell's Whirlwind",
@@ -8336,5 +8336,63 @@
         "Number of Pages": "304",
         "ISBN": "9781101972670",
         "Shelf": "A2"
+    },
+    {
+        "Title": "From Taos with Love",
+        "Subtitle": "Recipes from the Land of Enchantment",
+        "Author": "Melody Sayre",
+        "Author (Last, First)": "Sayre, Melody",
+        "Publisher": "From Taos With Love",
+        "Date Published": "2011/11/23",
+        "Year Published": "2011",
+        "Genre": "Cooking",
+        "Language": "English",
+        "ISBN": "9780615654621",
+        "Favorites": "0",
+        "Rating": "0.000000",
+        "Status": "Unread",
+        "Status Hidden": "0",
+        "Returned from Borrow": "0",
+        "Date Added": "2024/02/18 13:06:45.158648014",
+        "Google VolumeID": "A7laLwEACAAJ",
+        "Wish List": "0",
+        "Previously Owned": "0",
+        "Up Next": "0"
+    },
+    {
+        "Title": "KCTS9 Chefs 2009",
+        "Subtitle": "Signature Recipes from our Viewers' Favorite Local Restaurants",
+        "Author": "",
+        "Author (Last, First)": "",
+        "Publisher": "KCTS9",
+        "Year Published": "2009",
+        "Genre": "Food",
+        "Number of Pages": "387",
+        "ISBN": "",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "Romantic Recipes That Set The Mood For Love",
+        "Subtitle": "",
+        "Author": "",
+        "Author (Last, First)": "",
+        "Publisher": "",
+        "Year Published": "",
+        "Genre": "Food",
+        "Number of Pages": "53",
+        "ISBN": "",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "España I",
+        "Subtitle": "Las Cocinas del Mediterráno",
+        "Author": "Ignacio Medina",
+        "Author (Last, First)": "Medina, Ignacio",
+        "Publisher": "",
+        "Year Published": "",
+        "Genre": "Food",
+        "Number of Pages": "70",
+        "ISBN": "",
+        "Shelf": "A1"
     }
 ]
