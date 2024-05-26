@@ -891,7 +891,8 @@
         "ISBN": "9780393081817",
         "Shelf": "A2",
         "Missing": "2024-02-18",
-        "MISSING STILL": "2024-05-25"
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "Borders Up!",
@@ -3322,7 +3323,8 @@
         "ISBN": "9780060928926",
         "Shelf": "A3",
         "Missing": "2024-02-18",
-        "MISSING STILL": "2024-05-25"
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "Marrow",
@@ -4279,7 +4281,8 @@
         "ISBN": "9781598803815",
         "Shelf": "A2",
         "Missing": "2024-02-18",
-        "MISSING STILL": "2024-05-25"
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "Ride the Lightning",
@@ -6397,7 +6400,8 @@
         "ISBN": "9780812906530",
         "Shelf": "A1",
         "Missing": "2024-02-18",
-        "MISSING STILL": "2024-05-25"
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "The News from Paraguay",
@@ -7411,7 +7415,8 @@
         "ISBN": "9780141008417",
         "Shelf": "A2",
         "Missing": "2024-02-18",
-        "MISSING STILL": "2024-05-25"
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "Tishomingo Blues",
@@ -7813,7 +7818,8 @@
         "ISBN": "9781455558902",
         "Shelf": "A2",
         "Missing": "2024-02-18",
-        "MISSING STILL": "2024-05-25"
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "Wicked Messenger",
