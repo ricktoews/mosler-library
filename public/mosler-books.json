@@ -48,7 +48,7 @@
         "Summary": "It begins, dramatically enough, with a trial for murder. The distinguished criminal lawyer Venetia Aldridge is defending Garry Ashe on charges of having brutally killed his aunt. For Aldridge the trial is mainly a test of her courtroom skills, one more opportunity to succeed--and she does. But now murder is in the air. The next victim will be Aldridge herself, stabbed to death at her desk in her Chambers in the Middle Temple, a bloodstained wig on her head. Enter Commander Adam Dalgliesh and his team, whose struggle to investigate and understand the shocking events cannot halt the spiral into more horrors, more murders...A Certain Justice is P.D. James at her strongest. In her first foray into the strange closed world of the Law Courts and the London legal community, she has created a fascinating tale of interwoven passion and terror. As each character leaps into unforgettable life, as each scene draws us forward into new complexities of plot, she proves yet again that no other writer can match her skill in combining the excitement of the classic detective story with the richness of a fine novel. In its subtle portrayal of morality and human behavior, A Certain Justice will stand alongside Devices and Desires and A Taste for Death as one of P.D. James's most important, accomplished and entertaining works.",
         "Number of Pages": "364",
         "ISBN": "9780375401091",
-        "Shelf": "C2"
+        "Shelf": "C1"
     },
     {
         "Title": "A Civil Action",
@@ -190,6 +190,7 @@
         "Summary": "Diane Ackerman's lusciously written grand tour of the realm of the senses includes conversations with an iceberg in Antarctica and a professional nose in New York, along with dissertations on kisses and tattoos, sadistic cuisine and the music played by the planet Earth. \"Delightful . . . gives the reader the richest possible feeling of the worlds the senses take in.\" --The New York Times",
         "Number of Pages": "352",
         "ISBN": "9780679735663",
+        "MISSING": "2024-05-25",
         "Shelf": "B3"
     },
     {
@@ -240,6 +241,7 @@
         "Summary": "Rural Wisconsin, 1909. In the bitter cold, Ralph Truitt, a successful businessman, stands alone on a train platform waiting for the woman who answered his newspaper advertisement for \"a reliable wife.\" But when Catherine Land steps off the train from Chicago, she's not the \"simple, honest woman\" that Ralph is expecting. She is both complex and devious, haunted by a terrible past and motivated by greed. Her plan is simple: she will win this man's devotion, and then, ever so slowly, she will poison him and leave Wisconsin a wealthy widow. What she has not counted on, though, is that Truitt -- a passionate man with his own dark secrets --has plans of his own for his new wife. Isolated on a remote estate and imprisoned by relentless snow, the story of Ralph and Catherine unfolds in unimaginable ways. With echoes of Wuthering Heights and Rebecca, Robert Goolrick's intoxicating debut novel delivers a classic tale of suspenseful seduction, set in a world that seems to have gone temporarily off its axis.",
         "Number of Pages": "320",
         "ISBN": "9781565129771",
+        "MISSING": "2024-05-25",
         "Shelf": "D3"
     },
     {
@@ -519,6 +521,8 @@
         "Number of Pages": "464",
         "ISBN": "9781984830203",
         "MISSING": "2024-02-20",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true,
         "Shelf": "D2"
     },
     {
@@ -647,6 +651,7 @@
         "Summary": "The untold story of the historic voyage to the moon that closed out one of our darkest years with a nearly unimaginable triumph.In August 1968, NASA made a bold decision: in just sixteen weeks, the United States would launch humankind's first flight to the moon. Only the year before, three astronauts had burned to death in their spacecraft, and since then the Apollo program had suffered one setback after another. Meanwhile, the Russians were winning the space race, the Cold War was getting hotter by the month, and President Kennedy's promise to put a man on the moon by the end of the decade seemed sure to be broken. But when Frank Borman, Jim Lovell and Bill Anders were summoned to a secret meeting and told of the dangerous mission, they instantly signed on.Written with all the color and verve of the best narrative non-fiction, Apollo 8 takes us from Mission Control to the astronaut's homes, from the test labs to the launch pad. The race to prepare an untested rocket for an unprecedented journey paves the way for the hair-raising trip to the moon. Then, on Christmas Eve, a nation that has suffered a horrendous year of assassinations and war is heartened by an inspiring message from the trio of astronauts in lunar orbit. And when the mission is over--after the first view of the far side of the moon, the first earth-rise, and the first re-entry through the earth's atmosphere following a flight to deep space--the impossible dream of walking on the moon suddenly seems within reach. The full story of Apollo 8 has never been told, and only Jeffrey Kluger--Jim Lovell's co-author on their bestselling book about Apollo 13--can do it justice. Here is the tale of a mission that was both a calculated risk and a wild crapshoot, a stirring account of how three American heroes forever changed our view of the home planet.",
         "Number of Pages": "320",
         "ISBN": "9781250182517",
+        "MISSING": "2024-05-25",
         "Shelf": "B2"
     },
     {
@@ -885,7 +890,8 @@
         "Number of Pages": "213",
         "ISBN": "9780393081817",
         "Shelf": "A2",
-        "Missing": "2024-02-18"
+        "Missing": "2024-02-18",
+        "MISSING STILL": "2024-05-25"
     },
     {
         "Title": "Borders Up!",
@@ -1496,7 +1502,9 @@
         "ISBN": "9780965034098",
         "Uploaded Image URL": "https://covers.openlibrary.org/b/id/8292230-L.jpg",
         "Shelf": "B3",
-        "Missing": "2024-02-18"
+        "MISSING": "2024-02-18",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "Devil's Gate",
@@ -1706,7 +1714,9 @@
         "Number of Pages": "94",
         "ISBN": "9789875020962",
         "Shelf": "B2",
-        "Missing": "2024-02-18"
+        "MISSING": "2024-02-18",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "Elevation",
@@ -1949,6 +1959,8 @@
         "Number of Pages": "400",
         "ISBN": "9781471134975",
         "MISSING": "2024-02-20",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true,
         "Shelf": "C2"
     },
     {
@@ -2142,6 +2154,7 @@
         "Summary": "From Slapstick's \"Turkey Farm\" to Slaughterhouse-Five's eternity in a Tralfamadorean zoo cage with Montana Wildhack, the question of the afterlife never left Kurt Vonnegut's mind. In God Bless You, Dr. Kevorkian, Vonnegut skips back and forth between life and the Afterlife as if the difference between them were rather slight. In thirty odd \"interviews,\" Vonnegut trips down \"the blue tunnel to the pearly gates\" in the guise of a roving reporter for public radio, conducting interviews: with Salvatore Biagini, a retired construction worker who died of a heart attack while rescuing his schnauzer from a pit bull, with John Brown, still smoldering 140 years after his death by hanging, with William Shakespeare, who rubs Vonnegut the wrong way, and with socialist and labor leader Eugene Victor Debs, one of Vonnegut's personal heroes. What began as a series of ninety-second radio interludes for WNYC, New York City's public radio station, evolved into this provocative collection of musings about who and what we live for, and how much it all matters in the end. From the original portrait by his friend Jules Feiffer that graces the cover, to a final entry from Kilgore Trout, God Bless You, Dr. Kevorkian remains a joy.",
         "Number of Pages": "79",
         "ISBN": "9781583220207",
+        "MISSING": "2024-05-25",
         "Shelf": "D1"
     },
     {
@@ -2181,7 +2194,7 @@
         "Summary": "Lonely Planet: The world's leading travel guide publisher* Ancient trails. Underwater chasms. Ice-clad peaks.Great Adventures showcase of the world's most thrilling adventures takes you by boot, pedal or paddle to awe-inspiring natural spectacles and on adrenalin-charged feats of endeavour. You don't need to be intrepid necessarily, but you will need to embrace the spirit of adventure! Authors: Written and researched by Lonely Planet, Andrew Bain, Sarah Gilbert, Luke Waterson, Ray Bartlett, Steve Waters, Jim DuFresne, Lucy Burningham, Kerry Christiani, Greg Benchwick, Gabi Mocatta, Abigail Blasi, Joe Bindloss, Scott Kennedy, Sarah Baxter, Bradley Mayhew, Ben Kozel, Caroline Veldhuis, Paul Bloomfeild, Ben Fogie, Craig Scutt, Gregor Clark About Lonely Planet: Started in 1973, Lonely Planet has become the world's leading travel guide publisher with guidebooks to every destination on the planet, as well as an award-winning website, a suite of mobile and digital travel products, and a dedicated traveller community. Lonely Planet's mission is to enable curious travellers to experience the world and to truly get to the heart of the places where they travel. TripAdvisor Travellers' Choice Awards 2012 and 2013 winner in Favorite Travel Guide category 'Lonely Planet guides are, quite simply, like no other.' - New York Times 'Lonely Planet. It's on everyone's bookshelves; it's in every traveller's hands. It's on mobile phones. It's on the Internet. It's everywhere, and it's telling entire generations of people how to travel the world.' - Fairfax Media (Australia) *#1 in the world market share - source: Nielsen Bookscan. Australia, UK and USA. March 2012-January 2013",
         "Number of Pages": "320",
         "ISBN": "9781742209647",
-        "Shelf": "Floor"
+        "Shelf": "A2"
     },
     {
         "Title": "Great Fashion Designs of the Victorian Era Paper Dolls in Full Color",
@@ -2917,6 +2930,8 @@
         "Number of Pages": "320",
         "ISBN": "9780593318171",
         "MISSING": "2024-02-20",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true,
         "Shelf": "D2"
     },
     {
@@ -3188,7 +3203,9 @@
         "Number of Pages": "384",
         "ISBN": "9783822846223",
         "Shelf": "B3",
-        "Missing": "2024-02-18"
+        "Missing": "2024-02-18",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true
     },
     {
         "Title": "London",
@@ -3304,7 +3321,8 @@
         "Number of Pages": "192",
         "ISBN": "9780060928926",
         "Shelf": "A3",
-        "Missing": "2024-02-18"
+        "Missing": "2024-02-18",
+        "MISSING STILL": "2024-05-25"
     },
     {
         "Title": "Marrow",
@@ -3674,6 +3692,7 @@
         "Summary": "Now available: Nudge: The Final EditionThe original edition of the multimillion-copy New York Times bestseller by the winner of the Nobel Prize in Economics, Richard H. Thaler, and Cass R. Sunstein: a revelatory look at how we make decisions--for fans of Malcolm Gladwell's Blink, Charles Duhigg's The Power of Habit, James Clear's Atomic Habits, and Daniel Kahneman's Thinking, Fast and SlowNamed a Best Book of the Year by The Economist and the Financial TimesEvery day we make choices--about what to buy or eat, about financial investments or our children's health and education, even about the causes we champion or the planet itself. Unfortunately, we often choose poorly. Nudge is about how we make these choices and how we can make better ones. Using dozens of eye-opening examples and drawing on decades of behavioral science research, Nobel Prize winner Richard H. Thaler and Harvard Law School professor Cass R. Sunstein show that no choice is ever presented to us in a neutral way, and that we are all susceptible to biases that can lead us to make bad decisions. But by knowing how people think, we can use sensible \"choice architecture\" to nudge people toward the best decisions for ourselves, our families, and our society, without restricting our freedom of choice.",
         "Number of Pages": "320",
         "ISBN": "9780143115267",
+        "MISSING": "2024-05-25",
         "Shelf": "E1"
     },
     {
@@ -3834,6 +3853,8 @@
         "Number of Pages": "480",
         "ISBN": "9780385514231",
         "MISSING": "2024-02-20",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true,
         "Shelf": "E2"
     },
     {
@@ -3926,6 +3947,7 @@
         "Summary": "One city always seems to win the award for most-wanted style--Paris, where people walking down the avenues mix timeless and trendy pieces in a way that appears effortless. French fashion writers Isabelle Thomas and Frédérique Veysset break down the \"je ne sais quoi\" of Paris street style, describing the essential elements that should be in everyone's wardrobe. Renowned experts on French style--designers, stylists, editors, and celebrities--also chime in to reveal their favorite accessories and how to create multidimensional looks and make affordable clothing appear luxurious. Starring both fashion icons and anonymous women met on the streets of Paris and richly illustrated with hand-drawn sketches and Veysset's striking photographs, Paris Street Style is an inspirational fashion guide that will allow you, no matter where you are from, to cultivate an everyday style of timeless glamour, careless, easy chic--votre style fran\u00e7ais.  Praise for Paris Street Style:  \"In this fun new book, a pair of fashion bloggers promise to reveal the secrets of their compatriots' mysterious and seemingly innate ability to look sophisticated under any circumstances. With the help of hand-drawn illustrations and photos of models, fashionistas and anonymous women met in the street, they dissect the essential elements of les Parisiennes' deceptively casual, highly individualistic brand of urban chic and offer readers tips galore on creating their own personal style.\" --France Magazine",
         "Number of Pages": "192",
         "ISBN": "9781419706813",
+        "MISSING": "2024-05-25",
         "Shelf": "E1"
     },
     {
@@ -4256,7 +4278,8 @@
         "Number of Pages": "240",
         "ISBN": "9781598803815",
         "Shelf": "A2",
-        "Missing": "2024-02-18"
+        "Missing": "2024-02-18",
+        "MISSING STILL": "2024-05-25"
     },
     {
         "Title": "Ride the Lightning",
@@ -4318,6 +4341,8 @@
         "Number of Pages": "544",
         "ISBN": "9781455597956",
         "MISSING": "2024-02-20",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true,
         "Shelf": "C3"
     },
     {
@@ -4607,6 +4632,8 @@
         "Number of Pages": "432",
         "ISBN": "9780812980332",
         "MISSING": "2024-02-20",
+        "MISSING STILL": "2024-05-25",
+        "REMOVE": true,
         "Shelf": "E2"
     },
     {
@@ -5341,6 +5368,7 @@
         "Summary": "Turow's acclaimed second novel, which topped international bestseller lists, is now available in trade paperback. Sandy Stern, the brilliant defense attorney from Presumed Innocent, faces an event so emotionally shattering that no part of his life is left untouched. It reveals a family caught in a maelstrom of hidden crimes, shocking secrets, and warring passions.",
         "Number of Pages": "576",
         "ISBN": "9780446360586",
+        "MISSING": "2024-05-25",
         "Shelf": "C2"
     },
     {
@@ -5780,6 +5808,7 @@
         "Summary": "Mikael Blomkvist, crusading journalist and publisher of the magazine Millennium, has decided to run a story that will expose an extensive sex trafficking operation between Eastern Europe and Sweden, implicating well-known and highly placed members of Swedish society, business, and government.  But he has no idea just how explosive the story will be until, on the eve of publication, the two investigating reporters are murdered. And even more shocking for Blomkvist: the fingerprints found on the murder weapon belong to Lisbeth Salander the troubled, wise-beyond-her-years genius hacker who came to his aid in The Girl with the Dragon Tattoo, and who now becomes the focus and fierce heart of The Girl Who Played with Fire.  As Blomkvist, alone in his belief in Salander s innocence, plunges into an investigation of the slayings, Salander herself is drawn into a murderous hunt in which she is the prey, and which compels her to revisit her dark past in an effort to settle with it once and for all.",
         "Number of Pages": "649",
         "ISBN": "9781906694159",
+        "MISSING": "2024-05-25",
         "Shelf": "C2"
     },
     {
@@ -5994,6 +6023,7 @@
         "Summary": "This is the Color Edition of the book.100+ delicious low-carb recipes for efficient weight loss!This is the recipe-only version of 'The Keto Vegan: 87 Low-Carb Recipes For A 100% Plant-Based Ketogenic Diet'. Other editions are listed under Lydia's author profile.Effortlessly prepare 101 mouth-watering plant-based dishes with a super low carb count. Combine the ketogenic principals with the plant-based diet to reap the health and weight loss and energy benefits united with a vegan lifestyle.Choose nutrient-dense nutrition and incorporate whole, natural foods that are rich in healthy fats and proteins in your diet. With these 101 recipes, your ketogenic journey will be an absolute walk in the park. Nutrition facts, allergy tags and storage info are included for every single dish!Recipes Include:   Pumpkin Spice Muffins Truffle Parmesan Bread Cashew Siam Salad And 105 (of which 7 essentials) more...  This book has something for everyone interested in low-carb recipes. Grab your 101 ultimate keto vegan recipes today! We print your books using the most revolutionary technology available, effectively reducing waste and CO2 emissions.",
         "Number of Pages": "148",
         "ISBN": "9789492788306",
+        "MISSING": "2024-05-25",
         "Shelf": "A1"
     },
     {
@@ -6143,6 +6173,7 @@
         "Summary": "Monsieur Perdu can prescribe the perfect book for a broken heart. But can he fix his own?   Monsieur Perdu calls himself a literary apothecary. From his floating bookstore in a barge on the Seine, he prescribes novels for the hardships of life. Using his intuitive feel for the exact book a reader needs, Perdu mends broken hearts and souls. The only person he can't seem to heal through literature is himself; he's still haunted by heartbreak after his great love disappeared. She left him with only a letter, which he has never opened. After Perdu is finally tempted to read the letter, he hauls anchor and departs on a mission to the south of France, hoping to make peace with his loss and discover the end of the story. Joined by a bestselling but blocked author and a lovelorn Italian chef, Perdu travels along the country's rivers, dispensing his wisdom and his books, showing that the literary world can take the human soul on a journey to heal itself. Internationally bestselling and filled with warmth and adventure, The Little Paris Bookshop is a love letter to books, meant for anyone who believes in the power of stories to shape people's lives.",
         "Number of Pages": "416",
         "ISBN": "9780553418798",
+        "MISSING": "2024-05-25",
         "Shelf": "E1"
     },
     {
@@ -6324,6 +6355,7 @@
         "Summary": "The Dupayne, a small private museum on the edge of London's Hampstead Heath devoted to the interwar years 1919-39, is in turmoil. The trustees--the three children of the museum founder, old Max Dupayne--are bitterly at odds over whether it should be closed. Then one of them is brutally murdered, and what seemed to be no more than a family dispute erupts into horror. For even as Commander Adam Dalgiesh and his team investigate the first killing, a second corpse is discovered. Clearly, someone at the Dupayne is prepared to kill, and kill again. The case is fraught with danger and complexity from the outset, not least because of the range of possible suspects--and victims. And still more sinister, the murders appear to echo the notorious crimes of th epast featured in one of the museum's most popular galleries, the Murder Room. For Dalgiesh, P.D. James's formidable detective, the search for the murderer poses an unexpected complication. After years of bachelorhood, he has embarked on a promising new relationship with Emma Lavenham--first introduced in \"Death in Holy Orders\"--which is at a critical stage. Yet his struggle to solve the Dupayne murders faces him with a frustrating dilemma: each new development distances him further from commitment to the woman he loves. \"The Murder Room\" is a story dark with the passions that lie at the heart of crime, a masterful work of psychological intricacy. It proves yet again that P.D. James fully deserves her place among the best of modern novelists.",
         "Number of Pages": "415",
         "ISBN": "9781400041411",
+        "MISSING": "2024-05-25",
         "Shelf": "C1"
     },
     {
@@ -6364,7 +6396,8 @@
         "Number of Pages": "240",
         "ISBN": "9780812906530",
         "Shelf": "A1",
-        "Missing": "2024-02-18"
+        "Missing": "2024-02-18",
+        "MISSING STILL": "2024-05-25"
     },
     {
         "Title": "The News from Paraguay",
@@ -6867,6 +6900,7 @@
         "Number of Pages": "197",
         "ISBN": "9781607435648",
         "Uploaded Image URL": "https://covers.openlibrary.org/b/id/12760051-L.jpg",
+        "MISSING": "2024-05-25 - CENTER TABLE",
         "Shelf": "E1"
     },
     {
@@ -7376,7 +7410,8 @@
         "Number of Pages": "416",
         "ISBN": "9780141008417",
         "Shelf": "A2",
-        "Missing": "2024-02-18"
+        "Missing": "2024-02-18",
+        "MISSING STILL": "2024-05-25"
     },
     {
         "Title": "Tishomingo Blues",
@@ -7777,7 +7812,8 @@
         "Number of Pages": "375",
         "ISBN": "9781455558902",
         "Shelf": "A2",
-        "Missing": "2024-02-18"
+        "Missing": "2024-02-18",
+        "MISSING STILL": "2024-05-25"
     },
     {
         "Title": "Wicked Messenger",
@@ -8310,7 +8346,8 @@
         "Summary": "From the author of the #1 New York Times best seller How to Avoid a Climate Disaster: The COVID-19 pandemic isn\u2019t over, but even as governments around the world strive to put it behind us, they\u2019re also starting to talk about what happens next. How can we prevent a new pandemic from killing millions of people and devastating the global economy? Can we even hope to accomplish this?Bill Gates believes the answer is yes, and in this book he lays out clearly and convincingly what the world should have learned from COVID-19 and what all of us can do to ward off another disaster like it. Relying on the shared knowledge of the world\u2019s foremost experts and on his own experience of combating fatal diseases through the Gates Foundation, he first helps us understand the science of infectious diseases. Then he shows us how the nations of the world, working in conjunction with one another and with the private sector, can not only ward off another COVID-like catastrophe but also eliminate all respiratory diseases, including the flu.\u00a0Here is a clarion call\u2014strong, comprehensive, and of the gravest importance\u2014from one of our greatest and most effective thinkers and activists.",
         "Number of Pages": "304",
         "ISBN": "9780593534489",
-        "Shelf": "A3"
+        "Shelf": "A3",
+        "MISSING": "2024-05-25"
     },
     {
         "Title": "Leading with Questions",
@@ -8386,6 +8423,261 @@
         "Genre": "Food",
         "Number of Pages": "70",
         "ISBN": "",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "The Fast Track Detox Diet",
+        "Subtitle": "Boost metabolism, get rid of fattening toxins, jump-start weight loss and keep the pounds off for good",
+        "Author": "Ann Louise Gittleman, Ph.D., CNS",
+        "Author (Last, First)": "CNS, Ann Louise Gittleman, Ph.D.,",
+        "Publisher": "Harmony/Rodale",
+        "Year Published": "2006",
+        "Genre": "Health & Fitness",
+        "Summary": "You know how it is. That special event just around the corner and you can\u2019t fit into your designer jeans. You need a fool-proof, emergency weight-loss method that really works and works fast. So how do you safely and quickly lose those extra pounds? Once again, renowned health pioneer and bestselling author Ann Louise Gittleman has a quick, no-strings-attached solution that is also good for you. She is always on the cutting edge of developing new methods to rejuvenate the body and facilitate weight loss and she\u2019s done it again in The Fast Track One-Day Detox Diet. Gittleman takes the age-old method of fasting and incorporates it into a safe and healthy one-day plan that helps you lose weight fast, gets rid of toxins, and gives your body a cleansing boost to prepare it for even more weight loss down the road. The plan itself is blissfully simple: THE PREQUEL: Seven days of adding detox support foods to your diet to prepare your body for the one-day FastTHE FAST: One day of sipping Gittleman\u2019s \u201cMiracle Juice,\u201d a deliciously spiced mixture of herbs and spices specially designed to stave off hunger, balance blood sugar, boost metabolism, and replenish nutrients (no kidding, the juice is completely delicious) THE SEQUEL: Three days of reintroducing supportive and immune-boosting foods into your diet to seal in the results That\u2019s all. There\u2019s no need for a strict maintenance plan or more dieting because the Fast Track One-Day Detox Diet purges your body of fattening toxins so that you\u2019ll keep losing weight once you\u2019re finished. What\u2019s more, if you can\u2019t add those healthy foods to your diet in the Prequel and Sequel, Gittleman provides a list of replacement supplements that you can easily find in your local health food store or online.So, use The Fast Track One-Day Detox Diet to jump start an over-40 metabolism, melt away vacation or holiday pounds, break a diet plateau, get in shape for that high school reunion or wedding, and even help heal a chronic illness. Even if you\u2019ve been slow to lose weight in the past, the pounds will melt away quickly during your one-day fast. Inside there are recipes to prepare for the fast, shopping lists, and tips for sailing through the fast. In addition, Ann Louise Gittleman shares the wisdom she\u2019s gained from years of research on health, diet, and nutrition. You\u2019ll find out about hidden toxins found in the environment and in everyday foods, and learn easy steps you can take to live healthier every day. The perfect diet: simplicity, effortless weight loss, and obvious health benefits from a nutritionist with a proven tack record. You\u2019ll feel so good after your first fast, you\u2019ll want to incorporate the Fast Track\u2019s cleansing principles and periodic fasting into your life for good.  Don\u2019t delay, it\u2019s time to jump on the Fast Track to a lighter, healthier you.Ready, Set, GlowWhat if you could lose three to eight pounds in a single day? What if that nearly instant weight loss made you feel lighter, freer, cleaner, and more energized? What if that single day began a healing, cleansing, revitalizing process, raising your awareness of the poisons that pollute our environment and purging your body of the toxins that set you up for weight gain, fatigue, and a host of deadly, debilitating diseasesWhat if that one day of weight loss could help jump-start a long-term weight-loss plan? Well, that single day is here. With Ann Louise Gittleman\u2019s The Fast Track One-Day Detox Diet you can:Cleanse your system back to healthGet rid of unhealthy, fattening toxins Safely lose up to 8 pounds overnight and keep them off for goodThe Fast Track One-Day Detox Diet is a whole new way to think about weight loss. This is the first crash diet that not only works in the long run, but is also good for you. GET ON THE FAST TRACKIT\u2019S SAFE. IT FEELS TERRIFIC. AND IT WORKS.",
+        "Number of Pages": "320",
+        "ISBN": "9780767920469",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "21-Day Sugar Detox Cookbook",
+        "Subtitle": "Over 100 Recipes for Any Program Level",
+        "Author": "Diane Sanfilippo",
+        "Publisher": "National Geographic Books",
+        "Year Published": "2013",
+        "Genre": "Cooking",
+        "Summary": "The 21-Day Sugar Detox Cookbook, a companion to The 21-Day Sugar Detox program guidebook, bursts with more than a hundred grain-, gluten-, legume-, dairy-, and sugar-free recipes to keep you inspired as you blow your cravings for sugar and carbs to smithereens. Taking on a detox plan can seem daunting, but these sumptuous recipes and life-altering eating concepts will make you wish you'd started sooner. Your 21 days will be over before you know it, your carb and sugar cravings a distant memory. With palate-pleasing, and soul-satisfying, recipes for breakfasts, lunches, dinners, snacks, and even some \"sweet\" treats, The 21-Day Sugar Detox Cookbook is your guarantee for delicious detox success!",
+        "Number of Pages": "240",
+        "ISBN": "9781936608133",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "Magic Beans",
+        "Subtitle": "150 Delicious Recipes Featuring Nature's Low-Fat Nutrient-Rich, Disease-Fighting Powerhouse",
+        "Author": "Patti Bazel Geil",
+        "Publisher": "Wiley",
+        "Year Published": "1996",
+        "Genre": "Cooking",
+        "Summary": "This collection of 150 recipes using more than 20 types of beans and lentils maximizes the health benefits while offering creative and sumptuous dishes even the toughest bean skeptics will enjoy.",
+        "Number of Pages": "208",
+        "ISBN": "9780471347477",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "The Complete Ketogenic Diet for Beginners",
+        "Subtitle": "Your Essential Guide to Living the Keto Lifestyle",
+        "Author": "Amy Ramos",
+        "Publisher": "Callisto Publishing",
+        "Year Published": "2016",
+        "Genre": "Cooking",
+        "Summary": "The #1 keto cookbook for beginners! Featuring 75 recipes and a 14-day meal plan, this book is a simple, friendly way to start the ketogenic diet and lifestyle.Getting started with the keto diet can be overwhelming\u2014so much to learn, and so many resources to choose from! The Complete Ketogenic Diet for Beginners makes it easy to stick with the ketogenic diet. You get exactly what you need for surprisingly simple keto: meal plans, shopping lists, support, and lots of keto recipes, whether you're trying to lose weight, or just working on being healthy.What sets this ketogenic cookbook apart from other keto books for beginners:THE BIG PICTURE: This ketogenic diet book offers an overview of the ketogenic diet and handy charts illustrating nutritional information to help you master keto cooking in no time.75 TASTY RECIPES: From Bacon-Artichoke Omelets to Pesto Zucchini Noodles, these easy-to-follow keto recipes can be prepared in 30 minutes or less.A 14-DAY MEAL PLAN: With breakfast, lunch, dinner, and snack suggestions, this book takes the guesswork out of starting your ketogenic diet by offering endless recipes to eat.Easy meets delicious meets healthy in this complete ketogenic diet book. Start eating keto today.",
+        "Number of Pages": "158",
+        "ISBN": "9781623158088",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "Between You & Me",
+        "Subtitle": "Confessions of a Comma Queen",
+        "Author": "Mary Norris",
+        "Author (Last, First)": "Norris, Mary",
+        "Publisher": "National Geographic Books",
+        "Year Published": "2016",
+        "Genre": "Language Arts & Disciplines",
+        "Summary": "\"Hilarious\u2026This book charmed my socks off.\" \u2014Patricia O\u2019Conner, New York Times Book Review Mary Norris has spent more than three decades working in The New Yorker\u2019s renowned copy department, helping to maintain its celebrated high standards. In Between You & Me, she brings her vast experience with grammar and usage, her good cheer and irreverence, and her finely sharpened pencils to help the rest of us in a boisterous language book as full of life as it is of practical advice. Named a Best Book of the Year by NPR, Amazon, Wall Street Journal, Publishers Weekly, Kirkus, and Library Journal.",
+        "Number of Pages": "240",
+        "ISBN": "9780393352146",
+        "Shelf": "B1"
+    },
+    {
+        "Title": "Devil's Bargain",
+        "Subtitle": "Steve Bannon, Donald Trump, and the Storming of the Presidency",
+        "Author": "Joshua Green",
+        "Author (Last, First)": "Green, Joshua",
+        "Publisher": "Penguin",
+        "Year Published": "2017",
+        "Genre": "Biography & Autobiography",
+        "Summary": "The instant #1 New York Times bestseller.  From the reporter who was there at the very beginning comes the revealing inside story of the partnership between Steve Bannon and Donald Trump--the key to understanding the rise of the alt-right, the fall of Hillary Clinton, and the hidden forces that drove the greatest upset in American political history.  Based on dozens of interviews conducted over six years, Green spins the master narrative of the 2016 campaign from its origins in the far fringes of right-wing politics and reality television to its culmination inside Trump's penthouse on election night.  The shocking elevation of Bannon to head Trump's flagging presidential campaign on August 17, 2016, hit political Washington like a thunderclap and seemed to signal the meltdown of the Republican Party. Bannon was a bomb-throwing pugilist who'd never run a campaign and was despised by Democrats and Republicans alike.   Yet Bannon's hard-edged ethno-nationalism and his elaborate, years-long plot to destroy Hillary Clinton paved the way for Trump's unlikely victory. Trump became the avatar of a dark but powerful worldview that dominated the airwaves and spoke to voters whom others couldn't see. Trump's campaign was the final phase of a populist insurgency that had been building up in America for years, and Bannon, its inscrutable mastermind, believed it was the culmination of a hard-right global uprising that would change the world.  Any study of Trump's rise to the presidency is unavoidably a study of Bannon. Devil's Bargain is a tour-de-force telling of the remarkable confluence of circumstances that decided the election, many of them orchestrated by Bannon and his allies, who really did plot a vast, right-wing conspiracy to stop Clinton. To understand Trump's extraordinary rise and Clinton's fall, you have to weave Trump's story together with Bannon's, or else it doesn't make sense.",
+        "Number of Pages": "272",
+        "ISBN": "9780735225022",
+        "Shelf": "E1"
+    },
+    {
+        "Title": "Frank O. Gehry",
+        "Subtitle": "The Complete Works",
+        "Author": "Francesco Dal Co,Frank O. Gehry,Hadley Soutter Arnold,Kurt Walter Forster",
+        "Author (Last, First)": "Co, Francesco Dal",
+        "Publisher": "Monacelli Press",
+        "Year Published": "1998",
+        "Genre": "Architecture",
+        "Summary": "One of the world's great architects, Frank O. Gehry has produced an astonishing body of work over the past forty years. This pioneering designer continues to receive worldwide praise from both peers and critics as the most talented and influential architect working today. With the artistry of a sculptor and the brilliant articulation of an engineer, Gehry creates complex yet sensual buildings that are lyrical constructions defying categorization. Assembled by Francesco Dal Co and Kurt Forster, two of architecture's most important writers and historians, in collaboration with Gehry, this comprehensive, critical documentation -- the first major monograph ever published -- surveys his visionary architecture, from his early houses to his powerful recent works. Bursting onto the scene in Southern California in the early 1960s, Gehry's revolutionary remodeling of his own house in 1978 -- the transformation of a suburban Dutch colonial into an architectural collage juxtaposing chain-link fence, plywood, exposed joists, and corrugated iron -- brought him international notoriety. His most important building to date, the recently completed Guggenheim Museum in Bilbao, Spain -- nearly twice the size of the Centre Georges Pompidou in Paris -- is a monumental 256,000-square-foot curvilinear masterpiece made of shimmering titanium, glass, and Spanish limestone. This eagerly awaited and unprecedented publication -- with over three hundred projects and a thousand illustrations -- includes, among others, the controversial American Center in Paris; Weisman Art Museum in Minneapolis; Nationale-Nedelanden Building (Fred and Ginger Building) in Prague; Vitra Headquarters in Weil am Rhein, Germany; California Aerospace Museum; Loyola Law School in Los Angeles; Chiat Day Mojo Building in Venice, California; and Boston Children's Museum. Also shown are his provocative designs for houses -- many of them in California -- as well as his installations, exhibitions, and ingenious corrugated cardboard furniture. Also presented is Gehry's largest U.S. commission to date, the Walt Disney Concert Hall, a cultural landmark and civic monument for his hometown of Los Angeles, which promises to change the concept of \"public space\" for generations to come.",
+        "Number of Pages": "614",
+        "ISBN": "9781885254634",
+        "Shelf": "Floor"
+    },
+    {
+        "Title": "Greek to Me",
+        "Subtitle": "Adventures of the Comma Queen",
+        "Author": "Mary Norris",
+        "Author (Last, First)": "Norris, Mary",
+        "Publisher": "National Geographic Books",
+        "Year Published": "2020",
+        "Genre": "Biography & Autobiography",
+        "Summary": "The Comma Queen returns with a buoyant book about language, love, and the wine-dark sea.In her New York Times bestseller Between You & Me, Mary Norris delighted readers with her irreverent tales of pencils and punctuation in The New Yorker\u2019s celebrated copy department. In Greek to Me, she delivers another wise and funny paean to the art of self-expression, this time filtered through her greatest passion: all things Greek. Greek to Me is a charming account of Norris\u2019s lifelong love affair with words and her solo adventures in the land of olive trees and ouzo. Along the way, Norris explains how the alphabet originated in Greece, makes the case for Athena as a feminist icon, goes searching for the fabled Baths of Aphrodite, and reveals the surprising ways Greek helped form English. Filled with Norris\u2019s memorable encounters with Greek words, Greek gods, Greek wine\u2014and more than a few Greek men\u2014Greek to Me is the Comma Queen\u2019s fresh take on Greece and the exotic yet strangely familiar language that so deeply influences our own.",
+        "Number of Pages": "240",
+        "ISBN": "9780393357868",
+        "Shelf": "B1"
+    },
+    {
+        "Title": "How to Raise a Reader",
+        "Author": "Pamela Paul,Maria Russo",
+        "Author (Last, First)": "Paul, Pamela",
+        "Publisher": "Workman Publishing",
+        "Year Published": "2019",
+        "Genre": "Family & Relationships",
+        "Summary": "An indispensable guide to welcoming children\u2014from babies to teens\u2014to a lifelong love of reading, written by Pamela Paul and Maria Russo, editors of The New York Times Book Review. \u00a0 Do you remember your first visit to where the wild things are? How about curling up for hours on end to discover the secret of the Sorcerer\u2019s Stone? Combining clear, practical advice with inspiration, wisdom, tips, and curated reading lists, How to Raise a Reader shows you how to instill the joy and time-stopping pleasure of reading. \u00a0 Divided into four sections, from baby through teen, and each illustrated by a different artist, this book offers something useful on every page, whether it\u2019s how to develop rituals around reading or build a family library, or ways to engage a reluctant reader. A fifth section, \u201cMore Books to Love: By Theme and Reading Level,\u201d is chockful of expert recommendations. Throughout, the authors debunk common myths, assuage parental fears, and deliver invaluable lessons in a positive and easy-to-act-on way.",
+        "Number of Pages": "216",
+        "ISBN": "9781523505302",
+        "Shelf": "A3"
+    },
+    {
+        "Title": "Hugs for Sons",
+        "Subtitle": "Stories, Sayings, and Scriptures to Encourage and Inspire",
+        "Author": "Debbie Webb,LeAnn Weiss",
+        "Author (Last, First)": "Webb, Debbie",
+        "Publisher": "Simon and Schuster",
+        "Year Published": "2003",
+        "Genre": "Prayers and devotions",
+        "Summary": "- Part of the best-selling Hugs series, this book is the perfect gift for any son.- Heartwarming stories told in chronological progression will delight readers, young and old.- Encouraging messages and paraphrased Scriptures reveal how much sons are valued and loved.",
+        "Number of Pages": "128",
+        "ISBN": "9781582293110",
+        "Shelf": "A3"
+    },
+    {
+        "Title": "Mastering Leptin",
+        "Subtitle": "The Leptin Diet : Solving Obesity and Preventing Disease!",
+        "Author": "Byron J. Richards,Mary Guignon Richard",
+        "Author (Last, First)": "Richards, Byron J.",
+        "Publisher": "Wellness Resources Books",
+        "Year Published": "2004",
+        "Genre": "Health & Fitness",
+        "Summary": "Mastering Leptin contains exciting health advancements in solving obesity and weight problems, fatigue and low energy, low thyroid function, hypothyroidism, stress eating and food cravings, hormonal imbalance, menopausal weight gain, accelerated aging, fibromyalgia. More than a diet book, Mastering Leptin includes lifestyle solutions that will help individuals lose weight, increase energy, and reduce risk for disease.",
+        "Number of Pages": "396",
+        "ISBN": "9780972712118",
+        "Shelf": "A3"
+    },
+    {
+        "Title": "Mediterranean Paleo Cooking",
+        "Author": "NC Caitlin Weeks",
+        "Author (Last, First)": "Weeks, NC Caitlin",
+        "Publisher": "National Geographic Books",
+        "Year Published": "2014",
+        "Genre": "Cooking",
+        "Summary": "Mediterranean Paleo Cooking showcases a wide variety of creative recipes that are Paleo-friendly\u2014no gluten, grains, inflammatory oils, dairy, or refined sweeteners. These flavorful dishes combine traditional food from southern Europe, North Africa, and the Middle East with the healthful principles of a Paleo diet. With over 150 recipes, two 30-day meal plans (one for general health and one for those following an autoimmune protocol), shopping lists, cooking tips, and more, Mediterranean Paleo Cooking helps readers become better cooks and more informed eaters. But more importantly, it turns healthy eating into delicious eating with enticing Mediterranean meals that every foodie will enjoy. Over 150 Paleo-friendly recipes inspired by the relaxed coastal attitude and ingredients of the Mediterranean - all gluten-free, grain-free, refined sugar-free, and dairy-free. Chef\u2019s tips from Nabil help you learn as you go, with advice on cooking and techniques for Mediterranean ingredients Nutritionist's tips from Caitlin to educate you on the health benefits of Mediterranean foods Familiar, comfort-food favorites are modified for a Paleo lifestyle, including pizza, pasta, rice, biscuits, and brownies Mediterranean recipe favorites, recreated including: falafel, pita bread, moussaka, hummus, and biscotti cookies. Recipe/ingredient notes and swaps for those who have food allergies (including to eggs and nuts) as well as for those following a low FODMAP diet, lower carbohydrate diet, SCD or GAPS diet, or the autoimmune protocol Two 30-day meal plans to help you jump-start your Paleo lifestyle: for general health or to follow an autoimmune protocol six different menu plans perfect for a weeknight dinner party or special occasion (including one that is 100% AIP compliant or is easily modified to be so with notes on the recipes) 18 guilt-free desserts with no refined sugar Shopping lists and an optimal food buying guide make it easy to find the right ingredients",
+        "Number of Pages": "432",
+        "ISBN": "9781628600407",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "OMG WTF Does the Constitution Actually Say?",
+        "Subtitle": "A Non-Boring Guide to How Our Democracy is Supposed to Work",
+        "Author": "Ben Sheehan",
+        "Author (Last, First)": "Sheehan, Ben",
+        "Publisher": "Running Press",
+        "Year Published": "2020",
+        "Genre": "Political Science",
+        "Summary": "Do you know what the Constitution ACTUALLY says?  This witty and highly relevant annotation of our founding document is the go-to guide to how our government really works (or is supposed to work). Written by political savant and entertainment veteran, Ben Sheehan, and vetted for accuracy by experts in the field of constitutional law, OMG WTF Does the Constitution Actually Say? is an entertaining and accessible guide that explains what the Constitution actually lays out. With clear notes and graphics on everything from presidential powers to Supreme Court nominations to hidden loopholes, Sheehan walks us through the entire Constitution from its preamble to its final amendment (with a bonus section on the Declaration of Independence). Besides putting the Constitution in modern-day English so that it can be understood, OMG WTF Does the Constitution Actually Say? gives readers all of the info they need to be effective voters and citizens in the November elections and beyond.",
+        "Number of Pages": "224",
+        "ISBN": "9780762498482",
+        "Shelf": "B2"
+    },
+    {
+        "Title": "Running for Mortals",
+        "Subtitle": "A Commonsense Plan for Changing Your Life With Running",
+        "Author": "John Bingham,Jenny Hadfield",
+        "Author (Last, First)": "Bingham, John",
+        "Publisher": "Harmony/Rodale",
+        "Year Published": "2007",
+        "Genre": "Sports & Recreation",
+        "Summary": "The authors of Marathoning for Mortals - John \"The Penguin\" Bingham and Coach Jenny Hadfield, MA, CPT - now show beginning runners how to fit running into their lifestyle easilyYou don't have to run fast or competitively to reap the rewards that running has to offer. What you do need is the courage to start. That is the \"Penguin mantra\" that has enabled John Bingham\u2014through his best-selling book No Need for Speed, his popular monthly column for Runner's World magazine, and his many appearances at major running events throughout the year\u2014to inspire thousands of men and women to take up the sport for fitness and the sheer enjoyment that running brings them.By teaming up with coach Jenny Hadfield, his wife and coauthor on Marathoning for Mortals, Bingham lays out strategies that will help readers to safely and effortlessly integrate runs into their busy schedules. In this book, backed by Runner's World, the authority of America's leading running magazine, the authors provide tips for getting started, sticking to a routine, eating for energy, hydration, and training for speed and endurance.",
+        "Number of Pages": "288",
+        "ISBN": "9781594863257",
+        "Shelf": "A3"
+    },
+    {
+        "Title": "Separated",
+        "Subtitle": "Inside an American Tragedy",
+        "Author": "Jacob Soboroff",
+        "Author (Last, First)": "Soboroff, Jacob",
+        "Publisher": "HarperCollins Publishers",
+        "Year Published": "2020",
+        "Genre": "History",
+        "Summary": "THE NEW YORK TIMES BESTSELLERThe seminal book on the child-separation policy. --Rachel MaddowThe award-winning NBC News correspondent lays bare the full truth behind the Trump administration's systematic separation of families at the US-Mexico border.Los Angeles Times Book Prize Finalist American Bar Association's Silver Gavel Award FinalistIn June 2018, Donald Trump's most notorious decision as president had secretly been in effect for months before most Americans became aware of the astonishing inhumanity being perpetrated by their own government. Jacob Soboroff was among the first journalists to expose this reality after seeing firsthand the living conditions of the children in custody. His influential series of reports ignited public scrutiny that contributed to the president reversing his own policy and earned Soboroff the Cronkite Award for Excellence in Political Broadcast Journalism and, with his colleagues, the 2019 Hillman Prize for Broadcast Journalism.But beyond the headlines, the complete, multilayered story lay untold. How, exactly, had such a humanitarian tragedy--now deemed \"torture\" by physicians--happened on American soil? Most important, what has been the human experience of those separated children and parents?Soboroff has spent the past two years reporting the many strands of this complex narrative, developing sources from within the Trump administration who share critical details for the first time. He also traces the dramatic odyssey of one separated family from Guatemala, where their lives were threatened by narcos, to seek asylum at the U.S. border, where they were separated--the son ending up in Texas, and the father thousands of miles away, in the Mojave desert of central California. And he joins the heroes who emerged to challenge the policy, and who worked on the ground to reunite parents with children.In this essential reckoning, Soboroff weaves together these key voices with his own experience covering this national issue--at the border in Texas, California, and Arizona; with administration officials in Washington, D.C., and inside the disturbing detention facilities. Separated lays out compassionately, yet in the starkest of terms, its human toll, and makes clear what is at stake as America struggles to reset its immigration policies post-Trump.",
+        "Number of Pages": "388",
+        "ISBN": "9780062992192",
+        "Shelf": "B2"
+    },
+    {
+        "Title": "Sunday Soup",
+        "Subtitle": "A Year's Worth of Mouth-Watering, Easy-to-Make Recipes",
+        "Author": "Betty Rosbottom",
+        "Author (Last, First)": "Rosbottom, Betty",
+        "Publisher": "Chronicle Books",
+        "Year Published": "2008",
+        "Genre": "Cooking",
+        "Summary": "Sunday is the perfect day to slow down and enjoy a heartwarming meal. From spicy chilies to steaming chowders, Sunday Soup features 60 recipes: one for each Sunday of the year, and then some. Gulf Coast Shrimp Gumbo is best for staving off the winter cold, while Dreamy Creamy Artichoke Soup welcomes the bounty of spring's vegetables. When it's too hot to turn on the stove, chill out with Icy Cucumber Soup with Smoked Salmon and Dill. A great selection of \"Soup-er Sides\" will turn any bowl of soup into a hearty meal. No matter the season, Sunday Soup offers all the inspiration one needs to pull out a stockpot and start simmering a new family tradition. Soup's on!",
+        "Number of Pages": "167",
+        "ISBN": "9780811860321",
+        "Shelf": "A1"
+    },
+    {
+        "Title": "The Complete Guide to Fasting",
+        "Subtitle": "Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting",
+        "Author": "Jimmy Moore,Jason Fung",
+        "Author (Last, First)": "Moore, Jimmy",
+        "Publisher": "Simon and Schuster",
+        "Year Published": "2016",
+        "Genre": "Cooking",
+        "Summary": "Thousands of books have been written about the latest and greatest diets that will help people lose weight and improve health. But a key element in any successful nutritional health program is a tried-and-true method that most people haven\u2019t thought about\u2014yet it could be revolutionary for taking health to the next level. This ancient secret is fasting.Fasting is not about starving oneself. When done right, it\u2019s an incredibly effective therapeutic approach that produces amazing results regardless of diet plan. In fact, Toronto-based nephrologist Dr. Jason Fung has used a variety of fasting protocols with more than 1,000 patients, with fantastic success. In The Complete Guide to Fasting, he has teamed up with international bestselling author and veteran health podcaster Jimmy Moore to explain what fasting is really about, why it\u2019s so important, and how to fast in a way that improves health. Together, they make fasting as a therapeutic approach both practical and easy to understand.    The Complete Guide to Fasting explains:  \u2022 why fasting is actually good for health \u2022 who can benefit from fasting (and who won\u2019t) \u2022 the history of fasting \u2022 the various ways to fast: intermittent, alternate-day, and extended fasting \u2022 what to expect when starting to fast \u2022 how to track progress while fasting \u2022 the weight loss effects of fasting \u2022 how to ward off potential negative effects from fasting  The book also provides tools to help readers get started and get through their fasts, including a 7-Day Kick-Start Fasting Plan and healing liquid recipes.",
+        "Number of Pages": "304",
+        "ISBN": "9781628600018",
+        "Shelf": "A3"
+    },
+    {
+        "Title": "The World Is Flat [Updated and Expanded]",
+        "Subtitle": "A Brief History of the Twenty-first Century",
+        "Author": "Thomas L. Friedman",
+        "Author (Last, First)": "Friedman, Thomas L.",
+        "Publisher": "Macmillan",
+        "Year Published": "2006",
+        "Genre": "Computers",
+        "Summary": "The World Is Flat is Thomas L. Friedman's account of the great changes taking place in our time, as lightning-swift advances in technology and communications put people all over the globe in touch as never before--creating an explosion of wealth in India and China, and challenging the rest of us to run even faster just to stay in place. This updated and expanded edition features more than a hundred pages of fresh reporting and commentary, drawn from Friedman's travels around the world and across the American heartland--from anyplace where the flattening of the world is being felt.In The World Is Flat, Friedman at once shows \"how and why globalization has now shifted into warp drive\" (Robert Wright, Slate) and brilliantly demystifies the new flat world for readers, allowing them to make sense of the often bewildering scene unfolding before their eyes. With his inimitable ability to translate complex foreign policy and economic issues, he explains how the flattening of the world happened at the dawn of the twenty-first century; what it means to countries, companies, communities, and individuals; how governments and societies can, and must, adapt; and why terrorists want to stand in the way. More than ever, The World Is Flat is an essential update on globalization, its successes and discontents, powerfully illuminated by one of our most respected journalists.",
+        "Number of Pages": "593",
+        "ISBN": "9780374292799",
+        "Shelf": "B3"
+    },
+    {
+        "Title": "What Should I Do with My Life?",
+        "Subtitle": "The True Story of People Who Answered the Ultimate Question",
+        "Author": "Po Bronson",
+        "Author (Last, First)": "Bronson, Po",
+        "Publisher": "Random House Publishing Group",
+        "Year Published": "2003",
+        "Genre": "Self-Help",
+        "Summary": "\u201cBrimming with stories of sacrifice, courage, commitment and, sometimes, failure, the book will support anyone pondering a major life choice or risk without force-feeding them pat solutions.\u201d\u2014Publishers WeeklyIn\u00a0What Should I Do with My Life? Po Bronson tells the inspirational true stories of people who have found the most meaningful answers to that great question. With humor, empathy, and insight, Bronson writes of remarkable individuals\u2014from young to old, from those just starting out to those in a second career\u2014who have overcome fear and confusion to find a larger truth about their lives and, in doing so, have been transformed by the experience.\u00a0What Should I Do with My Life?\u00a0struck a powerful, resonant chord on publication, causing a multitude of people to rethink their vocations and priorities and start on the path to finding their true place in the world. For this edition, Bronson has added nine new profiles, to further reflect the range and diversity of those who broke away from the chorus to learn the sound of their own voice.",
+        "Number of Pages": "432",
+        "ISBN": "9780375758980",
+        "Shelf": "A3"
+    },
+    {
+        "Title": "Wild Fermentation",
+        "Subtitle": "The Flavor, Nutrition, and Craft of Live-culture Foods",
+        "Author": "Sandor Ellix Katz",
+        "Author (Last, First)": "Katz, Sandor Ellix",
+        "Publisher": "Chelsea Green Pub.",
+        "Year Published": "2003",
+        "Genre": "Cooking",
+        "Summary": "Bread. Cheese. Wine. Beer. Coffee. Chocolate. Most people consume fermented foods and drinks every day. For thousands of years, humans have enjoyed the distinctive flavors and nutrition resulting from the transformative power of microscopic bacteria and fungi. Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods is the first cookbook to widely explore the culinary magic of fermentation. \"Fermentation has been an important journey of discovery for me,\" writes author Sandor Ellix Katz. \"I invite you to join me along this effervescent path, well trodden for thousands of years yet largely forgotten in our time and place, bypassed by the superhighway of industrial food production.\" The flavors of fermentation are compelling and complex, quite literally alive. This book takes readers on a whirlwind trip through the wide world of fermentation, providing readers with basic and delicious recipes-some familiar, others exotic-that are easy to make at home. The book covers vegetable ferments such as sauerkraut, kimchi, and sour pickles; bean ferments including miso, tempeh, dosas, and idli; dairy ferments including yogurt, kefir, and basic cheesemaking (as well as vegan alternatives); sourdough bread-making; other grain fermentations from Cherokee, African, Japanese, and Russian traditions; extremely simple wine- and beer-making (as well as cider-, mead-, and champagne-making) techniques; and vinegar-making. With nearly 100 recipes, this is the most comprehensive and wide-ranging fermentation cookbook ever published.",
+        "Number of Pages": "187",
+        "ISBN": "9781931498234",
         "Shelf": "A1"
     }
 ]
