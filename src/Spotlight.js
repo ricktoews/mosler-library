@@ -21,12 +21,13 @@ const Spotlight = ({ books }) => {
                     <ul className="book-list">
                         {spotlight.map((book, index) => (
                             <li key={index} className="book-item">
-                                <img
-                                    src={`http://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg`}
-                                    alt={book.title}
-                                    className="book-thumbnail"
-                                />
                                 <div className="book-info">
+                                    <div dangerouslySetInnerHTML={{ __html: book.spotlight }}></div>
+                                    <img
+                                        src={`http://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg`}
+                                        alt={book.title}
+                                        className="book-thumbnail"
+                                    />
                                     <div className="title-author">
                                         {book.title} by {book.author}
                                     </div>
@@ -38,8 +39,6 @@ const Spotlight = ({ books }) => {
                                     </div>
                                     <div className="book-shelf">
                                         {book.shelf}
-                                    </div>
-                                    <div dangerouslySetInnerHTML={{ __html: book.spotlight }}>
                                     </div>
 
                                 </div>

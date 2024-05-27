@@ -523,7 +523,7 @@
         "ai-review": "Pink offers a refreshing perspective on the role of creativity and empathy in a technology-driven society. A thought-provoking read that challenges traditional notions of success.",
         "ai-genres": [
             "Self-Help/Personal Development",
-            "Non-Fiction",
+            "General Non-Fiction",
             "Business"
         ]
     },
@@ -541,8 +541,7 @@
         "ai-summary": "Detective Alan Banks is drawn into a complex case involving a suspicious suicide and a missing music journalist. As Banks unravels the connections between the seemingly disparate events, he confronts dark truths and personal dilemmas.",
         "ai-review": "Robinson delivers another gripping mystery in his Inspector Banks series. A compelling plot, well-developed characters, and atmospheric setting make this a compelling read for crime fiction fans.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Crime Fiction"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -579,8 +578,7 @@
         "ai-review": "A must-have for design enthusiasts and marketing aficionados. Lewis presents a visually captivating journey through the evolution of Absolut's brand identity and cultural significance.",
         "ai-genres": [
             "Wine/Cooking",
-            "Art/History/Design",
-            "Marketing"
+            "Art/History/Design"
         ]
     },
     {
@@ -618,7 +616,7 @@
         "ai-summary": "Explore the concept of aerotropolis, where airports serve as economic hubs shaping urban development and global connectivity. Kasarda's insightful analysis examines the impact of air transportation on modern cities and business landscapes.",
         "ai-review": "Kasarda offers a fascinating perspective on the relationship between airports, cities, and commerce. A compelling read for those interested in the intersection of aviation and urban planning.",
         "ai-genres": [
-            "Non-Fiction",
+            "General Non-Fiction",
             "Business",
             "Travel"
         ]
@@ -638,8 +636,7 @@
         "ai-summary": "In this gripping legal thriller, attorney Nick Fallon is drawn into a high-stakes case involving corruption, deception, and personal vendettas. As tensions rise and dangers escalate, Fallon must navigate a treacherous legal landscape to seek justice.",
         "ai-review": "Brandon crafts a suspenseful narrative with twists and turns that keep readers on the edge of their seats. A fast-paced legal thriller with compelling characters and moral dilemmas.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Legal Thriller"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -674,8 +671,7 @@
         "ai-summary": "Join detective Alex Cross in a gripping courtroom drama where he faces off against a serial killer on trial for his life. As Cross delves into the case, he uncovers shocking truths that challenge his beliefs and put him in the killer's sights.",
         "ai-review": "Patterson delivers a thrilling and suspenseful story that keeps readers guessing until the final verdict. Cross's relentless pursuit of justice makes for a compelling read.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Crime Fiction"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -695,7 +691,7 @@
         "ai-genres": [
             "Science Fiction/Fantasy",
             "Self-Help/Personal Development",
-            "Non-Fiction"
+            "General Non-Fiction"
         ]
     },
     {
@@ -729,7 +725,7 @@
         "Summary": "'She opened a world to millions of Americans and helped change the way we shop, cook, and eat.' - MARK BITTMAN, The New York Times, January 8, 1997 Widely credited with introducing proper Italian food to the English-speaking world, Marcella Hazan is known as America's godmother of Italian cooking. Raised in Cesentatico, a quiet fishing town on the northern Adriatic Sea, she'd eventually have her own cooking schools in New York, Bologna, and Venice, where she would teach students from around the world to appreciate-and produce-the homemade pasta, rustic soups, deeply satisfying roasts and stews, pure seafood dishes, and the fresh vegetables dressed with olive oil that Italians eat. She'd write bestselling and award-winning cookbooks, and collect invitations to cook at top restaurants around the world. She would have thousands of loyal students, and readers so devoted they'd name their daughters Marcella. Her fans will be as surprised and delighted b how all this came to be as Marcella herself has been. Marcella's story begins not in Italy but in Alexandria, Egypt, where she spent her early childhood and where she fell on the beach and broke her arm-an accident that would hardly register for a child today, but which altered the course of her life. After nearly losing her arm to poor medical treatment, she was taken back to her father's native Italy for surgery. There the family would remain. Her teenage year coincided with World War II and the family relocated temporarily to Lake Garada, which they, not they, not anticipating that it would become one of war's greatest targets when both Mussolini and German High Command established their headquarters there, thought would be a safe haven. After years of privation and nightly bombings, Marcella was finally Fulfilling her ambition to become a doctor and professor of science when she Victor, the love of life. After their marriage, they moved to America, where Marcella knew not a word of English or-what's more surprising-a single recipe. She began to recall and attempt to re-create the flavours of her homeland. After women with whom she took a Chinese cooking class in the early sixties asked her to teach them Italian cooking, she began to give them lessons in her tiny New York kitchen. Soon after, Craig Claiborne invited himself to lunch, and the rest is history. Amacordmeans 'I remember' in Marcella's native Romangolo dialect. In these pages, Marcella, now eighty-four, looks back on the adventures of a life lived for pleasure and a love of teaching. Throughout, she entertains the reader with stories of the humorous, sometimes bizarre, twists and turns that brought her love, fame, and a change to forever change the way we eat.",
         "Number of Pages": "307",
         "ISBN": "9781592403882",
-        "Shelf": "B1*",
+        "Shelf": "Cart",
         "Possible Retirement": true,
         "ai-summary": "Step into the kitchen with renowned chef Marcella Hazan as she shares recipes and stories from her culinary journey. From traditional Italian dishes to personal anecdotes, this cookbook celebrates the joy of home cooking and the art of Italian cuisine.",
         "ai-review": "Hazan's warmth and expertise shine through in this delightful culinary memoir. A flavorful homage to Italian gastronomy accompanied by heartfelt reminiscences.",
@@ -755,8 +751,7 @@
         "ai-review": "Bruni's engaging narrative provides a behind-the-scenes look at the dynamics of political campaigns. An informative and entertaining read for those interested in the intersection of media and politics.",
         "ai-genres": [
             "Politics",
-            "Biography/Autobiography",
-            "Journalism"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -859,7 +854,7 @@
         "Summary": "Author Barbara Kingsolver and her family abandoned the industrial-food pipeline to live a rural life--vowing that, for one year, they'd only buy food raised in their own neighborhood, grow it themselves, or learn to live without it. Part memoir, part journalistic investigation, Animal, Vegetable, Miracle is an enthralling narrative that will open your eyes in a hundred new ways to an old truth: You are what you eat.",
         "Number of Pages": "400",
         "ISBN": "9780060852566",
-        "Shelf": "B1*",
+        "Shelf": "Cart",
         "Possible Retirement": true
     },
     {
@@ -1500,8 +1495,7 @@
         "ai-summary": "An insider's look at the world of celebrity journalism, exploring the evolution of media culture and the relationship between stars and the press.",
         "ai-review": "A fascinating and insightful examination of the dynamics behind celebrity fame and the symbiotic nature of celebrity journalism.",
         "ai-genres": [
-            "General Non-Fiction",
-            "Media"
+            "General Non-Fiction"
         ]
     },
     {
@@ -1540,8 +1534,7 @@
         "ai-summary": "A collection of poetry that delves into the realms of language, symbolism, and meaning, uncovering the nuances and ambiguities of human communication.",
         "ai-review": "A thought-provoking and evocative exploration of the beauty and complexities of language, offering rich depths of interpretation.",
         "ai-genres": [
-            "Poetry",
-            "Literary Fiction"
+            "Literature/Poetry"
         ]
     },
     {
@@ -1596,7 +1589,6 @@
         "ai-summary": "A visionary blueprint for transforming society through social business and entrepreneurial initiatives, offering practical solutions to alleviate poverty and empower communities.",
         "ai-review": "An inspiring and transformative manifesto that challenges conventional thinking about economic systems and presents a roadmap for a more inclusive and sustainable future.",
         "ai-genres": [
-            "Non-Profit",
             "Business"
         ]
     },
@@ -1650,8 +1642,7 @@
         "ai-summary": "A reflective novel that follows the enduring friendship between two couples over several decades, exploring the complexities of relationships, loyalty, and ambition.",
         "ai-review": "A lyrical and poignant meditation on the bonds of friendship and the choices that shape our lives, beautifully rendered with emotional depth and nuance.",
         "ai-genres": [
-            "General Fiction",
-            "Literary Fiction"
+            "General Fiction"
         ]
     },
     {
@@ -1724,8 +1715,7 @@
         "ai-summary": "A detailed and engaging account of the pivotal events of D-Day, offering a firsthand look at the bravery and sacrifices of the Allied forces during the Normandy invasion.",
         "ai-review": "A compelling and meticulously researched narrative that honors the courage of those who fought on D-Day and provides deep insights into the complexities of war.",
         "ai-genres": [
-            "History",
-            "Military"
+            "History"
         ]
     },
     {
@@ -1743,8 +1733,7 @@
         "ai-summary": "A collection of inspirational devotions and reflections designed to help readers align their lives with positive thinking, faith, and the pursuit of personal fulfillment.",
         "ai-review": "A motivational and uplifting guide that encourages readers to embrace positivity, faith, and hope in their daily lives, drawing strength from resilient beliefs.",
         "ai-genres": [
-            "Self-Help/Personal Development",
-            "Religion"
+            "Self-Help/Personal Development"
         ]
     },
     {
@@ -2329,7 +2318,6 @@
         "ai-summary": "A non-fiction work chronicling the rise of grunge music in Seattle and its cultural impact.",
         "ai-review": "Mark Yarm's 'Everybody Loves Our Town' is a comprehensive and engaging exploration of the Seattle music scene that gave birth to grunge. Through firsthand accounts and thorough research, Yarm paints a vivid portrait of the era and its lasting influence on popular culture.",
         "ai-genres": [
-            "Music",
             "History"
         ]
     },
@@ -2702,7 +2690,7 @@
         "ai-review": "Márquez's eloquent plea for environmental conservation is a powerful reminder of our responsibility to safeguard the Earth's treasures, making it a must-read for advocates of sustainability.",
         "ai-genres": [
             "Politics",
-            "Environmentalism"
+            "General Non-Fiction"
         ]
     },
     {
@@ -3258,7 +3246,7 @@
         "ai-summary": "Dr. Michael Greger presents a comprehensive guide to evidence-based nutrition and practical advice for achieving optimal health and longevity.",
         "ai-review": "'How Not to Die' is a groundbreaking book that combines scientific research and practical tips to empower readers to make informed choices about their health and well-being, making it a must-read for anyone interested in nutrition and disease prevention.",
         "ai-genres": [
-            "Health/Lifestyle",
+            "Lifestyle/Health",
             "General Non-Fiction"
         ]
     },
@@ -3334,9 +3322,7 @@
         "ai-summary": "A visually stunning book that showcases the creativity and artistry of contemporary toy design and collectibles.",
         "ai-review": "'I Am Plastic' offers a vibrant and eclectic collection of designer toys and art pieces, celebrating the creativity and diversity of the vinyl toy scene with engaging visuals and informative commentary.",
         "ai-genres": [
-            "Visual Arts",
-            "Design",
-            "Collectibles"
+            "Art/History/Design"
         ]
     },
     {
@@ -3390,8 +3376,7 @@
         "ai-summary": "Gayle Forman's poignant novel follows a teenage girl grappling with life-changing decisions after a devastating accident that alters her world.",
         "ai-review": "'If I Stay' is a heart-wrenching and beautifully written story that explores love, loss, and the power of choice, drawing readers into an emotional journey of resilience and hope.",
         "ai-genres": [
-            "Young Adult",
-            "Contemporary Fiction"
+            "General Fiction"
         ]
     },
     {
@@ -3409,7 +3394,7 @@
         "ai-summary": "Judith Viorst presents a charming collection of poems that reflect children's perspectives on life, worries, and the world around them with humor and insight.",
         "ai-review": "'If I Were in Charge of the World and Other Worries' is a delightful and thought-provoking book that captures the magic and complexity of childhood, inviting readers of all ages to ponder life's big questions with laughter and imagination.",
         "ai-genres": [
-            "Poetry"
+            "Literature/Poetry"
         ]
     },
     {
@@ -3426,8 +3411,7 @@
         "ai-summary": "Dale Chihuly showcases the art of Japanese flower arranging, or Ikebana, through his stunning glass sculptures inspired by the natural beauty of botanical forms.",
         "ai-review": "'Ikebana' is a visually captivating exploration of the intersection between art and nature, as Chihuly's exquisite glass creations pay homage to the elegance and grace of traditional Japanese floral arrangements.",
         "ai-genres": [
-            "Art/History/Design",
-            "Photography"
+            "Art/History/Design"
         ]
     },
     {
@@ -3444,8 +3428,7 @@
         "ai-summary": "Fareed Zakaria defends the value of a traditional liberal arts education in a rapidly changing world, arguing for the enduring importance of critical thinking and intellectual curiosity.",
         "ai-review": "'In Defense of a Liberal Education' is a persuasive and timely exploration of the role of higher education in shaping individuals and society, making a compelling case for the enduring value of a broad-based education that fosters creativity, analysis, and adaptability.",
         "ai-genres": [
-            "Education",
-            "Non-Fiction"
+            "General Non-Fiction"
         ]
     },
     {
@@ -3465,8 +3448,7 @@
         "ai-summary": "Sandra Halperin examines representations of the 'Third World' in Western media and culture, critiquing persistent stereotypes and biases that shape perceptions of global power dynamics.",
         "ai-review": "'In the Mirror of the Third World' offers a thought-provoking analysis of colonial legacies and contemporary discourses on development and inequality, challenging readers to reconsider their assumptions about global politics and representation.",
         "ai-genres": [
-            "Politics",
-            "Media Studies"
+            "Politics"
         ]
     },
     {
@@ -3569,7 +3551,7 @@
         "Summary": "In April 1992, a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, his decomposed body was found by a party of moose hunters. How McCandless came to die is the unforgettable story of Into the Wild. Immediately after graduating from college in 1991, McCandless had roamed through the West and Southwest on a vision quest like those made by his heroes Jack London and John Muir. In the Mojave Desert he abandoned his car, stripped it of its license plates, and burned all of his cash. He would give himself a new name, Alexander Supertramp, and, unencumbered by money and belongings, he would be free to wallow in the raw, unfiltered experiences that nature presented. Craving a blank spot on the map, McCandless simply threw the maps away. Leaving behind his desperate parents and sister, he vanished into the wild.",
         "Number of Pages": "207",
         "ISBN": "9780307387172",
-        "Shelf": "B1*",
+        "Shelf": "Cart",
         "Possible Retirement": true,
         "ai-summary": "Based on a true story, this book chronicles the journey of Christopher McCandless into the Alaskan wilderness.",
         "ai-review": "Krakauer's narrative is both gripping and thought-provoking, exploring themes of adventure, self-discovery, and the unforgiving power of nature.",
@@ -3666,7 +3648,7 @@
         "ai-review": "Crutchfield's storytelling prowess shines in this collection, offering fascinating glimpses into the rich tapestry of Washington's past.",
         "ai-genres": [
             "History",
-            "Non-Fiction"
+            "General Non-Fiction"
         ]
     },
     {
@@ -3756,8 +3738,7 @@
         "ai-summary": "A poetic exploration of the natural world through the lens of insect life, offering insights and reflections on the beauty of existence.",
         "ai-review": "Timmons' lyrical prose and vivid imagery create a sensory experience that celebrates the wonder and intricacies of the insect kingdom, inviting readers into a world of poetic enchantment.",
         "ai-genres": [
-            "Poetry",
-            "Nature/Science"
+            "Literature/Poetry"
         ]
     },
     {
@@ -3775,7 +3756,6 @@
         "ai-review": "Smith's evocative storytelling and raw honesty captivate readers, offering a poignant and intimate glimpse into the bohemian art scene of New York City in the 1960s and 70s.",
         "ai-genres": [
             "Biography/Autobiography",
-            "Music",
             "Art/History/Design"
         ]
     },
@@ -4607,8 +4587,7 @@
         "ai-summary": "Presents heartwarming and inspiring tales of animals finding loving homes and the joys of pet adoption.",
         "ai-review": "An endearing collection of stories that celebrates the bond between animals and humans, spreading messages of compassion and hope.",
         "ai-genres": [
-            "General Non-Fiction",
-            "Animals"
+            "General Non-Fiction"
         ]
     },
     {
@@ -4681,8 +4660,7 @@
         "ai-summary": "Traces the journey of a pioneering newspaper editor and his experiences in the world of journalism and publishing.",
         "ai-review": "A captivating memoir that reflects on the changing landscape of print media and the power of storytelling in shaping public opinion.",
         "ai-genres": [
-            "Biography/Autobiography",
-            "Media"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -4793,8 +4771,7 @@
         "ai-summary": "Presents a collection of poetic reflections that capture fleeting moments, thoughts, and emotions in a lyrical and evocative style.",
         "ai-review": "A compelling and richly textured anthology that showcases the poetic brilliance of John Ashbery, inviting readers to ponder life's mysteries and beauty.",
         "ai-genres": [
-            "Poetry",
-            "Literary Criticism"
+            "Literature/Poetry"
         ]
     },
     {
@@ -4833,8 +4810,7 @@
         "ai-summary": "Introduces the concept of 'nudging' as a behavioral economics strategy to help individuals make better decisions and improve their lives.",
         "ai-review": "An enlightening and practical guide that applies economic principles to everyday choices, offering valuable insights for personal and societal change.",
         "ai-genres": [
-            "Self-Help/Personal Development",
-            "Economics"
+            "Self-Help/Personal Development"
         ]
     },
     {
@@ -4909,7 +4885,6 @@
         "ai-summary": "A philosophical exploration of fear, its origins, and how it shapes human behavior and consciousness.",
         "ai-review": "Jiddu Krishnamurti's reflections on fear are profound and offer a unique perspective on overcoming internal struggles.",
         "ai-genres": [
-            "Philosophy",
             "Self-Help/Personal Development"
         ]
     },
@@ -4945,7 +4920,6 @@
         "ai-summary": "A multi-generational epic following the Buendía family in the fictional town of Macondo, blending magical realism with historical events.",
         "ai-review": "Gabriel García Márquez's masterpiece is a mesmerizing tale that intertwines fantastical elements with poignant human experiences.",
         "ai-genres": [
-            "Magical Realism",
             "General Fiction"
         ]
     },
@@ -4965,7 +4939,7 @@
         "ai-review": "Bill Bryson's narrative skill brings history alive in this absorbing and well-researched book.",
         "ai-genres": [
             "History",
-            "Non-Fiction"
+            "General Non-Fiction"
         ]
     },
     {
@@ -4984,7 +4958,7 @@
         "ai-review": "Bill Bryson's narrative skill brings history alive in this absorbing and well-researched book.",
         "ai-genres": [
             "History",
-            "Non-Fiction"
+            "General Non-Fiction"
         ]
     },
     {
@@ -5024,8 +4998,7 @@
         "ai-summary": "A collection of essays and writings that offer diverse perspectives on literature, culture, and society.",
         "ai-review": "Robert Atwan curates a compelling anthology that showcases a range of voices and ideas.",
         "ai-genres": [
-            "Literature",
-            "Anthology"
+            "Literature/Poetry"
         ]
     },
     {
@@ -5062,8 +5035,7 @@
         "ai-summary": "A classic play set in the fictional town of Grover's Corners, portraying everyday life, love, and mortality.",
         "ai-review": "Thornton Wilder's timeless work beautifully captures the essence of human existence and the bittersweet nature of life.",
         "ai-genres": [
-            "Classics",
-            "Drama"
+            "Classics"
         ]
     },
     {
@@ -5082,8 +5054,8 @@
         "ai-summary": "An exploration of success, analyzing the factors that contribute to extraordinary achievement and societal patterns of success and opportunity.",
         "ai-review": "Malcolm Gladwell presents compelling insights and paradigm-shifting ideas in this illuminating look at outliers in different fields.",
         "ai-genres": [
-            "Non-Fiction",
-            "Psychology"
+            "General Non-Fiction",
+            "Lifestyle/Health"
         ]
     },
     {
@@ -5139,7 +5111,6 @@
         "ai-summary": "A medical thriller exploring the world of organ transplantation, ethical dilemmas, and the complexities of human relationships.",
         "ai-review": "Carol Cassella weaves a gripping tale that not only entertains but also raises thought-provoking questions about medical ethics.",
         "ai-genres": [
-            "Medical Fiction",
             "Mystery/Suspense"
         ]
     },
@@ -5158,7 +5129,7 @@
         "ai-review": "Eric Zencey's in-depth analysis sheds light on the ecological and social consequences of the Panama Canal project.",
         "ai-genres": [
             "History",
-            "Environmentalism"
+            "General Fiction"
         ]
     },
     {
@@ -5178,8 +5149,8 @@
         "ai-summary": "A fashion guide showcasing the iconic street style of Paris, featuring tips on how to achieve chic and effortless looks.",
         "ai-review": "Isabelle Thomas provides stylish inspiration and practical advice for fashionistas looking to emulate Parisian elegance.",
         "ai-genres": [
-            "Fashion",
-            "Lifestyle/Health"
+            "Lifestyle/Health",
+            "Art/History/Design"
         ]
     },
     {
@@ -5196,8 +5167,7 @@
         "ai-summary": "A collection of essays reflecting on the author's experiences living in Paris with his family and delving into French culture.",
         "ai-review": "Adam Gopnik's writing is witty and insightful, offering a charming glimpse into the nuances of Parisian life.",
         "ai-genres": [
-            "Travel",
-            "Memoir"
+            "Travel"
         ]
     },
     {
@@ -5579,8 +5549,7 @@
         "ai-summary": "A jazz musician's memoir detailing his experiences in the vibrant world of 1920s New Orleans.",
         "ai-review": "Joseph Koenig's memoir is a captivating journey through the jazz age, filled with music and life.",
         "ai-genres": [
-            "Biography/Autobiography",
-            "Music"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -5766,8 +5735,7 @@
         "ai-summary": "Inspired by the true crime case that inspired Nabokov's 'Lolita,' this novel delves into the mind of a predator.",
         "ai-review": "A haunting and poignant exploration of one of the most infamous abduction cases in history.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Fictionalized True Crime"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -5784,8 +5752,7 @@
         "ai-summary": "An intense novel that delves into the lives of interconnected characters on a single Saturday in London.",
         "ai-review": "Mcewan's masterful storytelling captures the complexity of human relationships in a single day.",
         "ai-genres": [
-            "General Fiction",
-            "Literary Fiction"
+            "General Fiction"
         ]
     },
     {
@@ -5844,8 +5811,7 @@
         "ai-summary": "A comprehensive guide to understanding the behavior and communication of dogs to strengthen the human-canine bond.",
         "ai-review": "Insightful and informative, this book offers practical tips for dog owners based on canine psychology.",
         "ai-genres": [
-            "General Non-Fiction",
-            "Pets/Animals"
+            "General Non-Fiction"
         ]
     },
     {
@@ -5863,8 +5829,7 @@
         "ai-summary": "A biography of Zora Neale Hurston, the acclaimed writer of the Harlem Renaissance, exploring her life and legacy.",
         "ai-review": "A well-researched and engaging portrait of a pioneering Black author and cultural figure.",
         "ai-genres": [
-            "Biography/Autobiography",
-            "Literary Criticism"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -5901,8 +5866,7 @@
         "ai-summary": "A multigenerational saga intertwining love stories, politics, and revenge in Kashmir and the United States.",
         "ai-review": "Rushdie's lyrical prose and intricate storytelling create a mesmerizing tapestry of history and emotion.",
         "ai-genres": [
-            "Historical Fiction",
-            "Literary Fiction"
+            "Historical Fiction"
         ]
     },
     {
@@ -5943,7 +5907,7 @@
         "ai-review": "Dunlop's vivid descriptions and passion for food immerse readers in the sights, smells, and tastes of China.",
         "ai-genres": [
             "Biography/Autobiography",
-            "Food/Cooking"
+            "Wine/Cooking"
         ]
     },
     {
@@ -5961,8 +5925,7 @@
         "ai-summary": "A gripping military thriller following a covert operation to prevent a nuclear war between China and the United States.",
         "ai-review": "Bond's expertise shines in this high-octane novel, offering a realistic and tense portrayal of geopolitics.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Political Thriller"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -6108,7 +6071,7 @@
         "ai-review": "Fisher's elegant prose and profound insights into the human experience make this collection a poignant and contemplative read, offering solace and wisdom on aging gracefully.",
         "ai-genres": [
             "Lifestyle/Health",
-            "Essays"
+            "General Non-Fiction"
         ]
     },
     {
@@ -6256,8 +6219,7 @@
         "ai-summary": "A quirky novel following a software engineer turned baker in San Francisco who discovers a sourdough starter with magical properties, leading her on a culinary and personal adventure.",
         "ai-review": "Sloan's whimsical storytelling and lovable characters make this novel a delightful and heartwarming read that celebrates the joy of food, friendship, and following one's passions.",
         "ai-genres": [
-            "General Fiction",
-            "Food/Cooking"
+            "General Fiction"
         ]
     },
     {
@@ -6459,8 +6421,7 @@
         "ai-summary": "This novel follows the life of Sophia Rose Simone, a talented singer-songwriter navigating the highs and lows of the music industry. It delves into the complexities of fame, love, and self-discovery.",
         "ai-review": "An engaging story that provides a glimpse into the music world through the eyes of a resilient protagonist. Thompson captures the essence of artistic passion and perseverance.",
         "ai-genres": [
-            "General Fiction",
-            "Music"
+            "General Fiction"
         ]
     },
     {
@@ -6569,8 +6530,7 @@
         "ai-summary": "In this mystery novel, detective Bryant and his partner May uncover a series of murders linked to an urban myth in London. As they investigate the strange deaths, they delve into the city's hidden secrets.",
         "ai-review": "A gripping and intricately plotted mystery that keeps readers guessing until the end. Fowler's portrayal of Bryant and May's investigative work is both clever and entertaining.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Crime Fiction"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -6661,8 +6621,7 @@
         "ai-summary": "In this legal thriller, defense attorney Daniel Kearney takes on a high-profile case involving a senator accused of murder. As Kearney delves into the complex web of politics and law, he must navigate dangerous territory to seek justice.",
         "ai-review": "A gripping courtroom drama that showcases Dershowitz's expertise in legal matters. The tension and twists in the narrative keep readers engaged until the final verdict.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Legal Thriller"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -6755,8 +6714,7 @@
         "ai-summary": "A poignant love story set in Burma that explores the power of love and destiny.",
         "ai-review": "Sendker weaves a mesmerizing tale of love and fate that will tug at readers' heartstrings. The vivid descriptions of Burma add depth to the narrative.",
         "ai-genres": [
-            "Romance",
-            "Historical Fiction"
+            "General Fiction"
         ]
     },
     {
@@ -6812,7 +6770,7 @@
         "ai-summary": "A comprehensive guide to understanding and addressing autoimmune diseases through lifestyle changes.",
         "ai-review": "O'Bryan provides valuable insights and practical advice for individuals looking to take control of their autoimmune conditions. A must-read for those seeking a holistic approach to health.",
         "ai-genres": [
-            "Health",
+            "Lifestyle/Health",
             "General Non-Fiction"
         ]
     },
@@ -6831,7 +6789,7 @@
         "ai-summary": "A doctor's approach to reversing autoimmune conditions through diet and lifestyle modifications.",
         "ai-review": "Myers presents a well-researched and accessible guide to understanding and managing autoimmune diseases. Her holistic approach to healing offers hope to readers battling these conditions.",
         "ai-genres": [
-            "Health",
+            "Lifestyle/Health",
             "General Non-Fiction"
         ]
     },
@@ -7069,7 +7027,7 @@
         "ai-summary": "A comprehensive guide to understanding and identifying different types of clouds and their significance in weather forecasting.",
         "ai-review": "Day's book provides a fascinating look at the science of meteorology through the lens of cloud formations. The detailed illustrations and accessible explanations make this an engaging read for weather enthusiasts and curious minds alike.",
         "ai-genres": [
-            "Science/Technology",
+            "Science",
             "Hobbies/Crafts"
         ]
     },
@@ -7105,8 +7063,8 @@
         "ai-summary": "Poetic descriptions of human qualities personified into characters, exploring the essence of emotions and attributes.",
         "ai-review": "A unique and thought-provoking book that delves deep into the nature of human personality and experience.",
         "ai-genres": [
-            "Philosophy",
-            "General Fiction"
+            "Lifestyle/Health",
+            "General Non-Fiction"
         ]
     },
     {
@@ -7158,8 +7116,7 @@
         "ai-summary": "A legal thriller following a young attorney's moral dilemma defending a judge accused of corruption.",
         "ai-review": "John Grisham delivers another compelling legal drama filled with twists and ethical dilemmas.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Legal Drama"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -7177,8 +7134,7 @@
         "ai-summary": "An intense courtroom drama as a lawyer digs deep into a family's secrets to uncover the truth.",
         "ai-review": "Scott Turow crafts a complex and absorbing legal thriller that challenges notions of guilt and innocence.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Legal Drama"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -7251,8 +7207,7 @@
         "ai-summary": "A guide to becoming a successful changemaker, offering insights and strategies for positive transformation.",
         "ai-review": "Deke Copenhaver inspires readers to embrace change and lead with purpose in this motivational book.",
         "ai-genres": [
-            "Self-Help/Personal Development",
-            "Leadership"
+            "Self-Help/Personal Development"
         ]
     },
     {
@@ -7270,8 +7225,7 @@
         "ai-summary": "A sweeping novel set in an orphanage, exploring themes of family, identity, and societal norms.",
         "ai-review": "John Irving's rich storytelling and complex characters make 'The Cider House Rules' a compelling read.",
         "ai-genres": [
-            "General Fiction",
-            "Family Drama"
+            "General Fiction"
         ]
     },
     {
@@ -7290,7 +7244,7 @@
         "ai-review": "Simon Singh's fascinating exploration of codes and ciphers sheds light on the secret world of cryptanalysis.",
         "ai-genres": [
             "History",
-            "Science/Technology"
+            "Science"
         ]
     },
     {
@@ -7326,8 +7280,7 @@
         "ai-summary": "A psychological thriller exploring the consequences of a teacher's dark secret from the past.",
         "ai-review": "Jo Spain's 'The Confession' is a chilling and immersive novel that delves into the complexities of guilt and redemption.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Psychological Thriller"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -7366,8 +7319,7 @@
         "ai-summary": "An insightful guide on reshaping traditional corporate structures and embracing modern organizational dynamics.",
         "ai-review": "Cathleen Benko presents a fresh perspective on adapting to the evolving nature of work and leadership.",
         "ai-genres": [
-            "Business",
-            "Management"
+            "Business"
         ]
     },
     {
@@ -7404,8 +7356,7 @@
         "ai-summary": "A satirical look at human civilization as presented by the satirical news program 'The Daily Show'.",
         "ai-review": "Jon Stewart's witty and irreverent take on global issues provides both humor and social commentary in this entertaining read.",
         "ai-genres": [
-            "Humor",
-            "Media Studies"
+            "Humor"
         ]
     },
     {
@@ -7535,8 +7486,7 @@
         "ai-summary": "Dr. Joel Fuhrman presents a comprehensive guide to preventing and reversing diabetes through a nutrient-rich, plant-based diet, backed by scientific research.",
         "ai-review": "A groundbreaking and informative book that offers practical advice and empowering insights for those looking to improve their health and well-being.",
         "ai-genres": [
-            "Health",
-            "Nutrition"
+            "Lifestyle/Health"
         ]
     },
     {
@@ -7589,8 +7539,7 @@
         "ai-summary": "Winner of the Booker Prize, this haunting novel unravels the tangled histories of four individuals in an Italian villa during the final days of World War II.",
         "ai-review": "Michael Ondaatje masterfully intertwines love, war, and identity in a mesmerizing narrative that evokes both beauty and tragedy.",
         "ai-genres": [
-            "Historical Fiction",
-            "Romance"
+            "General Fiction"
         ]
     },
     {
@@ -7645,8 +7594,7 @@
         "ai-summary": "Detective Joe Leaphorn and Officer Jim Chee investigate a mysterious death on the Navajo Reservation, uncovering secrets that challenge their beliefs and endanger their lives.",
         "ai-review": "Tony Hillerman crafts a suspenseful and culturally rich mystery that immerses readers in the landscapes and traditions of Navajo culture, creating a compelling whodunit.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Cultural Studies"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -7682,8 +7630,7 @@
         "ai-summary": "An influential novel by Ayn Rand that follows the struggles of architect Howard Roark as he fights against societal conformity and champions individualism and creative integrity.",
         "ai-review": "A seminal work of philosophical fiction that challenges readers to question traditional norms and embrace the pursuit of personal excellence and freedom.",
         "ai-genres": [
-            "Classics",
-            "Philosophical Fiction"
+            "Classics"
         ]
     },
     {
@@ -7740,8 +7687,7 @@
         "ai-summary": "Explore the fascinating history and cultural significance of the iconic George Washington Bridge in this comprehensive and engaging book that traces its construction and impact.",
         "ai-review": "Michael Aaron Rockland provides a well-researched and illuminating account of the bridge's evolution, offering a blend of architectural insights and social history.",
         "ai-genres": [
-            "History",
-            "Architecture"
+            "History"
         ]
     },
     {
@@ -7779,7 +7725,7 @@
         "ai-review": "Gale Massey crafts a taut and compelling narrative that explores the complexities of loyalty, ambition, and survival in a world where choices have far-reaching consequences.",
         "ai-genres": [
             "Mystery/Suspense",
-            "Family Drama"
+            "General Fiction"
         ]
     },
     {
@@ -7961,8 +7907,7 @@
         "ai-summary": "A comprehensive reference book covering various breeds of horses, their history, care, and equestrian sports.",
         "ai-review": "An essential resource for horse enthusiasts, offering a wealth of information on equine breeds and equestrian practices.",
         "ai-genres": [
-            "Reference",
-            "Hobbies/Crafts"
+            "Animals/Nature"
         ]
     },
     {
@@ -8034,7 +7979,7 @@
         "ai-summary": "A holistic guide to overcoming autoimmune diseases through diet, lifestyle changes, and natural remedies.",
         "ai-review": "A comprehensive and practical approach to healing the immune system, empowering readers to take charge of their health.",
         "ai-genres": [
-            "Health/Fitness",
+            "Lifestyle/Health",
             "Self-Help/Personal Development"
         ]
     },
@@ -8132,7 +8077,7 @@
         "ai-review": "An innovative and informative book that combines the principles of keto and vegan diets, offering practical advice and delicious recipes.",
         "ai-genres": [
             "Wine/Cooking",
-            "Health/Fitness"
+            "Lifestyle/Health"
         ]
     },
     {
@@ -8411,7 +8356,7 @@
         "Summary": "In the tradition of The Orchid Thief, a compelling narrative set within the strange and genteel world of rare-book collecting: the true story of an infamous book thief, his victims, and the man determined to catch him.Rare-book theft is even more widespread than fine-art theft. Most thieves, of course, steal for profit. John Charles Gilkey steals purely for the love of books. In an attempt to understand him better, journalist Allison Hoover Bartlett plunged herself into the world of book lust and discovered just how dangerous it can be.John Gilkey is an obsessed, unrepentant book thief who has stolen hundreds of thousands of dollars worth of rare books from book fairs, stores, and libraries around the country. Ken Sanders is the self-appointed \"bibliodick\" (book dealer with a penchant for detective work) driven to catch him. Bartlett befriended both outlandish characters and found herself caught in the middle of efforts to recover hidden treasure. With a mixture of suspense, insight, and humor, she has woven this entertaining cat-and-mouse chase into a narrative that not only reveals exactly how Gilkey pulled off his dirtiest crimes, where he stashed the loot, and how Sanders ultimately caught him but also explores the romance of books, the lure to collect them, and the temptation to steal them. Immersing the reader in a rich, wide world of literary obsession, Bartlett looks at the history of book passion, collection, and theft through the ages, to examine the craving that makes some people willing to stop at nothing to possess the books they love.",
         "Number of Pages": "288",
         "ISBN": "9781594484810",
-        "Shelf": "B1*",
+        "Shelf": "Cart",
         "Possible Retirement": true
     },
     {
@@ -8550,7 +8495,6 @@
         "ai-summary": "A historical novel based on the true story of Ella Lynch, an Irishwoman who becomes the mistress of the dictator of Paraguay in the 19th century.",
         "ai-review": "Rich in detail and emotionally resonant, this book brings to life the fascinating figure of Ella Lynch in a captivating narrative.",
         "ai-genres": [
-            "Historical",
             "General Fiction"
         ]
     },
@@ -8755,7 +8699,7 @@
         "ai-summary": "A guide to identifying lectins and planning a lectin-free diet for better health.",
         "ai-review": "The Plant Paradox offers a eye-opening perspective on the potential health risks of consuming lectins, backed by scientific research and practical dietary advice.",
         "ai-genres": [
-            "Health/Lifestyle"
+            "Lifestyle/Health"
         ]
     },
     {
@@ -8791,7 +8735,7 @@
         "ai-summary": "A comprehensive reference manual on the principles and applications of Feng Shui for harmonizing environments.",
         "ai-review": "The Practical Encyclopedia of Feng Shui serves as a valuable resource for anyone seeking to understand and implement the ancient practice of Feng Shui in their daily lives.",
         "ai-genres": [
-            "Lifestyle/Reference"
+            "Art/History/Design"
         ]
     },
     {
@@ -8845,7 +8789,8 @@
         "ai-summary": "Argues that human history has been driven by innovation and exchange, leading to a brighter future.",
         "ai-review": "The Rational Optimist presents a persuasive case for optimism in human progress, grounded in historical evidence and insightful analysis.",
         "ai-genres": [
-            "History/Non-Fiction"
+            "Business",
+            "General Non-Fiction"
         ]
     },
     {
@@ -8899,7 +8844,7 @@
         "ai-summary": "Explores the history of 20th-century music through the lens of its cultural and social contexts.",
         "ai-review": "The rest is noise provides a fascinating exploration of modern music's evolution, interwoven with historical events and personal narratives that deepen the reader's connection to the material.",
         "ai-genres": [
-            "Music/History"
+            "History"
         ]
     },
     {
@@ -8917,7 +8862,7 @@
         "ai-summary": "A series of parables set in ancient Babylon that impart financial wisdom and principles of wealth accumulation.",
         "ai-review": "The Richest Man in Babylon offers timeless financial advice in the form of engaging stories, making complex concepts accessible and actionable for readers of all backgrounds.",
         "ai-genres": [
-            "Personal Finance/Classics"
+            "Business"
         ]
     },
     {
@@ -8953,7 +8898,7 @@
         "ai-summary": "A heartwarming romantic comedy about a genetics professor's quest to find love through a scientific survey.",
         "ai-review": "The Rosie Project charms with its quirky protagonist and endearing narrative, blending humor and warmth in a delightful exploration of love and human connection.",
         "ai-genres": [
-            "Romance/Comedy"
+            "General Fiction"
         ]
     },
     {
@@ -9003,7 +8948,7 @@
         "ai-summary": "A psychological thriller featuring Detective Joona Linna investigating a series of bizarre murders with mystical connections.",
         "ai-review": "The Sandman captivates with its intricate plot and well-developed characters, weaving together elements of suspense and mysticism to create a truly gripping read.",
         "ai-genres": [
-            "Mystery/Thriller"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -9020,7 +8965,7 @@
         "ai-summary": "An exploration of how everyday objects and possessions connect to personal memories and identities.",
         "ai-review": "The Secret Life of Objects delves into the emotional significance of our possessions, offering a thoughtful reflection on the intertwined nature of objects and memories.",
         "ai-genres": [
-            "Psychology/Non-Fiction"
+            "General Non-Fiction"
         ]
     },
     {
@@ -9055,7 +9000,7 @@
         "ai-summary": "An archaeological mystery involving art theft, murder, and ancient Egyptian artifacts.",
         "ai-review": "The Serpent on the Crown blends historical intrigue with modern suspense, offering a thrilling narrative that keeps readers guessing until the final revelation.",
         "ai-genres": [
-            "Mystery/Archaeology"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -9142,8 +9087,7 @@
         "ai-summary": "Set in colonial India, the novel follows the life of a young girl caught between tradition and modernity, love and duty, as she navigates the intricacies of her society.",
         "ai-review": "An evocative historical fiction with rich cultural details and a compelling narrative that immerses readers in the vibrant world of India in the early 20th century.",
         "ai-genres": [
-            "General Fiction",
-            "Historical"
+            "General Fiction"
         ]
     },
     {
@@ -9278,8 +9222,7 @@
         "ai-summary": "An intimate memoir by the legendary music executive, detailing his remarkable career and the pivotal role he played in shaping the music industry and discovering iconic talents.",
         "ai-review": "Davis shares fascinating behind-the-scenes anecdotes and personal reflections, creating a must-read for music enthusiasts and anyone interested in the entertainment business.",
         "ai-genres": [
-            "Biography/Autobiography",
-            "Music"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -9389,8 +9332,7 @@
         "ai-summary": "A sweeping novel spanning decades and continents, following the interconnected lives of a Korean war orphan, an American GI, and a missionary, exploring themes of war, love, and loss.",
         "ai-review": "Lee's evocative prose and intricate character portraits create a compelling narrative that captures the haunting effects of war on individuals and societies, resonating long after the final page.",
         "ai-genres": [
-            "General Fiction",
-            "Historical"
+            "General Fiction"
         ]
     },
     {
@@ -9609,7 +9551,6 @@
         "ai-summary": "A heartwarming story of love and family, centering on a man's journey to fulfill a promise made to his wife who passed away.",
         "ai-review": "Nicholas Sparks delivers another emotionally engaging narrative that explores themes of grief, love, and the resilience of the human spirit.",
         "ai-genres": [
-            "Romance",
             "General Fiction"
         ]
     },
@@ -9683,8 +9624,7 @@
         "ai-summary": "A tale of love, betrayal, and secrets set in the vineyards of Champagne during World War II, intertwining the lives of two women across generations.",
         "ai-review": "Harmel skillfully blends historical intrigue with poignant storytelling, creating a moving narrative that explores the endurance of love amidst the backdrop of war.",
         "ai-genres": [
-            "Historical Fiction",
-            "Romance"
+            "General Fiction"
         ]
     },
     {
@@ -9809,8 +9749,7 @@
         "ai-summary": "Didion's candid memoir recounting the year following the sudden death of her husband, grappling with grief, memory, and the fragility of life.",
         "ai-review": "A powerful and introspective exploration of loss and mourning, Didion's writing is raw, honest, and deeply affecting, offering solace and insight to those navigating grief.",
         "ai-genres": [
-            "Biography/Autobiography",
-            "Memoir"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -9900,7 +9839,7 @@
         "Summary": "In 1993, following a failed attempt to ascend K2, Greg Mortenson was inspired by a chance encounter with impoverished mountain villagers in Pakistan and promised to build them a school. From that rash, earnest promise grew one of the most incredible humanitarian campaigns of our time--Mortenson's one-man mission to counteract extremism by building schools, especially for girls, throughout the breeding ground of the Taliban. Award-winning journalist David Oliver Relin has collaborated on this spellbinding account of Mortenson's incredible accomplishments in a region where Americans are often feared and hated. Over the following decade Mortenson built not just one but fifty-five schools. Three Cups of Tea is at once an unforgettable adventure and the inspiring story of how one man really is changing the world--one school at a time. Make this your next book club selection and everyone saves. Get 15% off when you order 5 or more of this title for your book club. Simply enter the coupon code MORTENSONTHREE at checkout. This offer does not apply to eBook purchases. This offer applies to only one downloadable audio per purchase. Watch a Video",
         "Number of Pages": "338",
         "ISBN": "9780670034826",
-        "Shelf": "B1*",
+        "Shelf": "Cart",
         "Possible Retirement": true,
         "ai-summary": "An inspiring memoir recounting Mortenson's mission to promote peace through education by building schools in remote regions of Pakistan and Afghanistan.",
         "ai-review": "This book is a testament to the power of one person's determination to make a difference in the world. Mortenson's story is both moving and eye-opening.",
@@ -10145,7 +10084,7 @@
         "ai-summary": "A collection of introspective poetry and prose delving into the unspoken emotions and vulnerabilities experienced by men in relationships.",
         "ai-review": "Jeanty's writing is raw and heartfelt, offering a rare glimpse into the emotional landscape of men in love. This book is a poignant exploration of vulnerability and connection.",
         "ai-genres": [
-            "Poetry",
+            "Literature/Poetry",
             "Self-Help/Personal Development"
         ]
     },
@@ -10164,8 +10103,7 @@
         "ai-summary": "A motivational book inspiring readers to overcome obstacles, tap into their potential, and achieve success through perseverance and positive mindset.",
         "ai-review": "Zook's practical advice and inspirational stories offer readers a roadmap to unlock their inner strength and strive for greatness. A valuable read for personal growth.",
         "ai-genres": [
-            "Self-Help/Personal Development",
-            "Motivational"
+            "Self-Help/Personal Development"
         ]
     },
     {
@@ -10200,8 +10138,7 @@
         "ai-summary": "A thrilling medical mystery combining elements of forensic pathology and suspense as detective Jane Rizzoli investigates a series of puzzling disappearances.",
         "ai-review": "Gerritsen masterfully combines science and suspense in this gripping novel. Readers will be captivated by the twists and turns of the investigation and the chilling atmosphere.",
         "ai-genres": [
-            "Mystery/Suspense",
-            "Medical Thriller"
+            "Mystery/Suspense"
         ]
     },
     {
@@ -10431,8 +10368,7 @@
         "ai-summary": "Vicente L. Rafael explores key events in Filipino history, shedding light on the complexities and nuances of colonial encounters, resistance, and cultural transformation.",
         "ai-review": "A valuable and enlightening read that offers fresh perspectives on Filipino history, challenging conventional narratives and exploring forgotten stories.",
         "ai-genres": [
-            "History",
-            "Cultural Studies"
+            "History"
         ]
     },
     {
@@ -10450,7 +10386,7 @@
         "ai-review": "A fascinating and informative book that delves deep into the realm of sharks, dispelling myths and highlighting the importance of conservation efforts.",
         "ai-genres": [
             "Science/Nature",
-            "Adventure Non-Fiction"
+            "General Non-Fiction"
         ]
     },
     {
@@ -10468,8 +10404,7 @@
         "ai-summary": "Jack Worthen Germond examines the history of the American flag and its symbolic meaning, addressing controversies and debates surrounding the flag's identity.",
         "ai-review": "An insightful exploration of patriotism, identity, and the cultural significance of the American flag, offering a nuanced perspective on a national emblem.",
         "ai-genres": [
-            "History",
-            "Cultural Studies"
+            "History"
         ]
     },
     {
@@ -10487,8 +10422,7 @@
         "ai-summary": "Mike Marqusee delves into the life and work of Bob Dylan, exploring the influence of his music and lyrics on social and political movements across generations.",
         "ai-review": "A compelling examination of Bob Dylan's impact on popular culture and activism, shedding light on the enduring relevance of his artistry.",
         "ai-genres": [
-            "Biography/Autobiography",
-            "Music"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -10582,8 +10516,7 @@
         "ai-summary": "Samantha Irby delivers a collection of humorous and candid essays on life, love, and modern adulthood, offering a refreshing and relatable take on the challenges of contemporary living.",
         "ai-review": "Irby's wit and honesty shine in 'Wow, No Thank You.,' providing readers with a hilarious and insightful glimpse into the absurdities of everyday life.",
         "ai-genres": [
-            "Humor",
-            "Personal Essays"
+            "Humor"
         ]
     },
     {
@@ -11428,5 +11361,358 @@
         "Number of Pages": "187",
         "ISBN": "9781931498234",
         "Shelf": "A1"
+    },
+    {
+        "Title": "At Home",
+        "Subtitle": "A Short History of Private Life",
+        "Author": "Bill Bryson",
+        "Author (Last, First)": "Bryson, Bill",
+        "Publisher": "Doubleday",
+        "Year Published": "2010",
+        "Genre": "Architecture",
+        "Summary": "From one of the most beloved authors of our time\u2014more than six million copies of his books have been sold in this country alone\u2014a fascinating excursion into the history behind the place we call home.  \u201cHouses aren\u2019t refuges from history. They are where history ends up.\u201d   Bill Bryson and his family live in a Victorian parsonage in a part of England where nothing of any great significance has  happened since the Romans decamped. Yet one day, he began to consider how very little he knew about the ordinary things of life as he found it in that comfortable home. To remedy this, he formed the idea of journeying about his house from room to room to \u201cwrite a history of the world without leaving home.\u201d The bathroom provides the occasion for a history of hygiene; the bedroom, sex, death, and sleep; the kitchen, nutrition and the spice trade; and so on, as Bryson shows how each has figured in the evolution of private life. Whatever happens in the world, he demonstrates, ends up in our house, in the paint and the pipes and the pillows and every item of furniture.  Bill Bryson has one of the liveliest, most inquisitive minds on the planet, and he is a master at turning the seemingly isolated or mundane fact into an occasion for the most diverting exposition imaginable. His wit and sheer prose fluency make At Home one of the most entertaining books ever written about private life.",
+        "Number of Pages": "497",
+        "ISBN": "9780767919388",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Bossypants",
+        "Author": "Tina Fey",
+        "Author (Last, First)": "Fey, Tina",
+        "Publisher": "Little, Brown",
+        "Year Published": "2012",
+        "Genre": "Humor",
+        "Summary": "Spirited and whip-smart, these laugh-out-loud autobiographical essays are \"a masterpiece\" from the Emmy Award-winning actress and comedy writer known for 30 Rock, Mean Girls, and SNL (Sunday Telegraph).Before Liz Lemon, before \"Weekend Update,\" before \"Sarah Palin,\" Tina Fey was just a young girl with a dream: a recurring stress dream that she was being chased through a local airport by her middle-school gym teacher. She also had a dream that one day she would be a comedian on TV.She has seen both these dreams come true.At last, Tina Fey's story can be told. From her youthful days as a vicious nerd to her tour of duty on Saturday Night Live; from her passionately halfhearted pursuit of physical beauty to her life as a mother eating things off the floor; from her one-sided college romance to her nearly fatal honeymoon -- from the beginning of this paragraph to this final sentence.Tina Fey reveals all, and proves what we've always suspected: you're no one until someone calls you bossy.(Includes Special, Never-Before-Solicited Opinions on Breastfeeding, Princesses, Photoshop, the Electoral Process, and Italian Rum Cake!)",
+        "Number of Pages": "304",
+        "ISBN": "9780316056878",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Brand Failures",
+        "Subtitle": "The Truth about the 100 Biggest Branding Mistakes of All Time",
+        "Author": "Matt Haig",
+        "Author (Last, First)": "Haig, Matt",
+        "Publisher": "Kogan Page",
+        "Year Published": "2011",
+        "Genre": "Business & Economics",
+        "Summary": "What do Coca-Cola, McDonald's, IBM, Microsoft and Virgin all have in common? Yes, they are all global giants, but what they are less recognized for are the many branded products they have launched which bombed spectacularly - and at great cost. Brand Failures takes a riveting look at how such disasters occur. This new edition of Matt Haig's best-selling book, provides the inside-story of 100 major brand blunders that make for jaw-dropping reading. Brand Failures explores the brands that have set sail with the help of multi-million dollar advertising campaigns only to sink without a trace. From acknowledged brand mistakes made by successful blue-chip companies to some lesser know but hilarious bomb-shells, it reveals what went wrong in every case and provides a valuable checklist of lessons learnt for each. A tour of this fascinating hall of failure will alert you to potential dangers and show you how to ensure a long, healthy life for your brand.",
+        "Number of Pages": "242",
+        "ISBN": "9780749462994",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Building Strong Brands",
+        "Author": "David A. Aaker",
+        "Author (Last, First)": "Aaker, David A.",
+        "Publisher": "Free Press",
+        "Year Published": "1996",
+        "Genre": "Business & Economics",
+        "Summary": "In this compelling work, Aaker uses real brand-building cases from Saturn, General Electric, Kodak, Healthy Choice, McDonald's, and others to demonstrate how strong brands have been created and managed.As industries turn increasingly hostile, it is clear that strong brand-building skills are needed to survive and prosper. In David Aaker's pathbreaking book, Managing Brand Equity, managers discovered the value of a brand as a strategic asset and a company's primary source of competitive advantage. Now, in this compelling new work, Aaker uses real brand-building cases from Saturn, General Electric, Kodak, Healthy Choice, McDonald's, and others to demonstrate how strong brands have been created and managed. A common pitfall of brand strategists is to focus on brand attributes. Aaker shows how to break out of the box by considering emotional and self-expressive benefits and by introducing the brand-as-person, brand-as-organization, and brand-as-symbol perspectives. The twin concepts of brand identity (the brand image that brand strategists aspire to create or maintain) and brand position (that part of the brand identity that is to be actively communicated) play a key role in managing the \"out-of-the-box\" brand. A second pitfall is to ignore the fact that individual brands are part of a larger system consisting of many intertwined and overlapping brands and subbrands. Aaker shows how to manage the \"brand system\" to achieve clarity and synergy, to adapt to a changing environment, and to leverage brand assets into new markets and products. Aaker also addresses practical management issues, introducing a set of brand equity measures, termed the brand equity ten, to help those who measure and track brand equity across products and markets. He presents and analyzes brand-nurturing organizational forms that are responsive to the challenges of coordinated brands across markets, products, roles, and contexts. Potentially destructive organizational pressures to change a brand's identity and position are also discussed. As executives in a wide range of industries seek to prevent their products and services from becoming commodities, they are recommitting themselves to brands as a foundation of business strategy. This new work will be essential reading for the battle-ready.",
+        "Number of Pages": "380",
+        "ISBN": "9780029001516",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Burnout",
+        "Subtitle": "The Secret to Unlocking the Stress Cycle",
+        "Author": "PhD Emily Nagoski,DMA Amelia Nagoski",
+        "Author (Last, First)": "Nagoski, PhD Emily",
+        "Publisher": "Random House Publishing Group",
+        "Year Published": "2020",
+        "Genre": "Self-Help",
+        "Summary": "NEW YORK TIMES\u00a0BESTSELLER \u2022\u00a0\u201cThis book is a gift! I\u2019ve been practicing their strategies, and it\u2019s a total game-changer.\u201d\u2014Bren\u00e9 Brown, PhD, author of the #1\u00a0New York Times\u00a0bestseller\u00a0Dare to LeadThis groundbreaking book explains why women experience burnout differently than men\u2014and provides a simple, science-based plan to help women minimize stress, manage emotions, and live a more joyful life. Burnout. Many women in America have experienced it. What\u2019s expected of women and what it\u2019s really like to be a woman in today\u2019s world are two very different things\u2014and women exhaust themselves trying to close the gap between them. How can you \u201clove your body\u201d when every magazine cover has ten diet tips for becoming \u201cyour best self\u201d? How do you \u201clean in\u201d at work when you\u2019re already operating at 110 percent and aren\u2019t recognized for it? How can you live happily and healthily in a sexist world that is constantly telling you you\u2019re too fat, too needy, too noisy, and too selfish? Sisters Emily Nagoski, PhD, and Amelia Nagoski, DMA, are here to help end the cycle of feeling overwhelmed and exhausted. Instead of asking us to ignore the very real obstacles and societal pressures that stand between women and well-being, they explain with compassion and optimism what we\u2019re up against\u2014and show us how to fight back. In these pages you\u2019ll learn \u2022 what you can do to complete the biological stress cycle\u2014and return your body to a state of relaxation \u2022 how to manage the \u201cmonitor\u201d in your brain that regulates the emotion of frustration \u2022 how the Bikini Industrial Complex makes it difficult for women to love their bodies\u2014and how to defend yourself against it \u2022 why rest, human connection, and befriending your inner critic are keys to recovering and preventing burnout With the help of eye-opening science, prescriptive advice, and helpful worksheets and exercises, all women will find something transformative in these pages\u2014and will be empowered to create positive change. Emily and Amelia aren\u2019t here to preach the broad platitudes of expensive self-care or insist that we strive for the impossible goal of \u201chaving it all.\u201d Instead, they tell us that we are enough, just as we are\u2014and that wellness, true wellness, is within our reach.NAMED ONE OF THE BEST BOOKS OF THE YEAR BY\u00a0BOOKRIOT \u201cBurnout is the gold standard of self-help books, delivering cutting-edge science with energy, empathy, and wit. The authors know exactly what\u2019s going on inside your frazzled brain and body, and exactly what you can do to fix it. . . . Truly life-changing.\u201d\u2014Sarah Knight, New York Times bestselling author of Calm the F*ck Down",
+        "Number of Pages": "304",
+        "ISBN": "9781984818324",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Fifty Books, Fifty Covers 2014",
+        "Author": "William Drenttel",
+        "Author (Last, First)": "Drenttel, William",
+        "Publisher": "Observer Editions",
+        "Year Published": "2014",
+        "Genre": "Art",
+        "Number of Pages": "314",
+        "ISBN": "9780996337014",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Finding Me",
+        "Author": "Viola Davis",
+        "Author (Last, First)": "Davis, Viola",
+        "Publisher": "HarperCollinsPublishers Ebony Magazine Publishing",
+        "Year Published": "2022",
+        "Genre": "Biography & Autobiography",
+        "Summary": "OPRAH'S BOOK CLUB PICK - A HARPERS BAZAAR BEST BOOK OF 2022 - A PARADE MOST ANTICIPATED BOOK - A MARIE CLAIRE MOST ANTICIPATED BOOK\"It's clear from the first page that Davis is going to serve a more intimate, unpolished account than is typical of the average (often ghost-written) celebrity memoir; Finding Me reads like Davis is sitting you down for a one-on-one conversation about her life, warts and all.\"--USA Today\"[A] fulfilling narrative of struggle and success....Her gorgeous storytelling will inspire anyone wishing to shed old labels.\"--Los Angeles TimesIn my book, you will meet a little girl named Viola who ran from her past until she made a life-changing decision to stop running forever.This is my story, from a crumbling apartment in Central Falls, Rhode Island, to the stage in New York City, and beyond. This is the path I took to finding my purpose but also my voice in a world that didn't always see me.As I wrote Finding Me, my eyes were open to the truth of how our stories are often not given close examination. We are forced to reinvent them to fit into a crazy, competitive, judgmental world. So I wrote this for anyone running through life untethered, desperate and clawing their way through murky memories, trying to get to some form of self-love. For anyone who needs reminding that a life worth living can only be born from radical honesty and the courage to shed facades and be . . . you.Finding Me is a deep reflection, a promise, and a love letter of sorts to self. My hope is that my story will inspire you to light up your own life with creative expression and rediscover who you were before the world put a label on you.",
+        "Number of Pages": "291",
+        "ISBN": "9780063037328",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Flights",
+        "Subtitle": "Nobel Prize and Booker Prize Winner",
+        "Author": "Olga Tokarczuk",
+        "Author (Last, First)": "Tokarczuk, Olga",
+        "Publisher": "Penguin",
+        "Year Published": "2019",
+        "Genre": "Fiction",
+        "Summary": "WINNER OF THE NOBEL PRIZE IN LITERATURE   WINNER OF THE MAN BOOKER INTERNATIONAL PRIZE  NATIONAL BOOK AWARD FINALIST FOR TRANSLATED LITERATURE A visionary work of fiction by \"A writer on the level of W. G. Sebald\" (Annie Proulx) \"A magnificent writer.\" \u2014 Svetlana Alexievich, Nobel Prize-winning author of Secondhand Time \"A beautifully fragmented look at man's longing for permanence.... Ambitious and complex.\" \u2014 Washington PostFrom the incomparably original Polish writer Olga Tokarczuk, Flights interweaves reflections on travel with an in-depth exploration of the human body, broaching life, death, motion, and migration. Chopin's heart is carried back to Warsaw in secret by his adoring sister. A woman must return to her native Poland in order to poison her terminally ill high school sweetheart, and a young man slowly descends into madness when his wife and child mysteriously vanish during a vacation and just as suddenly reappear. Through these brilliantly imagined characters and stories, interwoven with haunting, playful, and revelatory meditations, Flights explores what it means to be a traveler, a wanderer, a body in motion not only through space but through time. Where are you from? Where are you coming in from? Where are you going? we call to the traveler. Enchanting, unsettling, and wholly original, Flights is a master storyteller's answer.",
+        "Number of Pages": "416",
+        "ISBN": "9780525534204",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Getting to Zero",
+        "Subtitle": "A Doctor and a Diplomat on the Ebola Frontline",
+        "Author": "Sinead Walsh,Oliver Johnson",
+        "Author (Last, First)": "Walsh, Sinead",
+        "Publisher": "Bloomsbury Academic",
+        "Year Published": "2018",
+        "Genre": "Biography & Autobiography",
+        "Summary": "In 2014, a 28-year old British doctor found himself co-running the Ebola isolation unit in Sierra Leone's main hospital after the doctor in charge had been killed by the virus. Completely overwhelmed and wrapped in stifling protective suits, he and his team took it in turns to provide care to patients while removing dead bodies from the ward. Against all odds he battled to keep the hospital open, as the queue of sick and dying patients grew every day.Only a few miles down the road the Irish Ambassador and Head of Irish Aid worked relentlessly to rapidly scale up the international response. At a time when entire districts had been quarantined, she travelled around the country, and met with UN agencies, the President and senior ministers so as to be better placed in alerting the world to the catastrophe unfolding in front of her.In this blow-by-blow account, Walsh and Johnson expose the often shocking shortcomings of the humanitarian response to the outbreak, both locally and internationally, and call our attention to the immense courage of those who put their lives on the line every day to contain the disease. Theirs is the definitive account of the fight against an epidemic that shook the world.",
+        "Number of Pages": "442",
+        "ISBN": "9781786992482",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Honor",
+        "Author": "Thrity Umrigar",
+        "Author (Last, First)": "Umrigar, Thrity",
+        "Publisher": "Algonquin Books",
+        "Year Published": "2022",
+        "Genre": "Fiction",
+        "Summary": "THE JANUARY 2022 REESE'S BOOK CLUB PICK \u201cIn the way\u00a0A Thousand Splendid Suns\u00a0told of Afghanistan\u2019s women, Thrity Umrigar tells a story of India with the intimacy of one who knows the many facets of a land both modern and ancient, awash in contradictions.\u201d\u00a0\u2014Lisa Wingate, #1\u00a0New York Times\u00a0bestselling author of\u00a0Before We Were Yours\u00a0 In this riveting and immersive novel, bestselling author Thrity Umrigar tells the story of two couples and the sometimes dangerous and heartbreaking challenges of love across a cultural divide. \u00a0 Indian\u00a0American journalist\u00a0Smita has returned to India to cover a story, but reluctantly: long ago she and her family left the country with no intention of ever coming back. As she follows the case of Meena\u2014a Hindu woman attacked by members of her own village and her own family for marrying a Muslim man\u2014Smita comes face to face with a society where tradition carries more weight than one\u2019s own heart, and a story that threatens to unearth the painful secrets of Smita\u2019s own past. While Meena\u2019s fate hangs in the balance, Smita tries in every way she can to right the scales. She also finds herself increasingly drawn to Mohan, an Indian man she meets while on assignment. But the dual love stories of Honor are as different as the cultures of Meena and Smita themselves: Smita realizes she has the freedom to enter into a casual affair, knowing she can decide later how much it means to her. In this tender and evocative novel about love, hope, familial devotion, betrayal, and sacrifice, Thrity Umrigar shows us two courageous women trying to navigate how to be true to their homelands and themselves at the same time.",
+        "Number of Pages": "336",
+        "ISBN": "9781616209957",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "I Am Charlotte Simmons",
+        "Subtitle": "A Novel",
+        "Author": "Tom Wolfe",
+        "Author (Last, First)": "Wolfe, Tom",
+        "Publisher": "Macmillan",
+        "Year Published": "2004",
+        "Genre": "Fiction",
+        "Summary": "Dupont University--the Olympian halls of learning housing the cream of America's youth, the roseate Gothic spires and manicured lawns suffused with tradition . . . Or so it appears to beautiful, brilliant Charlotte Simmons, a sheltered freshman from North Carolina. But Charlotte soon learns, to her mounting dismay, that for the uppercrust coeds of Dupont, sex, Cool, and kegs trump academic achievement every time.As Charlotte encounters Dupont's privileged elite--her roommate, Beverly, a Groton-educated Brahmin in lusty pursuit of lacrosse players; Jojo Johanssen, the only white starting player on Dupont's godlike basketball team, whose position is threatened by a hotshot black freshman from the projects; the Young Turk of Saint Ray fraternity, Hoyt Thorpe, whose heady sense of entitlement and social domination is clinched by his accidental brawl with a bodyguard for the governor of California; and Adam Geller, one of the Millennial Mutants who run the university's \"independent\" newspaper and who consider themselves the last bastion of intellectual endeavor on the sex-crazed, jock-obsessed campus--she gains a new, revelatory sense of her own power, that of her difference and of her very innocence, but little does she realize that she will act as a catalyst in all of their lives.With his signature eye for detail, Tom Wolfe draws on extensive observation of campuses across the country to immortalize college life in the '00s. I Am Charlotte Simmons is the much-anticipated triumph of America's master chronicler.",
+        "Number of Pages": "676",
+        "ISBN": "9780374281588",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Imperial Blandings",
+        "Subtitle": "An Omnibus",
+        "Author": "Pelham Grenville Wodehouse",
+        "Author (Last, First)": "Wodehouse, Pelham Grenville",
+        "Publisher": "Penguin Books",
+        "Year Published": "1992",
+        "Genre": "Fiction",
+        "Summary": "Threats to the Empress of Blandings and thwarted young love almost disrupt the peace of the peace of the Earl of Emsworth in \u00fdFull Moon\u00fd, \u00fdPigs Have Wings\u00fd and \u00fdService with a Smile\u00fd. Perfect happiness for Lord Emsworth is to listen to the contented night breathing of his medal-winning pig while drooping over the wall of her bijou residence. But so often there is a snake in his Garden of Eden, a crumpled leaf in his bed of roses, a grain of sand in his spiritual spinach. For Blandings is regarded by his formidable sisters as a suitable repository for young women engaged to impecunious\u00fdand therefore unbecoming\u00fdsuitors. Worse still, a bad baronet and a devious Duke attempt some funny business with the ancestral porker. Add lovelorn or loathsome secretaries, diamonds, millionaires, false names, delinquent boys and a pack of wild aunts and it is not surprising that a series of black frosts fall on the earthly paradise of Blandings. But usually either the Hon. Galahad Threepwood or Lord Ickenham can bring sweetness and light back into the rose garden and save Lord Emsworth\u00fds bacon for him\u00fdto almost everyone\u00fds satisfaction ...",
+        "Number of Pages": "564",
+        "ISBN": "9780140173598",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "In the Province of the Gods",
+        "Author": "Kenny Fries",
+        "Author (Last, First)": "Fries, Kenny",
+        "Publisher": "University of Wisconsin Press",
+        "Year Published": "2017",
+        "Genre": "Biography & Autobiography",
+        "Summary": "Kenny Fries embarks on a journey of profound self-discovery as a disabled foreigner in Japan, a society historically hostile to difference. As he visits gardens, experiences Noh and butoh, and meets artists and scholars, he also discovers disabled gods, one-eyed samurai, blind chanting priests, and A-bomb survivors. When he is diagnosed as HIV positive, all his assumptions about Japan, the body, and mortality are shaken, and he must find a way to reenter life on new terms.",
+        "Number of Pages": "198",
+        "ISBN": "9780299314200",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Juror #3",
+        "Author": "James Patterson",
+        "Author (Last, First)": "Patterson, James",
+        "Publisher": "Little, Brown",
+        "Year Published": "2018",
+        "Genre": "Fiction",
+        "Summary": "Instant #1 New York Times bestseller!A young attorney tries her first case . . . and it's Murder One in a legal thriller from the world's #1 bestselling writer.Ruby Bozarth, a newcomer to Rosedale, Mississippi, is also fresh to the Mississippi Bar--and to the docket of Circuit Judge Baylor, who taps Ruby as defense counsel in a racially charged felony. The murder of a woman from one of the town's oldest families has Rosedale's upper crust howling for blood, and the prosecutor is counting on Ruby's inexperience to help him deliver a swift conviction. Ruby's client is a college football star who has returned home after a career-ending injury, and she is determined to build a defense that will stick. She finds help in unexpected quarters from Suzanne, a hard-charging attorney armed to the teeth, and Shorty, a diner cook who knows more than he lets on. Ruby never belonged to the country-club set, but once she nearly married into it. As news breaks of a second murder, Ruby's ex-fianc\u00e9, Lee Greene, shows up on her doorstep--a Southern gentleman in need of a savior. As lurid, intertwining investigations unfold, no one in Rosedale can be trusted, especially the twelve men and women impaneled on the jury. They may be hiding the most incendiary secret of all.",
+        "Number of Pages": "352",
+        "ISBN": "9780316474122",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Little Black Book for Stunning Success",
+        "Author": "Robin Sharma",
+        "Author (Last, First)": "Sharma, Robin",
+        "Publisher": "Jaico Publishing House",
+        "Year Published": "2017",
+        "Genre": "Self-Help",
+        "Summary": "A MANIFESTO FOR EVERYDAY GREATNESSIn The Little Black Book for Stunning Success, Robin Sharma \u2013 one of the true masters of leadership + elite performance on the planet \u2013 shares the potent insights that have helped so many people just like you do legendary work, live remarkable lives and lift everyone around them in the process. If you\u2019re truly ready to live your dreams, this book is your fuel.As you read this playbook of the pros, you will discover:\u00a0\u00a0\u25a0\u00a0 The hidden beliefs of the best in the world\u25a0\u00a0 The rituals of business titans and history\u2019s icons\u00a0\u25a0\u00a0 How superstars create their performances\u25a0\u00a0 Daily tactics to become a happier, healthier and\u00a0\u00a0more serene human being\u00a0ROBIN SHARMA is a globally respected humanitarian. Widely considered one of the world\u2019s top leadership and personal optimization advisors, his clients include famed billionaires, professional sports superstars and many Fortune 100 companies. The author\u2019s #1 bestsellers, such as The Monk Who Sold His Ferrari, The Greatness Guide and The Leader Who Had No Title are in over 92 languages, making him one of the most broadly read writers alive today.Go to robinsharma.com for more inspiration + valuable resources to upgrade your life\u201cRobin Sharma\u2019s Following Rivals that of the Dalai Lama.\u201d\u00a0The Times of India\u201cGlobal Humanitarian.\u201dCNN\u201cLeadership Legend.\u201d\u00a0Forbes",
+        "Number of Pages": "288",
+        "ISBN": "9788184959895",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Me and White Supremacy",
+        "Subtitle": "Combat Racism, Change the World, and Become a Good Ancestor",
+        "Author": "Layla F Saad",
+        "Author (Last, First)": "Saad, Layla F",
+        "Publisher": "Sourcebooks",
+        "Year Published": "2020",
+        "Genre": "Family & Relationships",
+        "Summary": "The New York Times and USA Today bestseller! This eye-opening book challenges you to do the essential work of unpacking your biases, and helps white people take action and dismantle the privilege within themselves so that you can stop (often unconsciously) inflicting damage on people of color, and in turn, help other white people do better, too.\"Layla Saad is one of the most important and valuable teachers we have right now on the subject of white supremacy and racial injustice.\"--New York Times bestselling author Elizabeth GilbertBased on the viral Instagram challenge that captivated participants worldwide, Me and White Supremacy takes readers on a 28-day journey, complete with journal prompts, to do the necessary and vital work that can ultimately lead to improving race relations.Updated and expanded from the original workbook (downloaded by nearly 100,000 people), this critical text helps you take the work deeper by adding more historical and cultural contexts, sharing moving stories and anecdotes, and including expanded definitions, examples, and further resources, giving you the language to understand racism, and to dismantle your own biases, whether you are using the book on your own, with a book club, or looking to start family activism in your own home.This book will walk you step-by-step through the work of examining: Examining your own white privilegeWhat allyship really meansAnti-blackness, racial stereotypes, and cultural appropriationChanging the way that you view and respond to raceHow to continue the work to create social changeAwareness leads to action, and action leads to change. For readers of White Fragility, White Rage, So You Want To Talk About Race, The New Jim Crow, How to Be an Anti-Racist and more who are ready to closely examine their own beliefs and biases and do the work it will take to create social change.\"Layla Saad moves her readers from their heads into their hearts, and ultimately, into their practice. We won't end white supremacy through an intellectual understanding alone; we must put that understanding into action.\"--Robin DiAngelo, author of New York Times bestseller White Fragility",
+        "Number of Pages": "238",
+        "ISBN": "9781728209807",
+        "Shelf": "Cart",
+    },
+    {
+        "Title": "Norwegian Wood",
+        "Author": "Haruki Murakami",
+        "Author (Last, First)": "Murakami, Haruki",
+        "Publisher": "Knopf Doubleday Publishing Group",
+        "Year Published": "2000",
+        "Genre": "Fiction",
+        "Summary": "From the bestselling author of Kafka on the Shore: A magnificent coming-of-age story steeped in nostalgia, \u201ca masterly novel\u201d (The New York Times Book Review) blending the music, the mood, and the ethos that were the sixties with a young man\u2019s hopeless and heroic first love.Now with a new introduction by the author.  Toru, a serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before. As Naoko retreats further into her own world, Toru finds himself drawn to a fiercely independent and sexually liberated young woman.  Stunning and elegiac, Norwegian Wood first propelled Haruki Murakami into the forefront of the literary scene.",
+        "Number of Pages": "320",
+        "ISBN": "9780375704024",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Orbiting the Giant Hairball",
+        "Subtitle": "A Corporate Fool's Guide to Surviving with Grace",
+        "Author": "Gordon MacKenzie",
+        "Author (Last, First)": "MacKenzie, Gordon",
+        "Publisher": "OpusPocus Pub.",
+        "Year Published": "1996",
+        "Genre": "Business & Economics",
+        "Summary": "Creativity is crucial to business success. But too often, even the most innovative organization quickly becomes a \"giant hairball\"--a tangled, impenetrable mass of rules, traditions, and systems, all based on what worked in the past--that exercises an inexorable pull into mediocrity. Gordon McKenzie worked at Hallmark Cards for thirty years, many of which he spent inspiring his colleagues to slip the bonds of Corporate Normalcy and rise to orbit--to a mode of dreaming, daring and doing above and beyond the rubber-stamp confines of the administrative mind-set. In his deeply funny book, exuberantly illustrated in full color, he shares the story of his own professional evolution, together with lessons on awakening and fostering creative genius. Originally self-published and already a business \"cult classic\", this personally empowering and entertaining look at the intersection between human creativity and the bottom line is now widely available to bookstores. It will be a must-read for any manager looking for new ways to invigorate employees, and any professional who wants to achieve his or her best, most self-expressive, most creative and fulfilling work.",
+        "Number of Pages": "224",
+        "ISBN": "9780965024907",
+        "Shelf": "Cart",
+        "Uploaded Image URL": "https://covers.openlibrary.org/b/id/13605835-L.jpg"
+    },
+    {
+        "Title": "Orbiting the Giant Hairball",
+        "Subtitle": "A Corporate Fool's Guide to Surviving with Grace",
+        "Author": "Gordon MacKenzie",
+        "Author (Last, First)": "MacKenzie, Gordon",
+        "Publisher": "Penguin",
+        "Year Published": "1998",
+        "Genre": "Business & Economics",
+        "Summary": "Creativity is crucial to business success. But too often, even the most innovative organization quickly becomes a \"giant hairball\"--a tangled, impenetrable mass of rules, traditions, and systems, all based on what worked in the past--that exercises an inexorable pull into mediocrity. Gordon McKenzie worked at Hallmark Cards for thirty years, many of which he spent inspiring his colleagues to slip the bonds of Corporate Normalcy and rise to orbit--to a mode of dreaming, daring and doing above and beyond the rubber-stamp confines of the administrative mind-set. In his deeply funny book, exuberantly illustrated in full color, he shares the story of his own professional evolution, together with lessons on awakening and fostering creative genius.Originally self-published and already a business \"cult classic\", this personally empowering and entertaining look at the intersection between human creativity and the bottom line is now widely available to bookstores. It will be a must-read for any manager looking for new ways to invigorate employees, and any professional who wants to achieve his or her best, most self-expressive, most creative and fulfilling work.",
+        "Number of Pages": "224",
+        "ISBN": "9780670879830",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Sick in the Head",
+        "Subtitle": "Conversations About Life and Comedy",
+        "Author": "Judd Apatow",
+        "Author (Last, First)": "Apatow, Judd",
+        "Publisher": "Random House Publishing Group",
+        "Year Published": "2016",
+        "Genre": "Humor",
+        "Summary": "NEW YORK TIMES BESTSELLER \u2022\u00a0NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE A.V. CLUB \u2022\u00a0Includes new interviews!From the writer and director of Knocked Up and the producer of Freaks and Geeks comes a collection of intimate, hilarious conversations with the biggest names in comedy from the past thirty years\u2014including Mel Brooks, Jerry Seinfeld, Jon Stewart, Sarah Silverman, Harold Ramis, Seth Rogen, Chris Rock, and Lena Dunham. Before becoming one of the most successful filmmakers in Hollywood, Judd Apatow was the original comedy nerd. At fifteen, he took a job washing dishes in a local comedy club\u2014just so he could watch endless stand-up for free. At sixteen, he was hosting a show for his local high school radio station in Syosset, Long Island\u2014a show that consisted of Q&As with his comedy heroes, from Garry Shandling to Jerry Seinfeld. They talked about their careers, the science of a good joke, and their dreams of future glory (turns out, Shandling was interested in having his own TV show one day and Steve Allen had already invented everything).Thirty years later, Apatow is still that same comedy nerd\u2014and he\u2019s still interviewing funny people about why they do what they do. Sick in the Head gathers Apatow\u2019s most memorable and revealing conversations into one hilarious, wide-ranging, and incredibly candid collection that spans not only his career but his entire adult life. Here are the comedy legends who inspired and shaped him, from Mel Brooks to Steve Martin. Here are the contemporaries he grew up with in Hollywood, from Spike Jonze to Sarah Silverman. And here, finally, are the brightest stars in comedy today, many of whom Apatow has been fortunate to work with, from Seth Rogen to Amy Schumer. And along the way, something kind of magical happens: What started as a lifetime\u2019s worth of conversations about comedy becomes something else entirely. It becomes an exploration of creativity, ambition, neediness, generosity, spirituality, and the joy that comes from making people laugh.Loaded with the kind of back-of-the-club stories that comics tell one another when no one else is watching, this fascinating, personal (and borderline-obsessive) book is Judd Apatow\u2019s gift to comedy nerds everywhere.Praise for Sick in the Head\u201cI can\u2019t stop reading it. . . . I don\u2019t want this book to end.\u201d\u2014Jimmy Fallon \u201cAn essential for any comedy geek.\u201d\u2014Entertainment Weekly \u201cFascinating . . . a collection of interviews with many of the great figures of comedy in the latter half of the twentieth century.\u201d\u2014The Washington Post \u201cOpen this book anywhere, and you\u2019re bound to find some interesting nugget from someone who has had you in stitches many, many times.\u201d\u2014Janet Maslin, The New York Times \u201cAn amazing read, full of insights and connections both creative and interpersonal.\u201d\u2014The New Yorker \u201cFascinating and revelatory.\u201d\u2014Chicago Tribune \u201cAnyone even remotely interested in comedy or humanity should own this book.\u201d\u2014Will Ferrell",
+        "Number of Pages": "576",
+        "ISBN": "9780812987287",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Stones from the River",
+        "Author": "Ursula Hegi",
+        "Author (Last, First)": "Hegi, Ursula",
+        "Publisher": "Poseidon Press",
+        "Year Published": "1994",
+        "Genre": "Fiction",
+        "Summary": "From the highly acclaimed, award-winning author of Floating in My Mother's Palm comes a major novel of Germany during the first half of the twentieth century. In historical scope, in moral complexity, in human drama, and in pure storytelling power, Stones from the River is a beautifully crafted and memorable book whose richly drawn characters stay with us long after we turn the last page. Trudi Montag is born during World War I in the small town of Burgdorf on the Rhein river. She is a Zwerg - a dwarf - short, squat, undesirable, different. All her life Trudi yearns to stretch and grow to be like everyone else. But as she matures to become the town's librarian and its unofficial historian, conscience, and purveyor of gossip, she comes to learn that - like the stones at the bottom of the river, which are seen only when one dives deep beneath its surface - being different is a secret everyone shares: her mother, who flees a betrayal into madness and early death; her widowed, celibate father, lame from one war, who attracts the fantasies of many townswomen; her friend Georg, whose mother pretends he's a girl; Hans Malter, the man who cannot acknowledge his feelings for Trudi; his daughter Hanna, who Trudi believes should have been her child; and especially the Jews and other \"undesirables\" Trudi harbors in her cellar during the Nazi regime. These secrets, which Trudi chooses to tell or to withhold like a master storyteller, reveal the truths of human existence in a complex and tumultuous period. The story of Trudi and the town of Burgdorf is timeless and unforgettable - the story of people both \"good\" and \"bad\", ordinary people living in an unforgiving time during which their actions, orinaction, will mark them forever. Trudi is the collective voice of all women who have tried to belong, to fit in. She is the grotesque in all of us, the courageous in all of us. Stones from the River is a moving novel about life during wartimes as well as the years in between. It is also a profound work of deep beauty, humanity, and truth.",
+        "Number of Pages": "507",
+        "ISBN": "9780671780753",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Tastes Like War",
+        "Subtitle": "A Memoir",
+        "Author": "Grace M. Cho",
+        "Author (Last, First)": "Cho, Grace M.",
+        "Publisher": "Feminist Press at The City University of New York",
+        "Year Published": "2021",
+        "Genre": "Biography & Autobiography",
+        "Summary": "Finalist for the 2021 National Book Award for Nonfiction Winner of the 2022 Asian/Pacific American Award in Literature A TIME and NPR Best Book of the Year in 2021 This evocative memoir of food and family history is \"somehow both mouthwatering and heartbreaking... [and] a potent personal history\" (Shelf Awareness). Grace M. Cho grew up as the daughter of a white American merchant marine and the Korean bar hostess he met abroad. They were one of few immigrants in a xenophobic small town during the Cold War, where identity was politicized by everyday details--language, cultural references, memories, and food. When Grace was fifteen, her dynamic mother experienced the onset of schizophrenia, a condition that would continue and evolve for the rest of her life. Part food memoir, part sociological investigation, Tastes Like War is a hybrid text about a daughter's search through intimate and global history for the roots of her mother's schizophrenia. In her mother's final years, Grace learned to cook dishes from her parent's childhood in order to invite the past into the present, and to hold space for her mother's multiple voices at the table. And through careful listening over these shared meals, Grace discovered not only the things that broke the brilliant, complicated woman who raised her--but also the things that kept her alive. \"An exquisite commemoration and a potent reclamation.\" --Booklist (starred review) \"A wrenching, powerful account of the long-term effects of the immigrant experience.\" --Kirkus Reviews",
+        "Number of Pages": "289",
+        "ISBN": "9781952177941",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "The Happiness of Pursuit",
+        "Subtitle": "Finding the Quest That Will Bring Purpose to Your Life",
+        "Author": "Chris Guillebeau",
+        "Author (Last, First)": "Guillebeau, Chris",
+        "Publisher": "Harmony/Rodale",
+        "Year Published": "2016",
+        "Genre": "Self-Help",
+        "Summary": "A remarkable guide to the quests that give our lives meaning\u2014and how to find your own\u2014from the New York Times bestselling author of The $100 Startup and 100 Side Hustles  \u00a0 \u201cIf you like complacency and mediocrity, do not read this book. It\u2019s dangerously inspiring.\u201d\u2014A. J. Jacobs, author of The Know-It-All  \u00a0 When he set out to visit all of the planet\u2019s countries by age thirty-five, compulsive goal-seeker Chris Guillebeau never imagined that his journey\u2019s biggest revelation would be how many people like himself exist\u2014each pursuing a challenging quest. These quests are as diverse as humanity itself, involving exploration, the pursuit of athletic or artistic excellence, or battling against injustice and poverty. Everywhere that Chris visited he found ordinary people working toward extraordinary goals, making daily down payments on their dreams. These \u201cquesters\u201d included a suburban mom pursuing a wildly ambitious culinary project, a DJ producing the world\u2019s largest symphony, a young widower completing the tasks his wife would never accomplish\u2014and scores of others writing themselves into the record books.  \u00a0 The more Chris spoke with these strivers, the more he began to appreciate the direct link between questing and long-term happiness, and he was compelled to complete a comprehensive study of the phenomenon. In The Happiness of Pursuit, he draws on interviews with hundreds of questers, revealing their secret motivations, their selection criteria, the role played by friends and family, their tricks for solving logistics, and the importance of documentation. Equally fascinating is Chris\u2019s examination of questing\u2019s other side. What happens after the summit is climbed, the painting hung, the endurance record broken, the at-risk community saved? \u00a0 A book that challenges each of us to take control\u2014to make our lives be about something while at the same time remaining clear-eyed about the commitment\u2014The Happiness of Pursuit will inspire readers of every age and aspiration. It\u2019s a playbook for making your life count.  \u00a0 \u201cThe Happiness of Pursuit is smart, honest, and dangerous. Why dangerous? Because it is as practical as it is inspiring. You won\u2019t just be daydreaming about your quest\u2014you\u2019ll be packing for it!\u201d\u2014Bren\u00e9 Brown, Ph.D., LMSW, author of Daring Greatly",
+        "Number of Pages": "320",
+        "ISBN": "9780385348867",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "The Hidden Persuaders",
+        "Author": "Vance Packard",
+        "Author (Last, First)": "Packard, Vance",
+        "Publisher": "Ig Pub.",
+        "Year Published": "2007",
+        "Genre": "Business & Economics",
+        "Summary": "\"One of the best books around for demystifying the deliberately mysterious arts of advertising.\"--Salon \"Fascinating, entertaining and thought-stimulating.\"--The New York Times Book Review \"A brisk, authoritative and frightening report on how manufacturers, fundraisers and politicians are attempting to turn the American mind into a kind of catatonic dough that will buy, give or vote at their command--The New Yorker Originally published in 1957 and now back in print to celebrate its fiftieth anniversary, The Hidden Persuaders is Vance Packard's pioneering and prescient work revealing how advertisers use psychological methods to tap into our unconscious desires in order to \"persuade\" us to buy the products they are selling. A classic examination of how our thoughts and feelings are manipulated by business, media and politicians, The Hidden Persuaders was the first book to expose the hidden world of \"motivation research,\" the psychological technique that advertisers use to probe our minds in order to control our actions as consumers. Through analysis of products, political campaigns and television programs of the 1950s, Packard shows how the insidious manipulation practices that have come to dominate today's corporate-driven world began. Featuring an introduction by Mark Crispin Miller, The Hidden Persuaders has sold over one million copies, and forever changed the way we look at the world of advertising. Vance Packard (1914-1996) was an American journalist, social critic, and best-selling author. Among his other books were The Status Seekers, which described American social stratification and behavior, The Waste Makers, which criticizes planned obsolescence, and The Naked Society, about the threats to privacy posed by new technologies.",
+        "Number of Pages": "240",
+        "ISBN": "9780978843106",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "The White Tiger",
+        "Subtitle": "Aravind Adiga",
+        "Author": "Aravind Adiga",
+        "Author (Last, First)": "Adiga, Aravind",
+        "Publisher": "Atlantic Books",
+        "Year Published": "2008",
+        "Genre": "Social conditions",
+        "Summary": "Balram Halwai is the White Tiger - the smartest boy in his village. His family is too poor for him to afford for him to finish school and he has to work in a teashop, breaking coals and wiping tables. But Balram gets his break when a rich man hires him as a chauffeur, and takes him to live in Delhi. The city is a revelation. As he drives his master to shopping malls and call centres, Balram becomes increasingly aware of immense wealth and opportunity all around him, while knowing that he will never be able to gain access to that world. As Balram broods over his situation, he realizes that.",
+        "Number of Pages": "321",
+        "ISBN": "9781843547204",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Water for Elephants",
+        "Subtitle": "A Novel",
+        "Author": "Sara Gruen",
+        "Author (Last, First)": "Gruen, Sara",
+        "Publisher": "Algonquin Books",
+        "Year Published": "2007",
+        "Genre": "Fiction",
+        "Summary": "Over 10,000,000 copies in print worldwide #1 New York Times Bestseller A Los Angeles Times Bestseller A Wall Street Journal Bestseller A Newsday Favorite Book of 2006 A USA Today Bestseller A Major Motion Picture starring Reese Witherspoon, Robert Pattinson, and Christoph Waltz  Jacob Janowski's luck had run out--orphaned and penniless, he had no direction until he landed on a rickety train that was home to the Benzini Brothers Most Spectacular Show on Earth. A veterinary student just shy of a degree, he was put in charge of caring for the circus menagerie. It was the Great Depression and for Jacob the circus was both his salvation and a living hell. There he met Marlena, the beautiful equestrian star married to August, the charismatic but brutal animal trainer. And he met Rosie, an untrainable elephant who was the great hope for this third-rate traveling show. The bond that grew among this group of misfits was one of love and trust, and ultimately, it was their only hope for survival.",
+        "Number of Pages": "350",
+        "ISBN": "9781565125605",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Where Chefs Eat",
+        "Subtitle": "A Guide to Chefs' Favorite Restaurants (2015)",
+        "Author": "Joe Warwick",
+        "Author (Last, First)": "Warwick, Joe",
+        "Publisher": "Phaidon Press",
+        "Year Published": "2015",
+        "Genre": "Cooking",
+        "Summary": "The completely revised new edition of the best\u2010selling restaurant guidebook, which sold over 100,000 copies.This is the ultimate restaurant guide written by the real experts: more than 600 of the world\u2019s best chefs, including recommendations from Ren\u00e9 Redzepi, David Chang, Jason Atherton, Shannon Bennett, Helena Rizzo, Massimo Bottura, Yotam Ottolenghi, Yoshihiro Narisawa and hundreds more. The book features more than 3,000 restaurants in more than 70 countries, including detailed city maps, reviews, reservation policies, key information and honest comments from the chefs themselves. Where Chefs Eat will once again be available as an App released to coincide with publication.",
+        "Number of Pages": "974",
+        "ISBN": "9780714868660",
+        "Shelf": "Cart"
+    },
+    {
+        "Title": "Wild at Heart",
+        "Subtitle": "America's Turbulent Relationship with Nature, from Exploitation to Redemption",
+        "Author": "Alice Outwater",
+        "Author (Last, First)": "Outwater, Alice",
+        "Publisher": "St. Martin's Press",
+        "Year Published": "2019",
+        "Genre": "Nature",
+        "Summary": "\"Through a narrative that roams in unexpected directions through surprising details and history, then periodically grounds itself by looping back to her own family before it soars off again, Alice Outwater\u2019s infectiously readable Wild at Heart captures the essence of ecology: Everything is connected, and every connection leads to ourselves.\" \u2014Alan Weisman, author, The World Without Us and Countdown  In the tradition of The World Without Us, a beautifully written and ultimately hopeful history of our relationship with the natural worldNature on the brink? Maybe not. With so much bad news in the world, we forget how much environmental progress has been made. In a narrative that reaches from Native American tribal practices to public health and commercial hunting, Wild at Heart shows how western attitudes towards nature have changed dramatically in the last five hundred years.The Chinook gave thanks for King Salmon's gifts. The Puritans saw Nature as a frightening wilderness, full of \"uncooked meat.\" With the industrial revolution, nature was despoiled and simultaneously celebrated as a source of the sublime. With little forethought and great greed, Americans killed the last passenger pigeon, wiped out the old growth forests, and dumped so much oil in the rivers that they burst into flame. But in the span of a few decades, our relationship with nature has evolved to a more sophisticated sense of interdependence that brings us full circle. Across the US, people are taking individual action, planting native species and fighting for projects like dam removal and wolf restoration. Cities are embracing nature, too.Humans can learn from the past, and our choices today will determine whether nature survives. Like the First Nations, all nations must come to deep agreement that nature needs protection. This compelling book reveals both how we got here and our own and nature's astonishing ability to mutually regenerate.",
+        "Number of Pages": "352",
+        "ISBN": "9781250085788",
+        "Shelf": "Cart"
     }
 ]
