@@ -5,11 +5,14 @@ import { useEffect, useState, useRef } from 'react';
 import Hamburger from './components/Hamburger';
 import Books from './Books';
 import AuthorList from './AuthorList';
+import Spotlight from './Spotlight';
 import GenreList from './GenreList';
+import Genre from './Genre';
 import Share from './Share';
 
 function App() {
   const [books, setBooks] = useState([]);
+  const [spotlight, setSpotlight] = useState([]);
   const [menuState, setMenuState] = useState(false);
   const [hamburgerClass, setHamburgerClass] = useState('hamburger-nav');
 
@@ -26,6 +29,19 @@ function App() {
           return titleA < titleB ? -1 : titleA > titleB ? 1 : 0;
         });
         setBooks(data);
+      });
+  }, []);
+
+  useEffect(() => {
+    fetch('/spotlight.json')
+      .then((res) => res.json())
+      .then((data) => {
+        data.sort((a, b) => {
+          const titleA = a.Title.replace(/^(the |a |an )/i, '').toLowerCase();
+          const titleB = b.Title.replace(/^(the |a |an )/i, '').toLowerCase();
+          return titleA < titleB ? -1 : titleA > titleB ? 1 : 0;
+        });
+        setSpotlight(data);
       });
   }, []);
 
@@ -106,8 +122,11 @@ function App() {
       <div className="container app-content">
         <Routes>
           <Route path="/" element={<Books books={books} />} />
+          <Route path="/spotlight" element={<Spotlight books={spotlight} />} />
+          <Route path="/books" element={<Books books={books} />} />
           <Route path="/authors" element={<AuthorList books={books} />} />
           <Route path="/genres" element={<GenreList books={books} />} />
+          <Route path="/genre/:genre" element={<Genre books={books} />} />
           <Route path="/share" element={<Share />} />
         </Routes>
       </div>

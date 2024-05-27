@@ -1,25 +1,30 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './GenreList.scss';
 
 const GenreList = ({ books }) => {
+    const navigate = useNavigate();
     const [selectedGenre, setSelectedGenre] = useState(null);
 
     const genresInfo = books.reduce((info, book) => {
-        const genre = book.Genre;
-        if (!info[genre]) {
-            info[genre] = {
-                count: 0,
-                books: []
-            };
-        }
-        info[genre].count++;
-        info[genre].books.push({
-            title: book.Title,
-            author: book['Author (Last, First)'],
-            isbn: book.ISBN,
-            summary: book.Summary,
-            shelf: book.Shelf
-        });
+        Array.isArray(book['ai-genres']) && book['ai-genres'].forEach(genre => {
+            if (!info[genre]) {
+                info[genre] = {
+                    count: 0,
+                    books: []
+                };
+            }
+            info[genre].count++;
+            info[genre].books.push({
+                title: book.Title,
+                author: book['Author (Last, First)'],
+                isbn: book.ISBN,
+                summary: book.Summary,
+                aiSummary: book['ai-summary'],
+                aiReview: book['ai-review'],
+                shelf: book.Shelf
+            });
+        })
         return info;
     }, {});
 
@@ -31,7 +36,7 @@ const GenreList = ({ books }) => {
                 <li key={genre}>
                     <a
                         href="#!"
-                        onClick={() => setSelectedGenre(selectedGenre === genre ? null : genre)}
+                        onClick={() => { navigate(`/genre/${encodeURIComponent(genre)}`) }}
                     >
                         {genre} ({genresInfo[genre].count})
                     </a>
