@@ -710,7 +710,6 @@
         "ai-review": "McCarthy's lyrical prose and evocative storytelling capture the essence of the American West. A powerful tale of friendship, love, and the timeless allure of the frontier.",
         "ai-genres": [
             "Adventure Novel",
-            "Western",
             "General Fiction"
         ]
     },
@@ -3341,7 +3340,6 @@
         "ai-review": "'I Don't Care If We Never Get Back' is a delightful travelogue and coming-of-age story that combines baseball fandom, friendship, and adventure into an engaging and enjoyable read for sports enthusiasts and armchair travelers alike.",
         "ai-genres": [
             "Travel",
-            "Sports",
             "Humor"
         ]
     },
@@ -3777,8 +3775,7 @@
         "ai-review": "Stevenson's narrative is a searing indictment of systemic injustice and a testament to the resilience of the human spirit, offering hope and inspiration in the face of adversity.",
         "ai-genres": [
             "Biography/Autobiography",
-            "True Crime",
-            "Social Issues"
+            "True Crime"
         ]
     },
     {
@@ -4696,7 +4693,7 @@
         "ai-summary": "Follows the life of a young African American man in Chicago and his struggles against racial prejudice and societal barriers.",
         "ai-review": "A powerful and groundbreaking novel that addresses issues of race, identity, and social justice with raw honesty and emotional depth.",
         "ai-genres": [
-            "Social Justice"
+            "General Fiction"
         ]
     },
     {
@@ -4788,8 +4785,7 @@
         "ai-summary": "Follows the lives of a diverse group of characters in a small town, exploring themes of community, change, and resilience.",
         "ai-review": "A poignant and insightful novel that offers a glimpse into the complexities of human relationships and the dynamics of rural life.",
         "ai-genres": [
-            "General Fiction",
-            "Social Commentary"
+            "General Fiction"
         ]
     },
     {
@@ -5847,8 +5843,7 @@
         "ai-summary": "A scientific exploration of the evolution of bird of paradise displays and the role of sexual selection in nature.",
         "ai-review": "Fascinating and beautifully written, this book sheds light on the wonders of nature and evolution.",
         "ai-genres": [
-            "Science/Nature",
-            "General Non-Fiction"
+            "Wine/Cooking"
         ]
     },
     {
@@ -5887,7 +5882,7 @@
         "ai-review": "Benchley's firsthand experiences offer a captivating look at these misunderstood creatures of the sea.",
         "ai-genres": [
             "Biography/Autobiography",
-            "Science/Nature"
+            "Science"
         ]
     },
     {
@@ -7261,7 +7256,6 @@
         "ai-summary": "A gripping YA thriller where a teenage girl must survive in an underground bunker with dark secrets.",
         "ai-review": "S. A. Bodeen delivers a tense and suspenseful story that keeps readers guessing until the very end.",
         "ai-genres": [
-            "Young Adult",
             "Mystery/Suspense"
         ]
     },
@@ -7612,8 +7606,7 @@
         "ai-summary": "John Feinstein provides an inside look at the professional golf world through the career of Tiger Woods, delving into the highs and lows of the legendary golfer's journey.",
         "ai-review": "A fascinating and well-researched exploration of Tiger Woods' impact on golf and culture, offering insights into the complexities of fame and athletic greatness.",
         "ai-genres": [
-            "Biography/Autobiography",
-            "Sports"
+            "Biography/Autobiography"
         ]
     },
     {
@@ -7833,7 +7826,7 @@
         "ai-summary": "A clear and comprehensive guide to the fundamental teachings of Buddhism, offering insights into mindfulness and compassion.",
         "ai-review": "An enlightening and practical book that distills the essence of Buddhist philosophy for everyday living.",
         "ai-genres": [
-            "Religion/Spirituality",
+            "Spirituality",
             "Self-Help/Personal Development"
         ]
     },
@@ -7888,8 +7881,7 @@
         "ai-summary": "A guide to vegetarianism and the spiritual benefits of a plant-based diet, inspired by the teachings of the Bhagavad Gita.",
         "ai-review": "An insightful exploration of the connection between food, ethics, and spiritual well-being, advocating for a compassionate lifestyle.",
         "ai-genres": [
-            "Lifestyle/Health",
-            "Religion/Spirituality"
+            "Lifestyle/Health"
         ]
     },
     {
@@ -8807,7 +8799,7 @@
         "ai-summary": "A companion for readers interested in exploring the culture, literature, and history of Ireland.",
         "ai-review": "The Reader's Companion to Ireland offers a wealth of knowledge and insights into the multifaceted aspects of Irish heritage, making it an invaluable guide.",
         "ai-genres": [
-            "Travel/History"
+            "Travel"
         ]
     },
     {
@@ -8915,7 +8907,7 @@
         "ai-summary": "An extensive travel guide covering Australia's diverse attractions, regions, and travel tips.",
         "ai-review": "The Rough Guide to Australia serves as an indispensable companion for travelers seeking comprehensive information and expert recommendations on exploring the vast continent.",
         "ai-genres": [
-            "Travel/Guidebook"
+            "Travel"
         ]
     },
     {
@@ -8983,7 +8975,7 @@
         "ai-summary": "A satirical novel that critiques race relations and societal norms in contemporary America.",
         "ai-review": "The Sellout pushes boundaries with its razor-sharp wit and provocative commentary, challenging readers to confront uncomfortable truths with humor and insight.",
         "ai-genres": [
-            "Satire/Contemporary"
+            "Satire"
         ]
     },
     {
@@ -10313,8 +10305,7 @@
         "ai-summary": "Julie Otsuka weaves a poignant narrative of a Japanese-American family's experience during the internment of Japanese-Americans in the United States during World War II.",
         "ai-review": "A haunting and beautifully written novel that captures the emotional turmoil and resilience of a family torn apart by wartime atrocities.",
         "ai-genres": [
-            "Historical Fiction",
-            "War"
+            "Historical Fiction"
         ]
     },
     {
@@ -10332,7 +10323,7 @@
         "ai-summary": "Fred Pearce examines the global water crisis, warning of the impending challenges and consequences of water scarcity in a world facing environmental degradation.",
         "ai-review": "An eye-opening exploration of the looming water crisis and the urgent need for sustainable water management practices to secure our future.",
         "ai-genres": [
-            "Science/Environment",
+            "Science",
             "General Non-Fiction"
         ]
     },
@@ -10385,7 +10376,7 @@
         "ai-summary": "Peter Benchley dives into the world of sharks, exploring their behavior, interactions with humans, and the mysteries surrounding these majestic predators.",
         "ai-review": "A fascinating and informative book that delves deep into the realm of sharks, dispelling myths and highlighting the importance of conservation efforts.",
         "ai-genres": [
-            "Science/Nature",
+            "Science",
             "General Non-Fiction"
         ]
     },
@@ -11559,7 +11550,7 @@
         "Summary": "The New York Times and USA Today bestseller! This eye-opening book challenges you to do the essential work of unpacking your biases, and helps white people take action and dismantle the privilege within themselves so that you can stop (often unconsciously) inflicting damage on people of color, and in turn, help other white people do better, too.\"Layla Saad is one of the most important and valuable teachers we have right now on the subject of white supremacy and racial injustice.\"--New York Times bestselling author Elizabeth GilbertBased on the viral Instagram challenge that captivated participants worldwide, Me and White Supremacy takes readers on a 28-day journey, complete with journal prompts, to do the necessary and vital work that can ultimately lead to improving race relations.Updated and expanded from the original workbook (downloaded by nearly 100,000 people), this critical text helps you take the work deeper by adding more historical and cultural contexts, sharing moving stories and anecdotes, and including expanded definitions, examples, and further resources, giving you the language to understand racism, and to dismantle your own biases, whether you are using the book on your own, with a book club, or looking to start family activism in your own home.This book will walk you step-by-step through the work of examining: Examining your own white privilegeWhat allyship really meansAnti-blackness, racial stereotypes, and cultural appropriationChanging the way that you view and respond to raceHow to continue the work to create social changeAwareness leads to action, and action leads to change. For readers of White Fragility, White Rage, So You Want To Talk About Race, The New Jim Crow, How to Be an Anti-Racist and more who are ready to closely examine their own beliefs and biases and do the work it will take to create social change.\"Layla Saad moves her readers from their heads into their hearts, and ultimately, into their practice. We won't end white supremacy through an intellectual understanding alone; we must put that understanding into action.\"--Robin DiAngelo, author of New York Times bestseller White Fragility",
         "Number of Pages": "238",
         "ISBN": "9781728209807",
-        "Shelf": "Cart",
+        "Shelf": "Cart"
     },
     {
         "Title": "Norwegian Wood",
