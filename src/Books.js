@@ -19,8 +19,8 @@ const Books = ({ books }) => {
         return (item) => {
             const searchFor = str.toLowerCase();
 
-            const author = item['Author (Last, First)'];
-            const title = item.Title;
+            const author = item.Author || item['Author (Last, First)'] || '';
+            const title = item.Title || '';
             const searchFields = [title.toLowerCase(), author.toLowerCase()];
 
             let filtered = false;
