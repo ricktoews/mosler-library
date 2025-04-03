@@ -67,13 +67,13 @@ const ShelfSelector = ({ shelfFilter }) => {
     }
   }
 
-  const floorClassName = location === 'Floor' ? 'shelf-on' : 'shelf-off';
+  const floorClassName = location === 'Stand' ? 'shelf-on' : 'shelf-off';
   const cartClassName = location === 'Cart' ? 'shelf-on' : 'shelf-off';
   return (
     <div style={styles.grid}>
       <div className="extras" style={styles.extras}>
         <button style={styles.button} className={cartClassName} data-btn='Cart' onClick={handleShelfButton}>Cart</button>
-        <button style={styles.button} className={floorClassName} data-btn='Floor' onClick={handleShelfButton}>Floor</button>
+        <button style={styles.button} className={floorClassName} data-btn='Stand' onClick={handleShelfButton}>Stand</button>
       </div>
       {rows.map(row =>
         cols.map(col => {
